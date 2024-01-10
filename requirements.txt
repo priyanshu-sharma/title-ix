@@ -1,0 +1,7 @@
+black
+ipython
+ipython-genutils
+jedi
+pandas
+pre-commit
+python-json-loggerbl
