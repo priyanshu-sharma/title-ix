@@ -1,0 +1,9 @@
+black
+fastapi
+ipython
+ipython-genutils
+jedi
+pandas
+pre-commit
+python-json-logger
+uvicorn
