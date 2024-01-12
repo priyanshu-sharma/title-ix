@@ -6,6 +6,7 @@ ipython
 ipython-genutils
 jedi
 pandas
+poetry
 pre-commit
 # pyautogen==0.2.0
 PyPDF2<3.0
