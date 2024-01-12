@@ -1,9 +1,12 @@
 black
+bs4
 fastapi
 ipython
 ipython-genutils
 jedi
 pandas
 pre-commit
+PyPDF2<3.0
 python-json-logger
+requests
 uvicorn
