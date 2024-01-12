@@ -5,6 +5,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Output directory
+src/crawler/dataset_domain/output/
+src/crawler/dataset_domain/test_data.csv
+
 # C extensions
 *.so
 
