@@ -8,6 +8,7 @@ __pycache__/
 # Output directory
 # src/crawler/dataset_domain/output/
 src/crawler/dataset_domain/test_data.csv
+src/crawler/dataset_domain/docs/
 
 # C extensions
 *.so

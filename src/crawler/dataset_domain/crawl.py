@@ -1,6 +1,7 @@
 import logging
 import requests
 import PyPDF2
+import docx2txt
 from io import BytesIO
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -13,6 +14,12 @@ class Crawl:
         self.csv_data = pd.read_csv(csv_path)
         logger.info("columns - {}".format(self.csv_data.columns))
         logger.info(self.csv_data.head())
+        self.url_map = {
+            'https://www.twc.texas.gov/sites/default/files/vr/docs/title-ix-procedure-manual-twc.docx': 'docs/texas_6.docx'
+        }
+        self.starting_state = self.csv_data['state'][0]
+        self.formatted_data = self.title_and_info(self.csv_data['state'][0], self.csv_data['color'][0])
+        print(self.formatted_data)
         self.crawl()
 
     def clean_and_add_data(self, text_data):
@@ -74,28 +81,39 @@ class Crawl:
                     print(e)
         return children_data
 
+    def title_and_info(self, state, color):
+        party = 'Democratic' if color == 'blue' else 'Republic'
+        format_header = "TITLE - {} TITLE IX DOCUMENTATION\n\n{} State ({} Region)\n\n".format(state.upper(), party, color)
+        return format_header
+
     def crawl(self):
         for index, row in self.csv_data.iterrows():
+            if row['state'] != self.starting_state:
+                with open('output/{}.txt'.format(self.starting_state), "w", encoding="utf-8") as f:
+                    f.write(self.formatted_data)
+                self.starting_state = row['state']
+                self.formatted_data = self.title_and_info(row['state'], row['color'])
             if row['type'] == 'pdf':
-                formatted_data = ''
                 raw_child_data = requests.get(row['url']).content
                 with BytesIO(raw_child_data) as data:
                     read_pdf = PyPDF2.PdfFileReader(data)
                     for page in range(read_pdf.getNumPages()):
-                        formatted_data = formatted_data + read_pdf.getPage(page).extractText()
-                logger.info("Formatted Child Data - {}".format(formatted_data))
+                        self.formatted_data = self.formatted_data + read_pdf.getPage(page).extractText()
+                logger.info("Formatted Child Data - {}".format(self.formatted_data))
             elif row['type'] == 'docs':
-                continue
+                file = self.url_map[row['url']]
+                self.formatted_data = self.formatted_data + docx2txt.process(file)
             else:
                 html_page = requests.get(row['url']).text
                 soup = BeautifulSoup(html_page, 'html.parser')
                 text_data = soup.text.strip()
-                formatted_data = self.clean_and_add_data(text_data)
+                format_data = self.clean_and_add_data(text_data)
                 link_list = soup.find_all("a")
                 child_data = self.get_child_link_data(link_list)
-                formatted_data = formatted_data + child_data
-            with open('output/{}_{}.txt'.format(row['state'], row['id']), "w", encoding="utf-8") as f:
-                f.write(formatted_data)
+                self.formatted_data = self.formatted_data + format_data + child_data
+        logger.info("Formatted Child Data - {}".format(self.formatted_data))
+        with open('output/{}.txt'.format(self.starting_state), "w", encoding="utf-8") as f:
+            f.write(self.formatted_data)
 
-csv_path = 'test_data.csv'
+csv_path = 'data.csv'
 crawl = Crawl(csv_path)

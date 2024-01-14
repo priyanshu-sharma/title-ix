@@ -1,11 +1,13 @@
 black
 bs4
+docx2txt
 fastapi
 ipython
 ipython-genutils
 jedi
 pandas
 pre-commit
+# pyautogen==0.2.0
 PyPDF2<3.0
 python-json-logger
 requests

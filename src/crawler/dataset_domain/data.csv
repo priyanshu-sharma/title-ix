@@ -1,19 +1,19 @@
-id,state,searched term,primary link,url,type
-1,california,"title ix california gov","https://www.cde.ca.gov/","https://www.cde.ca.gov/re/di/eo/genequitytitleix.asp#:~:text=Title%20IX%20is%20a%20federal,sex%20(including%20sexual%20harassment).",html
-2,california,"title ix california gov","https://www.cde.ca.gov/","https://www.cde.ca.gov/re/di/eo/sb1375crnt.asp",html
-3,texas,"title ix texas gov","https://www.highered.texas.gov/","https://reportcenter.highered.texas.gov/Training-materials/FAQ-title-ix-mandatory-reporting/",pdf
-4,texas,"title ix texas gov","https://www.highered.texas.gov/","https://reportcenter.highered.texas.gov/training-materials/handouts/title-ix-rules/",pdf
-5,texas,"title ix texas gov","https://www.twc.texas.gov/","https://www.twc.texas.gov/programs/vocational-rehabilitation/title-ix-coordinator",html
-6,texas,"title ix texas gov","https://www.twc.texas.gov/","https://www.twc.texas.gov/sites/default/files/vr/docs/title-ix-procedure-manual-twc.docx",docs
-7,texas,"title ix texas gov","https://www.highered.texas.gov/","https://www.highered.texas.gov/our-work/supporting-our-institutions/training/title-ix-coordinator-training/",html
-8,new_york,"title ix new york gov","https://www.schools.nyc.gov/","https://www.schools.nyc.gov/about-us/policies/non-discrimination-policy/title-ix",html
-9,new_york,"title ix new york gov","https://www.nysed.gov/","https://www.nysed.gov/sites/default/files/article-129-b-guidance.pdf",pdf
-10,new_york,"title ix new york gov","https://www.health.ny.gov/","https://www.health.ny.gov/prevention/sexual_violence/docs/regulations.pdf",pdf
-11,new_york,"title ix new york gov","https://www.schools.nyc.gov/","https://www.schools.nyc.gov/about-us/policies/non-discrimination-policy",html
-12,new_york,"title ix new york gov","https://www.ny.gov/","https://www.ny.gov/programs/combating-sexual-harassment-workplace",html
-13,utah,"title ix utah gov","https://schools.utah.gov/","https://schools.utah.gov/educationalequity/titleix.php",html
-14,utah,"title ix utah gov","https://le.utah.gov/","https://le.utah.gov/xcode/Title9/9.html",html
-15,utah,"title ix utah gov","https://le.utah.gov/","https://le.utah.gov/interim/2023/pdf/00002776.pdf",pdf
-16,utah,"title ix utah gov","https://www.utah.gov/","https://www.utah.gov/pmn/files/822179.pdf",pdf
-17,utah,"title ix utah gov","https://www.utah.gov/","https://www.utah.gov/pmn/files/873289.pdf",pdf
-18,utah,"title ix utah gov","https://le.utah.gov/","https://le.utah.gov/xcode/Title53G/Chapter8/53G-8-S802.html",html
+id,state,searched term,primary link,url,type,color
+1,california,"title ix california gov","https://www.cde.ca.gov/","https://www.cde.ca.gov/re/di/eo/genequitytitleix.asp#:~:text=Title%20IX%20is%20a%20federal,sex%20(including%20sexual%20harassment).",html,Blue
+2,california,"title ix california gov","https://www.cde.ca.gov/","https://www.cde.ca.gov/re/di/eo/sb1375crnt.asp",html,Blue
+3,texas,"title ix texas gov","https://www.highered.texas.gov/","https://reportcenter.highered.texas.gov/Training-materials/FAQ-title-ix-mandatory-reporting/",pdf,Red
+4,texas,"title ix texas gov","https://www.highered.texas.gov/","https://reportcenter.highered.texas.gov/training-materials/handouts/title-ix-rules/",pdf,Red
+5,texas,"title ix texas gov","https://www.twc.texas.gov/","https://www.twc.texas.gov/programs/vocational-rehabilitation/title-ix-coordinator",html,Red
+6,texas,"title ix texas gov","https://www.twc.texas.gov/","https://www.twc.texas.gov/sites/default/files/vr/docs/title-ix-procedure-manual-twc.docx",docs,Red
+7,texas,"title ix texas gov","https://www.highered.texas.gov/","https://www.highered.texas.gov/our-work/supporting-our-institutions/training/title-ix-coordinator-training/",html,Red
+8,new_york,"title ix new york gov","https://www.schools.nyc.gov/","https://www.schools.nyc.gov/about-us/policies/non-discrimination-policy/title-ix",html,Blue
+9,new_york,"title ix new york gov","https://www.nysed.gov/","https://www.nysed.gov/sites/default/files/article-129-b-guidance.pdf",pdf,Blue
+10,new_york,"title ix new york gov","https://www.health.ny.gov/","https://www.health.ny.gov/prevention/sexual_violence/docs/regulations.pdf",pdf,Blue
+11,new_york,"title ix new york gov","https://www.schools.nyc.gov/","https://www.schools.nyc.gov/about-us/policies/non-discrimination-policy",html,Blue
+12,new_york,"title ix new york gov","https://www.ny.gov/","https://www.ny.gov/programs/combating-sexual-harassment-workplace",html,Blue
+13,utah,"title ix utah gov","https://schools.utah.gov/","https://schools.utah.gov/educationalequity/titleix.php",html,Red
+14,utah,"title ix utah gov","https://le.utah.gov/","https://le.utah.gov/xcode/Title9/9.html",html,Red
+15,utah,"title ix utah gov","https://le.utah.gov/","https://le.utah.gov/interim/2023/pdf/00002776.pdf",pdf,Red
+16,utah,"title ix utah gov","https://www.utah.gov/","https://www.utah.gov/pmn/files/822179.pdf",pdf,Red
+17,utah,"title ix utah gov","https://www.utah.gov/","https://www.utah.gov/pmn/files/873289.pdf",pdf,Red
+18,utah,"title ix utah gov","https://le.utah.gov/","https://le.utah.gov/xcode/Title53G/Chapter8/53G-8-S802.html",html,Red

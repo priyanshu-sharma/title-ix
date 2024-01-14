@@ -1,4 +1,1686 @@
-Title IX Coordinator Training - Texas Higher Education Coordinating Board
+TITLE - TEXAS TITLE IX DOCUMENTATION
+
+Republic State (Red Region)
+
+Page 1 of 6 
+ Frequently Asked Questions – THECB Title IX Training  
+SB 212 and HB  1735, 86th Legislature 
+Texas Education Code, Chapter 51, Subchapters E -2 and E -3 
+As of April 13, 2020 
+The Texas Higher Education Coordinating Board (THECB) adopted  Title IX t raining materials and 
+administrative reporting templates1 from the Title IX Training Advisory Committee (“Committee”) in 
+accordance with  SB 212 & HB 1735, passed by  the 86th Texas Legislative and signed into law last year. 
+Since then, the THECB has received questions related to the laws and how to  apply  them  to Title IX -
+related institutional policies, processes, and procedures. The following FAQ’s are based on the questions 
+received by  the THECB .  The responses have been reviewed, revised and approved by  the Committee.  
+ 
+REPORTING REQUIREMENTS -  WHO MUST REPORT AN INCIDENT OF SEXUAL 
+MISCONDUCT  
+ 
+1. Are university peace officers  required to report to the Title IX Coordinator? If yes, when and 
+under what circumstances?  
+ 
+ANSWER:  Yes. There is no reporting exemption in the Texas statute for certified peace officers. Peace 
+officers are required to promptly report to the Title IX Coordinator when they witness or receive information (e.g. police report) that the peace officer “ reasonably believe s
+2 constitutes sexual 
+harassment, sexual assault, dating violence, or stalking”3. However, Title IX coordinators should be 
+sensitive to cases involving a potential or active criminal investigation and temporarily delay actions that 
+may impede or prejudice a criminal investigation and rights of the parties involved.  
+ 
+2. What if two employees receive the same information about an alleged incident of  reportable 
+conduct  (e.g. sexual harassment, sexual assault, dating violence, or stalking) , and only one of the 
+employees submits a report to the Title IX Coordinator ? Is the “non- reporting”  employee  
+automatically investigated for allegedly failing to report  to the Title IX Coordinator?  
+ 
+ANSWER:  No.  When it is alleged that  an employee  did  not promptly report to the Title IX Coordinator , 
+the Title IX Coordinator should review the initial report submitted on the alleged incident and any 
+relevant  information of the alleged failure to report, u sing a “reasonable person standard” to determine 
+if a referral should be made to proper authoritie s for possible prosecution.   The Title IX Coordinator’s 
+review should consider circumstances in which two or more employees receive the information 
+simultaneously or in the course of providing services for which multiple reports are not required by law, 
+e.g.  counsel ing center receptionist, case worker, and counselor.   
+ 
+ 
+1 THECB Title IX Training  
+2 See Reporting Required for Certain Incidents in Tex. Edu . Code, Section 51.252(a)  
+3 See Definitions in Tex. Edu. Code, Section 51.251  Page 2 of 6 
+ 3. Financial aid staff  receive financial aid applications, appeal requests, and other types of financial 
+aid information in which students might disclose “sexual trauma” or other alleged inci dents of 
+reportable conduct as an explanation for financial need, financial aid appeals, etc. A re financial 
+aid staff  required to report to the Title IX Coordinator ?  
+ 
+ANSWER:  Yes. The law applies  to financial aid employees in the course and scope of employment4 of 
+postsecondary educational institutions.  Such employees should be properly trained to understand and 
+act upon observing or receiving information on a reportable incident.   
+4. What if a student or employee discloses an alleged incident of repo rtable conduct to an 
+employee for purposes other than directly reporting an incident? Are there “ extenuating 
+circumstances ” that would exempt an employee from being required to report to the Title IX 
+Coordinator?  
+ANSWER:  No.  The law requires employees to  promptly report reportable incidents to the Title IX 
+Coordinator.   Students are not required to report incidents under the law.  
+5. Are university clergypersons  exempt from being required to report to the Title IX Coordinator? If 
+yes, under what circumstances?  
+ 
+ANSWER:   No. However, when clergy receive information constituting a reportable incident while acting 
+in their clergy capacity , they must promptly report only the type of i ncident and no other details 
+received from an individual providing the information with an expectation of confidentiality .  Clergy who 
+observe or receive information about a reportable incident when not acting in their clergy capacity, must report all rele vant information about the incident, as must most all other employees .  The same 
+exception applies to employees who have confidentiality or privilege duties under law, e.g. healthcare 
+providers and counselors .   
+6. Are employees required to report to the Titl e IX Coordinator if a report able  incident allegedly 
+occurred off campus ? Or what if the reported incident was allegedly committed by a non-
+affiliated person of the university ?  
+ANSWER:  Yes. If the reported incident is “alleged to have been committed by or against a person who 
+was a student enrolled at or an employee of the institution at the time of the [alleged] incident”5 must 
+promptly report to the Title IX Coordinator. The location or date of a reportable  incident does not 
+exempt the reporting duty.  Confidential reporting requirements are also still applicable6.   
+7. How  do the employee reporting requirements affect the  confidentiality and privacy of human 
+subjects in research studies ? 
+ANSWER:   Depending upon the terms and conditions of a project, r esea rchers may  enjoy confidential 
+status under law.   Institutions should confer with legal counsel for such determinations.  The institution 
+ 
+4 See Definitions in 19 Tex. Admin. Code Section 3.3; see also PPT, Slide 24 in THECB Title IX Training  
+5 See Reporting Required for Certain Incidents in Tex. Edu. Code, Section 51.252(a) ; see also PPT, Slide 24 in THECB 
+Title IX Training  
+6 See PPT, Slide 50 in THECB Title IX Training  Page 3 of 6 
+ may also  designate researchers “ with whom students may speak with confidentially ” 7 in the course of 
+participating as human subjects in research studies. If a researcher is designated as confidential, then 
+they would follow the reporting requirements of confidential employees8. If a researcher is not 
+designated confidential by the institution, then they are required to r eport to the Title IX Coordinator all 
+information known9.  
+   
+TITLE IX COORDINATOR AND CEO SUMMARY REPORTS  
+ 
+1.  Are institutions required to include reports submitted  to the Title IX Coordinator from January 1, 
+2020 (the effective date of the state statute) and later  on the Title IX Coordinator Report? Or are 
+institutions expected to include reports submitted to the Title IX Coordinator as of the start of the 
+Fall 2019 semester?  
+ANSWER:  Institutions  are required to include reports submitted to the Ti tle IX Coordinator from January 
+1, 2020  and later on a Title IX Coordinator Report10. The Title IX Coordinator Reports must be submitted 
+to the institution’s Chief Executive Officer  (CEO)  “not less that once every three months ”11.  
+ 
+2. Are institutions requir ed to include reports submitted directly by a complainant (alleged victim)  
+on the Title IX Coordinator Report, if no reports were submitted about this incident from 
+university employees?    
+ANSWER:  Institutions are required to include reports received from  “an employee  who witnesses or 
+receives information”12 regarding an alleged reportable incident . Institutions may, but are not required 
+to, include reports from non -employees, including students or third parties on a Title IX Coordinator 
+Report13.   
+3. Are institutions required to include reports submitted  from student employees  (e.g. resident 
+assistants) on the Title IX Coordinator Report?  And w hat are the administrative reporting 
+requirement s when an alleged incident is reported by a student employee  (e.g. resident 
+assistant) to the Title IX Coordinator?  
+ANSWER:   No.  Students who are enrolled at the institution are not subject the reporting requireme nts 
+of the new law. Moreover, any employee14 who is enrolled as a student at the institution is  not required 
+to report to the Title IX Coordinator . Institutions may, but are not required to, include reports from 
+students, including student employees.    
+ 
+7 See Reporting Required for Certain Incidents in Tex. Edu. Code, Section 51.252(c) ; see also PPT, Slide 39 and 43 in 
+THECB Title IX Training  
+8 See PPT, Slide 50 in THECB Title IX Training  
+9 See Reporting Required for Certain Incidents in Tex. Edu. Code, Section 51.252(b)  
+10 See Report Template Supplemental Training, Slide 4 in THECB Title IX Training  
+11 See Administrative Reporting Requirements in Tex. Edu. Code, Section 51.253(a)  
+12 See Reporting Required for Certain Incidents in Tex. Edu. Code, Section 51.252(a)  
+13 See Report Template Supplemental Training, Slide 11 in THECB Title IX Training  
+14 See Definitions in Tex. Edu. Code, Section 51.251; see also PPT, Slide 34 -35 in THECB Title IX Training  Page 4 of 6 
+ 4. How does the institution report on an Investigation or Disciplinary Status if there is no applicable 
+reason for an investigation or disciplinary process ? For example, how should an informal 
+resolution  or an investigation that was completed with a standard of evidence not met  be 
+reported on the Title IX Coordinator Report  or CEO Report ? 
+ANSWER:  When an investigation and/or disciplinary process is not applicable (e.g. inform al resolution) 
+for the report submitted to the Title IX Coordinator, institutions may  note on the Title IX Coordinator 
+Report that the Investigation Status and/or Disciplinary Status is “ not applicable15.”  
+Institutions can count non- applicable  investigations and disciplinary processes in “ Number of reports 
+under Section 51.252 for  which the institution determined not to initiate a disciplinary process16” on the 
+CEO Report (Summary Dat a Report).   
+ 
+5. Are institutions required to note which reports are confidential reports  on the Title IX 
+Coordinator Report?  
+ 
+ANSWER:  No.  However, it is recommended that reports  separately specify the number of confidential 
+reports received from confidential reporters.  Providing the number of  confidential reports may  provide  
+a more complete  context  to the report .  
+6. What is the difference between Table 1  (reports by employees) and Table 2  (reports about 
+employees) in Appendix A on the Title IX Coordinator Report Template?  
+ 
+ANSWER:  Table 1 captures  all reports received by an employee  who  “witnesses or receives information 
+[about an alleged incident] that the employee  reasonably believes [the alleged incident could] 
+constitute sexual harassment, sexual assault, dating violence, or stalking…”17. Table 2 captures all 
+reports received about an employee  who allegedly fails to report or falsely reports18 to the Title IX 
+Coordinator.  
+7. Are institutions required to incl ude reports of alleged incidents for employee -on-employee cases  
+in the Title IX Coordinator Report? What are the applicable case scenarios?  
+ANSWER : Yes.  The law terms a reportable incident as one that is “alleged to have been committed by or  
+against a person who was a student enrolled at or  an employee of the institution at the time of the 
+[alleged] incident”19.  
+ 
+8. Are institutions required to include reports of alleged “discrimination, ” “retaliation, ” 
+“harassment, ” and/or other conduct  on the Title IX Coordinator Report?  
+ 
+15 See Report Template Supplemental Training, Slide 73 -85 in THECB Title IX Training ; see also Title IX Coordinator 
+Report Template and CEO Report Temp late in THECB Title IX Training  
+16 See CEO Report Template in THECB Title IX Training ; see also Report Template Supplemental Training, Slide 37 in 
+THECB Title IX Training  
+17 See Reporting Required for Certain Incidents in Tex. Edu. Code, Section 51.252(a)  
+18 See Failure to Report or False Reports; Offenses in Tex. Edu. Code, Section 51.255  
+19 See Reporting Required for Certain Incidents in Tex. Edu. Code, Section 51.252(a) ; see also PPT, Slide 24 in THECB 
+Title IX Training  Page 5 of 6 
+  
+ANSWER:  Institutions are required to include reports of alleged “sexual harassment,” “sexual assault,” 
+“dating violence,” or “stalking”20 in the Title IX Coordinator Report. Institutions are not required to 
+include reports that do not meet the definitions of reportable conduct under the Texas statute.  
+ 
+9. The information in the Title IX Coordinator Report template footnotes states an incident should 
+not be included in the report  if it “does not constitute “sexual harassment,” “sexual assault,” 
+“dating violence,” or “stalking” as defined in the TEC, Section 51.251. Does this equal “ no policy 
+violation ?” 
+ 
+ANSWER :  A Title IX Coordinator determination that an alleged incident does constitute a reportable 
+incident does not equal a “no policy violation.”   Any such determination pertains solely to the 
+requirements of the new state law.   Violations of policy should be made in accordance with each 
+institution’s governance.  
+ 
+10. Are institutions required to include the complainant and respondent affiliation s of the institution  
+(e.g. student, employee, non -affiliated) on the Title IX Coordinator Report?   
+ 
+ANSWER:   No. Institutions are not required to include complainant and respondent affiliations of the 
+institution  and inclusion is not recommend ed.  For institutions with smaller caseloads, the more 
+information included on the Title IX Coordinator Report  may inadve rtently identify a person involved . 
+The Committee designed the Title IX Coordinator Report Template and CEO Report Template to 
+minimize report information included so that they remained unidentifiable, per confidentiality and 
+privacy restrictions21.  
+ 
+11. Are institutions required to use the Title IX Coordinator Report Template  and/or  CEO Report 
+Template ?  
+ 
+ANSWER:  No, institutions are not required to use the Title IX Coordinator Report Template and/or the 
+CEO Report Template. The Committee designed the Title IX Coordinator Report Template and CEO 
+Report Template to provide the statewide institutions a consistent way of meeting the Texas statute’s 
+administrative reporting requirements22.  
+12. How does the institution report on multiple reports  involving the s ame complainant and 
+respondent  on the Title IX Coordinator Report?  
+ 
+ANSWER:  When identifiable , institutions can consolidate duplicate reports (of the same alleged incident) 
+into one case number and count one time on the Title IX Coordinator Report23. Howe ver, if there are 
+multiple unique incidents alleged that involve the same complainant and respondent, then each alleged 
+incident  reported should be included separately on the Title IX Coordinator Report. If multiple reports 
+involving the same complainant and respondent  cannot be identified as the same alleged incident(s), 
+then the reports should be included separately on the Title IX Coordinator Report.  
+ 
+20 See Definitions in Tex. Ed u. Code, Section 51.251; see also PPT, Slide 9 -12 in THECB Title IX Training  
+21 See Confidentiality in 19 Tex. Admin. Code Section 3.17 ; see also PPT, Slide 53 -54 in THECB Title IX Training  
+22 See Administrative Reporting Requirements in Tex. Edu. Code, Section 51.253  
+23 See PPT, Slide 76 in THECB Title IX Training ; see also Report Template Supplemental Training, Slide 14- 16 in 
+THECB Title IX Training  Page 6 of 6 
+  
+13. Are institutions required to submit a Title IX Coordinator Report to the Chief Executive O fficer 
+(CEO) if since January 1, 2020, no reports were submitted to the Title IX Coordinator ?  
+ 
+ANSWER:  Yes, Title IX Coordinator Reports must be submitted to the institution’s Chief Executive Officer 
+(CEO) “not less that once every three months ,”24 regardless if no reported were submitted to the Title IX 
+Coordinator.  
+ 
+An example of “no reports” for the Title IX  Coordinator Report:  
+ 
+Table 1. Alleged Conduct Reported by Employees Under TEC, Section  51.252 
+Report  
+Number  Date 
+Received  Alleged Conduct 
+Reported by 
+Employees Under § 
+51.252  Investigation Status  Disciplinary Status  
+N/A N/A N/A N/A N/A 
+0 reports received for this time period.  
+ 
+14. Are institutions required to submit Title IX Coordinator Reports to THECB?  
+ANSWER:  No, the Title IX Coordinator Reports are required to be submitted to the institution’s Chief 
+Executive Officer (CEO)25. However, the CEO is required to certify in writing to the THECB the 
+institution’s substantial compliance with the Texas statute in October  of each year26.  
+ 
+24 See Administrative Reporting Requirements in Tex. Edu. Code, Section 51.253(a)  
+25 See Administrative Reporting Requirements in Tex. Edu. Code, Section 51.253(a) ; see also PPT, Slide 74 in THECB 
+Title IX Training  
+26 See Compliance in 19 Tex. Admin. Code Section 3.19 ; see also PPT, Slide 87 -88 in THECB Title IX Training  
+ Chapter 3, RULES APPLYING TO ALL PUBLIC AND PRIVATE OR INDEPENDENT INSTITUTIONS 
+OF HIGHER EDUCATION IN TEXAS REGARDING POLICIES FOR INCIDENTS OF SEXUAL 
+HARASSMENT, SEXUAL ASSAULT, DATING VIOLENCE, OR STALKING 1 
+Subchapter A,_[ELECTRONIC REPORTING AND AMNESTY FOR STUDENTS REPORTING CERTAIN 
+INCIDENTS] 
+3.11 [Purpose] 
+3.12 [Authority] 
+3.13 [Definitions] 
+3.14 [Electronic Reporting for Certain Incidents] 
+3.15 [Amnesty for Students Reporting Certain Incidents] 
+3.11 [Purpose] 
+[The purpose of this subchapter is to establish rules for postsecondary educational institutions 
+to provide an option for enrolled students and employees of the institution to electronically report 
+sexual harassment, sexual assault, dating violence, or stalking to the institution; and to provide 
+amnesty to enrolled students v1ho report incidents of sexual harassment, sexual assault, dating 
+violence, or stalking. The rules established in this subchapter do not supersede or replace state 
+or federal employment la'N.] 
+3.12 [Authority] 
+[Texas Education Code; Subchapter Z, Chapter 51, §51.9365 and §51.9366 authorize the 
+Texas Higher Education Coordinating Board to adopt rules necessary to administer Subchapter 
+Z, Chapter 51.] 
+3.13 [Definitions] 
+[(a) Dating violence abuse or violence, or a threat of abuse or violence, against a person 'i\'ith 
+'Nham the actor has or has had a social relationship of a romantic or intimate nature. 
+Sexual Misconduct Rules Revision 
+3.11-3.15 10.28.19 (b)Postsecondary educational institution an institution of higher education or a private or
+independent institution of higher education, as those terms are defined by Texas Education
+Code, §61.003.
+(c)Sexual assault sexual contact or intercourse •with a person '•'i'ithout the person's consent,
+including sexual contact or intercourse against the person's will or in a circumstance in ·which
+the person is incapable of consenting to the contact or intercourse.
+(d)Sexual harassment unwelcome, sex based verbal or physical conduct that:
+(1)in the employment context, unreasonably interferes with a person's 'll!'orl<
+performance or creates an intimidating, hostile, or offensive v�·ork environment; or
+(2)in the education context, is sufficiently severe, persistent, or pe�•asive that the
+conduct interferes with a student's ability to participate in or benefit from educational
+programs or activities at a postsecondary educational institution.
+(e)Stalking a course of conduct directed at a person that would cause a reasonable person to
+fear for the person's safety or to suffer substantial emotional distress.]
+3.14 [Electronic Reporting for Certain Incidents] 
+[(a) Each postsecondary educational institution shall provide an option for electronic reporting 
+to the institution by an enrolled student or an employee of the institution of an allegation of 
+sexual harassment, sexual assault, dating violence, or stalking committed against or witnessed 
+by the student or employee, regardless of the location at which the alleged offense occurred. 
+The electronic reporting option must: 
+(1)Allow for anonymous reporting; and
+(2)Be easily accessible via a clearly identifiable link on the institution's website home
+�2 
+(b)A protocol adopted pursuant to Texas Education Code §51.9363 for reporting sexual assault
+shall comply with subsection (a) of this section.
+(c)Institutions may contract with a third party vendor to provide the electronic reporting
+option.
+(d)Each public or private postsecondary educational institution shall provide the electronic
+reporting option by January 1, 2018.]
+3.15 [Amnesty for Students Reporting Certain Incidents] 
+[(a) A postsecondary educational institution may not take any disciplinary action against a 
+student enrolled at the institution who in good faith reports to the institution being the victim 
+Sexual Misconduct Rules Revision 
+3.11-3.15 10.28.19 3 
+of, or a witness to, an incident of sexual harassment, sexual assault, dating violence, or stalking 
+for a violation by the student of the institution's code of conduct occurring at or near the time 
+of the incident, regardless of the location at which the incident occurred or the outcome of the 
+institution's disciplinary process regarding the incident, if any. 
+(b)Subsection (a) of this section docs not apply to a student 1Nho reports the student's O'Nn
+commission or assistance in the commission of sexual harassment, sexual assault, dating
+violence, or stalking.
+(c)A postsecondary educational institution may investigate to determine 'Nhethcr a report of an
+incident of sexual harassment, sexual assault, dating violence, or stalking ..,,.as made in good
+faith. For the purposes of subsection (a) of this section, the institution has discretion to
+determine good faith, but in no event will good faith exist if the student is found responsible for
+sexual harassment, sexual assault, dating violence, or stalking at or near the time of the
+incident.
+(d)A determination that a student is entitled to amnesty under subsection (a) of this section is
+final and may not be revoked.
+(c)This section may not be construed to limit a postsecondary educational institution's ability to
+provide amnesty from application of the institution's policies in circumstances not described by
+subsection (a) of this section.]
+Sexual Misconduct Rules Revision 
+3.11-3.15 10.28.19 Chapter 3, RULES APPLYING TO ALL PUBLIC AND PRIVATE OR INDEPENDENT INSillUTIONS 
+OF HIGHER EDUCATION IN TEXAS REGARDING POLICIES FOR INCIDENTS OF SEXUAL 
+HARASSMENT, SEXUAL ASSAULT, DATING VIOLENCE, OR STALKING 
+Subchapter A, REQUIREMENTS FOR CERTAIN INCIDENTS OF SEXUAL HARASSMENT, SEXUAL 
+ASSAULT, DATING VIOLENCE, OR STALKING AT CERTAIN PUBLIC AND PRIVATE 
+INSillUTIONS OF HIGHER EDUCATION: AUTHORIZING ADMINISTRATIVE PENALTIES 
+3.1 Purpose 
+3.2 Authority 
+3.3 Definitions 
+3.4 Policy on Sexual Harassment, Sexual Assault, Dating Violence, and Stalking 
+3.5 Reporting Required for Certain Incidents 
+3.6 Administrative Reporting Requirements 
+3.7 Electronic Reporting Requirement 
+3.8 Failure to Report or False Report 
+3.9 Victim Request Not to Investigate 
+3.10 Disciplinary Process for Certain Violations 1 
+3.11 Student Withdrawal or Graduation Pending Disciplinary Charges: Request for Information 
+from Another Postsecondary Educational Institution 
+3.12 Trauma-I nformed Investigation Training 
+3.13 Memoranda of Understanding Required 
+3.14 Responsible and Confidential Employee 
+3.15 Student Advocate 
+3.16 Equal Access 
+3.17 Confidentiality 
+3.18 Retaliation Prohibited 
+3.19 Compliance 
+3.20 Applicability 
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 3.1 Purpose 
+The purpose of this subchapter is to establish rules to require public, private, and independent 
+institutions of higher education to report incidents of sexual harassment, sexual assault. dating 
+violence, and stalking; to adopt a policy on sexual harassment, sexual assault. dating violence, 
+and stalking: implement electronic reporting protocols for such incidents: develop a 
+comprehensive prevention and outreach program: establish penalties for noncompliance; and 
+provide amnesty or immunities to students and employees who report incidents of sexual 
+harassment. sexual assault. dating violence. and stalking. 
+3.2 Authority 
+Texas Education Code Subchapters E-2, Chapter 51, § 51.259 and Subchapter E-3, Chapter 51, 
+§51.295 authorize the Texas Higher Education Coordinating Board to adopt rules necessary to
+administer these Subchapters. 
+3.3 Definitions 
+(a)Coordinating Board or Board--The Texas Higher Education Coordinating Board.
+(b)Course and Scope of Employment--means an employee performing duties in the
+furtherance of the institution's interests. 
+(c)"Dating violence," "sexual assault." and "stalking" have the same meanings assigned by the
+Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act (20 U.S.C. 
+Section 1092 (f)(6)(A)). 
+(d)Postsecondary educational institution--an institution of higher education or a private or
+independent institution of higher education, as those terms are defined by Texas Education 
+Code, §61.003. 
+(e)Sexual harassment--unwelcome, sex-based verbal or physical conduct that:
+(1)in the employment context, unreasonably interferes with a person's work
+performance or creates an intimidating, hostile. or offensive work environment: or 
+(2)in the education context. is sufficiently severe, persistent, or pervasive that the
+conduct interferes with a student's ability to participate in or benefit from educational 
+programs or activities at a postsecondary educational institution. 
+(f)Substantial Compliance-a postsecondary educational institution has made a good faith
+effort to comply with the requirements under these rules provided that the deficiencies 
+identified by the Coordinating Board can be readily corrected. 
+3.4 Policy on Sexual Harassment. Sexual Assault. Dating Violence, and Stalking 2 
+(a)Each postsecondary educational institution shall adopt a policy on sexual harassment. sexual
+assault. dating violence, and stalking applicable to each enrolled student and employee of the 
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 3 
+institution and have the policy approved by the institution's governing body. The policy must 
+include: 
+(1)Definitions of prohibited behavior:
+(2)Sanctions for violations;
+(3)Protocol for reporting and responding to reports of sexual harassment, sexual
+assault, dating violence, and stalking that complies with the electronic reporting 
+requirement in Subsection 3.7 of this section; 
+( 4)Interim measures to protect victims of sexual harassment, sexual assault, dating
+violence, or stalking pending the institution's disciplinary process, including 
+protection from retaliation, and any other accommodations or supportive measures 
+available to those victims at the institution. This section is not intended to limit an 
+institution's ability to implement accommodations to others as needed; and 
+(5)A statement regarding:
+(A) 
+(B) 
+(C) the importance of a victim of sexual harassment, sexual assault, 
+dating violence, or stalking going to a hospital for treatment and 
+preservation of evidence, if applicable, as soon as practicable after 
+the incident; 
+the right of a victim of sexual harassment, sexual assault, dating 
+violence, or stalking to report the incident to the institution and to 
+receive a prompt and equitable resolution of the report; and 
+the right of a victim of a crime to choose whether to report the 
+crime to law enforcement, to be assisted by the institution in 
+reporting the crime to law enforcement, or to decline to report the 
+crime to law enforcement. 
+(b)Each postsecondary educational institution shall make its policy on sexual harassment,
+sexual assault, dating violence, and stalking available to students, faculty, and staff members 
+.QY.;_ 
+(1)including the policy in the student handbook and personnel handbook or the
+institution's equivalent(s); and 
+(2)creating and maintaining a web page dedicated solely to the policy that is easily
+accessible through a clearly identifiable link on the institution's homepage. 
+(c)Each postsecondary educational institution shall require each entering freshman or
+undergraduate transfer student to attend an orientation on the institution's sexual harassment, 
+sexual assault, dating violence, and stalking policy before or during the first semester or term of 
+enrollment at the institution. The orientation: 
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 4 
+(1)may be provided online: and
+(2)must include the statements described by Subsection (a)(S) of this section.
+(d)Each postsecondary educational institution shall develop and implement a comprehensive
+prevention and outreach program on sexual harassment. sexual assault. dating violence, and 
+stalking for enrolled students and employees of the institution. The program must: 
+(1)address a range of strategies to prevent sexual harassment. sexual assault. dating violence,
+and stalking, including a public awareness campaign; a victim empowerment program: primary 
+prevention: bystander intervention: and risk reduction, and 
+(2)provide students with information regarding the protocol for reporting incidents of sexual
+harassment. sexual assault. dating violence. and stalking, including the name, office location, and 
+contact information of the institution's Title IX coordinator. by: 
+(A) e-mailing the information to each student at the beginning of each semester
+or other academic term: 
+(8)including the information in the institution's orientation (which may be provided
+online): and 
+(C)as part of the protocol for responding to reports of sexual harassment. sexual
+assault. dating violence, and stalking adopted under Subsection (a), each 
+postsecondary educational institution shall: 
+(i) 
+(ii) to the greatest extent practicable based on the number of 
+counselors employed by the institution, ensure each alleged victim 
+or alleged perpetrator of a sexual harassment. sexual assault. 
+dating violence, and stalking incident and any other person who 
+reports such incidents are offered counseling provided by a 
+counselor who does not provide counseling to any other person 
+involved in the incident: and 
+notwithstanding any other law, allow an alleged victim or alleged 
+perpetrator of a sexual harassment. sexual assault. dating 
+violence, and stalking incident to drop a course in which both 
+parties are enrolled without any academic penalty. 
+(e)Each postsecondary educational institution shall review its sexual harassment, sexual
+assault. dating violence, and stalking policy at least each biennium and revise the policy as
+necessary and obtain approval from the institution's governing board.
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 3.5 Reporting Required for Certain Incidents 5 
+(a)An employee of a postsecondary educational institution who, in the course and scope of
+employment, witnesses or receives information regarding the occurrence of an incident that the 
+employee reasonably believes constitutes sexual harassment, sexual assault, dating violence, or 
+stalking and is alleged to have been committed by or against a person who was a student 
+enrolled at or an employee of the institution at the time of the incident shall promptly report the 
+incident to the institution's Title IX coordinator or deputy Title IX coordinator. 
+(1)The employee's duty to report an incident begins on the effective date of these
+regulations or January 1, 2020, whichever is later; 
+(2)The employee is required to report an incident regardless of when or where the
+incident occurred: and 
+(3)Institutions may establish additional reporting avenues to comply with this section
+provided that the reports are promptly routed to the Title IX coordinator or deputy Title
+IX coordinator.
+(b)Except as provided by Subsection (c), the report must include all information concerning
+the incident known to the reporting person that is relevant to the investigation and, if 
+applicable, redress of the incident, including whether an alleged victim has expressed a desire 
+for confidentiality in reporting the incident. 
+(c)In making a report under this section,
+(1)the employees of a postsecondary educational institution identified below
+shall only report as follows: 
+(A)absent consent from the reporting student, an employee designated by the
+institution as a person with whom students may speak confidentially concerning sexual 
+harassment, sexual assault, dating violence, or stalking shall only state the type of 
+incident reported and may not include any information that would violate a student's 
+expectation of privacy; 
+(B)absent consent from the reporting individual, an employee who receives
+information regarding an incident of sexual harassment, sexual assault, dating violence, 
+or stalking under circumstances that render the employee's communications confidential 
+or privileged under other law shall only state the type of incident reported and may not 
+include any information that would violate an expectation of privacy; or 
+(C)absent consent from the victim(s), an employee who receives information
+regarding an incident of sexual harassment, sexual assault, dating violence, or stalking 
+in the course and scope of employment as a healthcare provider, mental health care 
+provider, or other medical provider shall only state the type of incident reported and 
+may not include any information that would violate an expectation of privacy. 
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 6 
+(2)This subsection does not affect the employee's duty to report an incident under any
+other law, including but not limited to, the Jeanne Clery Disclosure of Campus Security 
+Policy and Campus Crime Statistics Act (20 U.S.C. Section 1092 (f)), Texas Family Code 
+Section 261.101, or Health and Safety Code Section 611.004. When multiple 
+confidential employees receive information about the same incident (e.g. student health 
+center or counseling center), only a single report stating the type of incident is required. 
+(d)Notwithstanding Subsection (a), a person is not required to make a report under this
+section concerning: 
+(1)an incident in which the person was a victim of sexual harassment, sexual assault,
+dating violence, or stalking: 
+(2)an incident of which the person received information due to a disclosure made at a
+sexual harassment, sexual assault, dating violence, or stalking public awareness event 
+sponsored by a postsecondary educational institution or by a student organization 
+affiliated with the institution: or 
+(3)a sexual harassment, sexual assault, dating violence, or stalking incident in which
+the person has either learned of the incident during the course of their institution's 
+review or process or has confirmed with the person or office overseeing the review or 
+process, that the incident has been previously reported. 
+(e)A person acting in good faith who reports or assists in the investigation of a report of an
+incident described by this section or who testifies or otherwise participates in a disciplinary 
+process or judicial proceeding arising from a report of such an incident may not be subjected to 
+any disciplinary action by the postsecondary educational institution at which the person is 
+enrolled or employed for any violation by the person of the institution's policy or code of 
+conduct reasonably related to the incident for which suspension or expulsion from the 
+institution is not a possible punishment. 
+(f)Subsection (e) does not apply to a person who perpetrates or assists in the perpetration of
+the incident reported under this section. 
+3.6 Administrative Reporting Requirements 
+(a)Not less than once every three months, the Title IX coordinator of a postsecondary
+educational institution shall submit to the institution's chief executive officer a written report 
+('Title IX Coordinator Report'') on the reports received for the institution's reporting period 
+under § 3.5, including information regarding: 
+(1)the investigation of those reports:
+(2)the disposition, if any, of any disciplinary processes arising from those reports: and
+(3)the reports for which the institution determined not to initiate a disciplinary
+process, if any. 
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 (b)The Title IX coordinator or deputy Title IX coordinator of a postsecondary educational
+institution shall immediately report to the institution's chief executive officer an incident 7 
+reported to the coordinator under § 3.5 if the coordinator has cause to believe that the safety of 
+any person is in imminent danger as a result of the incident. 
+(c)Subject to Subsection (d), at least once annually, during either the fall or spring semester,
+the chief executive officer of a postsecondary educational institution shall submit to the 
+institution's governing body and post on the institution's Internet website a report C'CEO 
+Report'') concerning the reports received under§ 3.5. The CEO report: 
+(1)may not identify any person: and
+(2)must include:
+(A)the number of reports received under § 3.5:
+(B)the number of investigations conducted as a result of those reports:
+(C)the disposition, if any. of any disciplinary processes arising from those
+reports: 
+(D)the number of those reports for which the institution determined not to
+initiate a disciplinary process, if any: and 
+(E)any disciplinary actions taken under § 3.8.
+(d)If for any semester a postsecondary educational institution has fewer than 1,500 enrolled
+students. the chief executive officer of the institution shall submit and post a report required 
+under Subsection (c) for that semester only if more than five reports were received under§ 3.5 
+during that semester. 
+(e)For purposes of this section, disposition means the final result under the institution's
+disciplinary process. 
+(f) For all reports under this section: 
+(1)When identifiable, reports may exclude duplicate reports of a single alleged incident:
+(2)Reports may separately specify the number of confidential reports received by
+employees designated under section 3.5(c): and 
+(3)The Coordinating Board shall make available to institutions a recommended template
+for the Title IX Coordinator Report and the CEO Report, which satisfies the reporting 
+requirements of this section. 
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 3.7 Electronic Reporting 
+Each postsecondary educational institution shall provide an option for a student enrolled at or 
+an employee of the institution to electronically report to the institution an allegation of sexual 
+harassment, sexual assault, dating violence, or stalking committed against or witnessed by the 
+student or employee, regardless of the location at which the alleged offense occurred. The 
+electronic reporting option must: 
+3.8 (1)Allow for anonymous reporting; and
+(2)Be easily accessible via a clearly identifiable link on the institution's website home
+� 
+Failure to Report or False Report 
+A postsecondary educational institution shall terminate the employment of an employee whom 
+the institution determines, in accordance with the institution's disciplinary procedure, to have 
+committed an offense under Texas Education Code Sec. 51.255. 
+3.9 Victim Request Not to Investigate 8 
+a)If an alleged victim of an incident of sexual harassment, sexual assault, dating violence, or
+stalking reported to a postsecondary educational institution requests the institution not to 
+investigate the alleged incident, the institution may investigate the alleged incident in a manner 
+that complies with the confidentiality requirements under Texas Education Code Section 51.291 
+and Section 3.17 of this Subchapter. In determining whether to investigate the alleged incident. 
+the institution shall consider: 
+(1)the seriousness of the alleged incident;
+(2)whether the institution has received other reports of sexual harassment.
+sexual assault, dating violence, or stalking committed by the alleged perpetrator 
+or perpetrators; 
+(3)whether the alleged incident poses a risk of harm to others; and
+(4)any other factors the institution determines relevant.
+(b)If a postsecondary educational institution decides not to investigate an alleged
+incident of sexual harassment. sexual assault. dating violence, or stalking based on the alleged 
+victim's request not to investigate, the institution shall take any reasonable steps the institution 
+determines necessary and consistent with the institution's policy and applicable law to protect the 
+health and safety of the institution's community in relation to the alleged incident. 
+(c)A postsecondary educational institution shall inform an alleged victim of an incident
+of sexual harassment. sexual assault. dating violence, or stalking who requests the institution not 
+to investigate the alleged incident of the institution's decision whether to investigate the alleged 
+incident. 
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 9 
+3.10 Disciplinary Process for Certain Violations 
+A postsecondary educational institution that initiates a disciplinary process concerning an 
+allegation that a student enrolled at the institution violated the institution's policy or code of 
+conduct by committing sexual harassment, sexual assault, dating violence, or stalking shall: 
+(1)provide to the student and the alleged victim a prompt and equitable
+opportunity to present witnesses and other evidence relevant to the alleged 
+violation during the disciplinary process; 
+(2)ensure that both the student and the alleged victim have reasonable and
+equitable access to all evidence relevant to the alleged violation in the institution's
+possession, including any statements made by the alleged victim or by other
+persons, information stored electronically, written or electronic communications,
+social media posts, or physical evidence, redacted as necessary to comply with any
+applicable federal or state law regarding confidentiality:
+and
+(3)take reasonable steps to protect the student and the alleged victim from
+retaliation and harassment during the pendency of the disciplinary process. 
+3.11 Student Withdrawal or Graduation Pending Disciplinary Charges: Request for Information 
+from Another Postsecondary Educational Institution 
+(a)If a student withdraws or graduates from a postsecondary educational institution pending a
+disciplinary charge alleging that the student violated the institution's policy or code of conduct by
+committing sexual harassment, sexual assault, dating violence, or stalking, the institution:
+(1)may not end the disciplinary process or issue a transcript to the student until
+the institution makes a final determination of responsibility: and 
+(2)shall expedite the institution's disciplinary process as necessary to
+accommodate both the student's and the alleged victim's interest in a speedy 
+resolution. 
+(b)On request by another postsecondary educational institution, a postsecondary educational
+institution shall, as permitted by state or federal law, including the Family Educational Rights and
+Privacy Act (FERPA), 20 U.S.C. 12329, provide to the requesting institution information relating
+to a determination by the institution that a student enrolled at the institution violated the
+institution's policy or code of conduct by committing sexual harassment, sexual assault, dating
+violence, or stalking.
+3.12 Trauma-Informed Investigation Training 
+A postsecondary educational institution shall ensure each of its employed peace officers 
+completes training on trauma-informed investigation into allegations of sexual harassment, sexual 
+assault, dating violence, and stalking. 
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 10 
+3.13 Memoranda of Understanding Required 
+To facilitate effective communication and coordination regarding allegations of sexual 
+harassment. sexual assault. dating violence, and stalking at the institution, a postsecondary 
+educational institution shall enter into one or more memoranda of understanding with an entity 
+from one or more of the following categories: 
+(1)local law enforcement agencies:
+(2)sexual harassment, sexual assault, dating violence. or stalking advocacy groups: and
+(3)hospitals or other medical resource providers.
+3.14 Responsible and Confidential Employee 
+(a)Each postsecondary educational institution shall:
+(1)designate:
+(A)one or more employees to act as responsible employees for purposes
+of Title IX of the Education Amendments of 1972 (20 U.S.C. Section 1681 
+et seq.): and 
+(B)one or more employees as persons to whom students enrolled at the
+institution may speak confidentially concerning sexual harassment, sexual 
+assault. dating violence, and stalking: and 
+(2)inform each student enrolled at the institution of the responsible and
+confidential employees designated under Subsection (1). 
+(b)A confidential employee designated under Subsection (a)(l)(B) may not disclose any
+communication made by a student to the employee unless the student consents to the disclosure 
+or the employee is required to make the disclosure under Section 3.S(c). state law, or federal 
+law. 
+3.15 Student Advocate 
+(a)A postsecondary educational institution may designate one or more students enrolled at the
+institution as student advocates to whom other students enrolled at the institution may speak 
+confidentially concerning sexual harassment. sexual assault, dating violence, and stalking. The 
+institution shall notify each student enrolled at the institution of the student advocate(s) 
+designated under this subsection. 
+(b)A student advocate designated under Subsection (a) may not disclose any communication
+made by a student to the advocate unless the student consents to the disclosure or the advocate
+is required to make the disclosure under state or federal law.
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 11 
+3.16 Equal Access 
+In implementing the requirements under this subchapter. a postsecondary educational institution 
+shall. to the greatest extent practicable, ensure equal access for students enrolled at or employees 
+of the institution who are persons with disabilities. The institution shall make reasonable efforts 
+to consult with a disability services office of the institution, advocacy groups for people with 
+disabilities. and other relevant stakeholders to assist the institution with complying with the 
+institution's duties under this section. 
+3.17 Confidentiality 
+(a)The protections provided by this section apply to:
+(1)an alleged victim;
+(2)a person who reports an incident to an institution;
+(3)a person who sought guidance from the institution concerning an incident;
+( 4)a person who participated in the institution's investigation of an incident; or
+(5)a person who is alleged in a report made to an institution to have committed or
+assisted in the commission of sexual harassment. sexual assault. dating violence, or 
+stalking. if after completing an investigation, the institution determines the report to 
+be unsubstantiated or without merit. 
+(b)Unless waived in writing by the person, the identity of a person described by Subsection (a):
+(1)is confidential and not subject to disclosure under Chapter 552. Government
+Code; and 
+(2)may be disclosed only to:
+(A)persons employed by or under contract with the postsecondary
+educational institution to which the report is made who are necessary for 
+an investigation of the report or other related hearings; 
+(B)a law enforcement officer as necessary to conduct a criminal
+investigation of the report by persons described by Subsection (a); 
+(C)a health care provider in an emergency, as determined necessary by
+the institution; 
+(D)the person or persons alleged to have perpetrated the incident. to the
+extent required by other law; and
+(E)potential witnesses to the incident as necessary to conduct an
+investigation of the report and to the extent required by other law. 
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 12 
+(c)For the purposes of this section, investigation includes the coordination of the incident
+response, implementation of interim measures, adjudication of the report, and disclosure by the 
+institution as required under state or federal law. 
+3.18 Retaliation Prohibited 
+(a)A postsecondary educational institution may not discipline or otherwise discriminate against
+an employee who in good faith: 
+(1)makes a report as required by § 3.5; or
+(2)cooperates with an investigation, a disciplinary process, or a judicial proceeding
+relating to a report made by the employee as required by§ 3.5. 
+(b)Subsection (a) does not apply to an employee who:
+(1)reports an incident of sexual harassment, sexual assault. dating violence, and
+stalking perpetrated by the employee; or 
+(2)cooperates with an investigation, a disciplinary process, or a judicial proceeding
+relating to an allegation that the employee perpetrated an incident of sexual 
+harassment. sexual assault. dating violence, and stalking. 
+3.19 Compliance 
+(a)The chief executive officer of each postsecondary educational institution shall annually
+certify in writing to the Coordinating Board, in October of each year, that the institution is in 
+substantial compliance with Texas Education Code Subchapter E-2. The Coordinating Board 
+shall make available to institutions a required template for the certification which satisfies the 
+requirements of this section. 
+(b)If the Coordinating Board determines that a postsecondary educational institution is not in
+substantial compliance with Texas Education Code Subchapters E-2 on or after January 1. 2020, 
+and E-3 on or after August L 2020, the Coordinating Board may assess an administrative 
+penalty against the institution in an amount not to exceed $2 million. In determining the 
+amount of the penalty, the Coordinating Board shall consider the nature of the violation and the 
+number of students enrolled at the institution. 
+(c)If the Coordinating Board assesses an administrative penalty against a postsecondary
+educational institution under Subsection (b), the Coordinating Board shall provide to the 
+institution written notice of the Coordinating Board's reasons for assessing the penalty. 
+(d)A postsecondary educational institution assessed an administrative penalty under
+Subsection (b) may appeal the penalty in the manner provided by Chapter 2001. Government 
+Code. 
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 (e)A postsecondary educational institution may not pay an administrative penalty assessed
+under Subsection (b) using state or federal money. 13 
+(f) The Coordinating Board shall deposit an administrative penalty collected under this section 
+to the credit of the sexual assault program fund established under Section 420.008. Texas 
+Government Code. 
+(g)The Coordinating Board shall annually submit to the governor. the lieutenant governor, the
+speaker of the house of representatives, and the standing legislative committees with primary 
+jurisdiction over legislation concerning sexual assault at postsecondary educational institutions a 
+report regarding compliance with this subchapter, including a summary of the postsecondary 
+educational institutions found not to be in substantial compliance as provided by this section 
+and any penalties assessed under this section during the calendar year preceding the date of 
+the report. 
+3.20 Applicability 
+Sections 3.1-3.3, 3.5-3.6, 3.8, 3.14, and 3.17-3.20 of this subchapter are effective on January 1. 
+2020 or 30 days after the publication of these rules in the Texas Register, whichever is later. The 
+remainder of this subchapter is effective on August 1, 2020. 
+Rules on Sexual Harassment/Assault 
+FINAL DRAFT 11.20.19 Vocational Rehabilitation - Title IX Coordinator - Texas Workforce Commission
+Sorry, you need to enable JavaScript to visit this website.
+A .gov website belongs to an official government organization in the United States.
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Submit unemployment documents for claimants only
+Submit unemployment documents for employers only
+Submit documents for reporting unemployment fraud
+Unemployment Benefits Earnings Verification
+Employer Response to Notice of Application for Unemployment Benefits
+Cash Draw & Monthly Expenditure Report System (CDERS)
+Learner Outcome Tracking System (LOTS)
+Licensed Career Schools & Colleges Directory
+Texas Educating Adults Management System (TEAMS)
+Find Resources for Businesses & Employers
+Learn about Employment Law, Discrimination, Wages & Child Labor
+Access Texas Labor Market Information
+Learn about Unemployment Benefits Fraud & Identity Fraud
+Vocational Rehabilitation Business Relations
+Adult Education & Literacy Advisory Committee
+Business Enterprises of Texas Elected Committee of Managers
+Jobs & Education for Texans Advisory Board
+Purchasing from People with Disabilities Advisory Committee
+Vocational Rehabilitation - Title IX Coordinator
+Vocational Rehabilitation - Title IX Coordinator
+This page contains comprehensive information about the essential role of the Title IX Coordinator within the Vocational Rehabilitation framework.
+Title IX is a federal law that prohibits discrimination in education programs or activities that receive federal financial assistance. It states: "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance." Title IX protects persons from discrimination while participating within the scope of an education program or activity. Title IX Personnel TrainingThis page contains training materials for Title IX Coordinators, investigators, decision-makers, and any person who facilitates an informal resolution process.Association of Title IX Administrators (ATIXA) TrainingThompson Coburn LLP, Title IX Training Series - Video PlaylistThompson Coburn LLP, Title IX Training Series - MaterialsOffice for Civil Rights Title IX Webinars - Video PlaylistThese materials are posted publicly in compliance with 34 CRF Part 106.45(b)(10)(i)(D) of the 2020 Title IX regulations.
+Contact Information:Erin HumphreysPhone: 512-367-2397Email: TitleIX@twc.texas.gov
+Contact Information:Erin Humphreys (Interim)Phone: 512-367-2397Email: CCRCTitleIX@twc.texas.gov
+Title IX Procedure Manual - Updated 8/15/2023
+Criss Cole Student Handbook - Regular Print - Updated 10/04/2023
+Criss Cole Student Handbook - Large Print - Updated 10/04/2023
+Criss Cole Rehabilitation Center (CCRC) Policy Manual - Updated 10/04/2023
+CCRC Title IX LiaisonErin Humphreys (Interim) 512-367-2397 EmailCCRCTitleIX@twc.texas.gov  Mailing Address    4800 North Lamar Blvd  Austin, TX 78756  United States
+We are an Equal Opportunity Employer/Program. Auxiliary aids and services are available upon request to individuals with disabilities. Deaf, hard-of-hearing or speech-impaired customers may contact TWC through the relay service provider of their choice.  For questions, compliments or complaints, call 800-628-5115.
+Transparency: State Revenue & Spending
+Click here to visit twitterClick here to visit youtubeClick here to visit facebookClick here to visit linkedin
+Copyright © Texas Workforce Commission. All rights reserved.SitemapPoliciesEqual Opportunity is the lawReport Fraud: 800-252-3642
+Chat with us Speak with our Virtual AssistantArrow up icon for opening chat window for TWC virtual agent
+Help Desk
+Association of Title IX Administrators (ATIXA) Training
+Learn from top practitioners through in-person and online training and certifications.
+Confirm your attendance during your training and access all training and event materials here.
+ATIXA is now accepting scholarship applications for 2024 virtual courses.
+Access your upcoming trainings and events, member materials, discounts, certifications, and more.
+The home for Title IX coordinators, investigators, and administrators.
+The ATIXA Member Library is a searchable and comprehensive listing of all items shared to, and posted by ATIXA included in our membership levels.
+Learn more about ATIXA's role in policy matters that impact the field.
+Learn about ATIXA's mentoring program and apply to be a Mentor or Mentee.
+Come together with your fellow Title IX community to always continue learning.
+Confirm your attendance and access everything you need for your ATIXA training or event here.
+Join us for the 2024 Winter Symposium in Orlando, FL from January 21-26, 2024, to engage with colleagues and faculty while receiving valuable in-person training and certification.
+ATIXA brings Title IX administrators together to promote gender equality.
+Upload onto your Title IX website to show the training provided by ATIXA.
+If you don’t have a website, you will have to make hard copies of these materials available for inspection. ATIXA will not be providing hardcopies of any items on this page.
+Alternatively, you may link to this page; however, OCR may deem this insufficient. Training attendees are not authorized to publicly post ATIXA materials in any other way.
+34 CFR Part 106.45(b)(10) requires all ATIXA training materials to be posted publicly. This site facilitates the centralization of hundreds of materials developed by and owned by ATIXA, which can be linked to by individual colleges and schools.
+The materials posted to this site are proprietary and are copyrighted. Those copyrights are registered with the Library of Congress. The legal penalties for copyright infringement range from $200 to $150,000 for each work infringed, and the infringer pays for all attorneys’ fees and court costs.
+Your right is a right of inspection and review of the materials on this site, only. No other right is granted beyond viewing. You are not authorized to copy, use, adapt, save, repost, share publicly, or alter any contents from this site. You are not permitted to use the materials on this site for training, or for any commercial purpose. Any such use will result in damages equivalent to the full-per-head registration costs to the applicable ATIXA training, plus damages for reputational harm to ATIXA, in addition to any copyright infringement fines and/or penalties.
+Proceeding to use and access the content on this page demonstrates your acceptance and understanding of these terms and conditions. To contact ATIXA with questions about any of the contents of this site, please email events@atixa.org.
+The Title IX Regulations, 34 CFR Part 106.45(b)(10), require all Recipients to post training slides used to satisfy the Title IX Regulations’ training requirements to your organization’s website. Here is some information you may want to have about such public website postings:
+Recipients are required to post the most recent Title IX team member training materials to their organization’s website by August 14, 2020.
+Only the most recent version of training materials is required to be posted, and websites should be updated each time a training is completed.
+You should maintain an internal archive of all historical Title IX team training materials for a period of seven years beginning August 14, 2020.
+Materials are posted from January 1, 2018, to the present and are regularly updated.
+Training materials are listed below by type of certification or training and by year, but not by location.
+ATIXA cannot guarantee that any materials on this site were seen by any particular trainee.
+ATIXA Certification refers to attendance at a qualifying event; ATIXA cannot speak to individual attendees’ knowledge, expertise, or command of the material. Each attendee is responsible for the learning outcomes of any training.
+There is nothing that would stop an individual from copying materials from this site and claiming they have attended training. As such, ATIXA makes no guarantees regarding representation or posting of its content with respect to any level of understanding, competence, comprehension, or even attendance.
+All post-August 14, 2020, ATIXA certification registrants should use this page to obtain their publicly posted training materials.
+Understand that any member of the public can access these materials, and some will be searching for evidence that members or attendees have received training that is biased or biasing. Although ATIXA materials are neutral, encourage impartiality (or multi-partiality), and a fair evaluation of all evidence, you should be careful about attending training from organizations that may be biased or that have political agendas. Also, be careful about some trauma-informed training organizations whose content is not well-grounded in empirical scientific research or data.
+If you are a member of the public, your right is a right of inspection and review of the materials on this site, only. No other right is granted beyond viewing. You are not authorized to copy, use, adapt, save, repost, share publicly, or alter any contents from this site. You are not permitted to use the materials on this site for training, or for any commercial purpose.
+If you have received training from ATIXA and need to post your training slides to comply with the Title IX regulations, you are granted the right to repost the slides on this site for completed training on your organization’s website for compliance purposes, only. ATIXA grants no other to use, copy, adapt, or alter any contents from this site. You are not permitted to use the materials on this site for external training, or for any commercial purpose. Any such use will result in damages equivalent to the full, per-head registration costs to the applicable ATIXA training, plus damages for reputational harm to ATIXA, in addition to any copyright infringement fines and/or penalties.
+ATIXA’s public certification trainings are posted below, including the slides for all such trainings. The materials may not be dated or labeled with your specific training but are materially the same as the materials used and provided to you during your training. The order of some slides may change over time, as may slight variations to content, but the main substance is unchanged.
+Click on the hyperlinked slides for your completed ATIXA training below.Once opened, download the PDF slides to your computer’s desktop.Upload onto your Title IX website to show the training provided by ATIXA.
+If you don’t have a website, you will have to make hard copies of these materials available for inspection. ATIXA will not be providing hard copies of any items on this page.
+Alternatively, you may link to this page; however, OCR may deem this insufficient. Training attendees are not authorized to publicly post ATIXA materials in any other way.
+All ATIXA Proprietary Training Materials Are Covered By The Following Limited License and Copyright
+By purchasing, receiving, and/or using ATIXA materials, you agree to accept this limited license and become a licensee of proprietary and copyrighted ATIXA-owned materials. The licensee accepts all terms and conditions of this license and agrees to abide by all provisions. No other rights are provided, and all other rights are reserved. These materials are proprietary and are licensed to the licensee only, for their use. This license permits the licensee to use the materials personally and/or internally to the licensee’s organization for training purposes, only. If these materials are used to train Title IX personnel, they are subject to 34 CFR Part 106.45(b)(10), requiring all training materials to be publicly posted on a Recipient’s website. If you have lawfully obtained ATIXA materials by registering for an ATIXA training, you are licensed to use the materials provided for that training. Licensees may download and post a PDF version of training materials for their completed training to their organizational website to comply with federal regulations.
+You are not authorized to copy or adapt these materials without explicit written permission from ATIXA. No one may remove this license language from any version of ATIXA materials. Licensees will receive a link to their materials from ATIXA. That link, or links to the materials on that page only, may be posted to the licensee’s website for purposes of permitting public access to the materials for review/inspection, only. Should any non-licensee post these materials to a public website, ATIXA will send a letter instructing the licensee to immediately remove the content from the public website upon penalty of copyright violation. These materials may not be used for any commercial purpose except by ATIXA.
+If you would like to request a transcript of the events that you have attended please send an email to transcripts@requests.atixa.org with the subject line “My Transcript”. A copy of your transcript will be emailed to you automatically.
+If you would like to request the transcript for someone else, please send an email to transcripts@requests.atixa.org with the subject line the email address of the person who’s transcript you would like to request. Please allow up to 1 business day for these requests to be processed.
+We used an item not listed to create our forms, policies, and procedures; how do I post this?
+You don’t. These are not trainings, or training materials and therefore not expected to post them. You do not have permission from ATIXA to post these copyrighted materials.
+ATIXA determined that materials older than that would not address current regulations-based training requirements. Certifications older than two-years are no longer in good standing with ATIXA.
+How quickly do I need to post the training materials once I take a training?
+The regulations do not specify, they only state that all trainings must be posted, however recently OCR Investigations have shown the need to post the training materials on your website or provide a hard copy when asked.
+I want to post the actual video recording (where applicable), how do I do this?
+The regulations did not specify that recordings be posted, only training materials. Thus, ATIXA has provided training materials, and does not grant permission for the posting of any recordings at this time.
+ATIXA has posted generic slide sets for the most part, as a training content does not vary substantially from training to training.
+I want to list every training I have ever taken with ATIXA, can you provide this to me?
+Training materials are only required to be posted for the time period starting August 14, 2020 and forward. There is no requirement to post trainings taken prior to this date. However, as there are people within their 2-year ATIXA Certification time-period, we have provided everything from 2018 to present. Your event transcript on your My ATIXA page will provide a list of all trainings.
+You can post the slides provided on your ATIXA Event Lobby that was provided to you at the time of training.
+January-June 2018_Coordinator Five_Bias & Cultural Competencies Materials
+January-June 2018_Coordinator Two_Pressures, Politics, Sanctions, Minors, & MOUs Materials
+January-June 2018_Title IX Coordinator & Administrator Level Four: Trainer Training: Advocacy, Prevention & Trauma
+January-June 2018_Investigator Three B_Sexual Harassment Case Processing & Resolution Materials
+July-December 2018_Climate Surveys_VAWA Compliance_Strategic Prevention Materials
+July-December 2018_Coordinator Four_Trainer Training, What Title IX Coordinators Need to Know About Advocacy, Prevention, and Trauma Materials
+July-December 2018_Coordinator Two_Pressures, Politics, Sanctions, Minors & MOUs Materials
+July-December 2018_Investigator Three A_Sexual Violence Case Processing & Resolution Materials
+July-December 2018_Investigator Three B_Sexual Harassment Case Processing & Resolution Materials
+January-June 2019_Coordinator Four_Trainer Training, What Title IX Coordinators Need to Know About Advocacy, Prevention, and Trauma Materials
+January-June 2019_Coordinator Three_Compliance and Case Management Materials
+July-December 2019_Coordinator Five_Bias & Cultural Competencies Materials
+July-December 2019_Coordinator Four_Trainer Training, What Title IX Coordinators Need to Know About Advocacy, Prevention, and Trauma Materials
+July-December 2019_Coordinator Three_Compliance & Case Management Materials
+July-December 2019_Coordinator Two_Pressures, Politics, Sanctions, Minors & MOUs Materials
+January-June 2020_Coordinator Three_Compliance and Case Management Materials
+January-June 2020_Coordinator Two_Pressures, Politics, Sanctions, Minors, and MOUs Materials
+July-December 2020_Coordinator Three_Compliance & Case Management Materials
+July-December 2020_Coordinator Two_Pressures, Politics, Sanctions, Minors & MOUs Materials
+July-December 2020_Investigator Three B_Sexual Harassment Case Processing & Resolution Materials
+January - June 2022_K-12 Coordinator Two Certification Course Materials
+July-December 2022 Civil Rights Investigator Four Certification Course Materials
+July-December 2022 Title IX Coordinator and Administrator Four: Advocacy, Prevention, and Trauma Certification Course Materials
+July-December 2022 K-12 Coordinator Two Certification Course Materials
+July-December 2022 K-12 Civil Rights Investigator Two Certification Course Materials
+July-December 2022 K-12 ADA/504 Coordinator Certification Course Materials
+July-December 2022 Hearing Officer and Decision-Maker Certification Course Materials
+July-December 2022 Civil Rights Investigator One: Foundations Materials
+July-December 2022 Title IX for Healthcare Educators and Providers Training Materials
+July-December 2022  NPRiMer: Preparing Your K-12 School or District for the 2023 Title IX Regulations Training Materials
+July-December 2022 NPRiMer: Preparing for the 2023 Title IX Regulations for Higher Education Training Materials
+July-December 2022 DEI Practitioner One: Foundations Training Materials
+July-December 2022 Title IX Compliance and Athletics Training Materials
+July-December 2022 Violence Risk Assessment with NABITA Endorsement Training Materials
+July-December 2022 K-12 Investigation Report Writing Training Materials
+January-June 2023_Hearing Officer & Decision-Maker Certification Course Materials
+January-June 2023_Investigator Two: Advanced Certification Course Materials
+January-June 2023_K-12 Investigator One Certification Course Materials
+January-June 2023_K-12 Investigator Two Certification Course Materials
+January-June 2023_NPRiMer for Higher Education Certification Course Materials
+January-June 2023_NPRiMer for K-12 School Districts Certification Course Materials
+July-December 2023_ADA Section 504 Foundations for Higher Education Course Materials
+July-December 2023_Civil Rights Investigator One Certification Course Materials
+July-December 2023_Civil Rights Investigator Four Certification Course Materials
+July-December 2023_Gender Equity Foundations for Higher Education Course Materials
+July-December 2023_Informal Resolution Foundations for Higher Education Course Materials
+July-December 2023_Informal Resolution Foundations for K-12 Education Course Materials
+July-December 2023_Intersections with ADA, Section 504, and IDEA for K-12 Education Course Materials
+July-December 2023_Investigation Foundations for Higher Education Course Materials
+July-December 2023_Investigation Report Writing Certification Course Materials
+July-December 2023_Investigation Report Writing for K-12 Education Course Materials
+July-December 2023_Investigation Skills & Report Writing for Higher Education Course Materials
+July-December 2023_K-12 Civil Rights Investigator One Foundations Course Materials
+July-December 2023_K-12 Civil Rights Investigator Two Course Materials
+July-December 2023_Live Hearings for Higher Education Course Materials
+July-December 2023_Making Supportive Measures Count Seminar Course Materials
+July-December 2023_Managing Intake, Jurisdiction, and Dismissals Workshop Course Materials
+July-December 2023_NPRiMer for Higher Education Certification Course Materials
+July-December 2023_NPRiMer for K-12 School Districts Certification Course Materials
+July-December 2023_Sex-Based Harassment Foundations for Higher Education Course Materials
+July-December 2023_Solutions for Managing Intake, Jurisdiction, and Dismissal in the Title IX Grievance Process Workshop Course Materials
+July-December 2023_Supporting Pregnancy, Parenting, & Related Conditions Workshop Course Materials
+July-December 2023_Title IX Compliance and Athletics for K-12 Education Course Materials
+July-December 2023_Title IX Compliance Essentials for K-12 Education Course Materials
+July-December 2023_Title IX Coordinator Foundations for K-12 Education Course Materials
+July-December 2023_Title IX Hearing Chairs Certification Course Materials
+July-December 2023_Title IX Hearing Officer and Decision Maker Certification Course Materials
+July-December 2023_Title IX Higher Education Decision-Maker Course Materials
+July-December 2023_Title IX Investigator Foundations for K-12 Education Course Materials
+July-December 2023_Violence Risk Assessment with NABITA Endorsement Course Materials
+January-June 2024_ADA and Section 504 Foundations for Higher Education Course Materials
+January-June 2024_Gender Equity Foundations for Higher Education Course Materials
+January-June 2024_NPRiMer for Higher Education Certification Course Materials (Day One)
+January-June 2024_NPRiMer for Higher Education Certification Course Materials (Day Two)
+January-June 2024_NPRiMer Preparing Your K-12 School or District for the Pending Title IX Regulations Course Materials
+January-June 2024_Sex-Based Harassment Foundations for Higher Education Course Materials
+January-June 2024_Title IX Compliance and Athletics for Higher Education Course Materials
+Full Page Slides: Collegiate Athletics Focused: Compliance in COVID Times Webinar - July 31, 2020
+Full Page Slides: K-12 Athletics Focused: Compliance in COVID Times Webinar - July 30, 2020
+Hearing Panels and Decision-Makers: Briefing on the New Regulations Webinar Slides
+New Title IX Regulations for Boards of Trustees and Cabinet-Level Administrators
+Webinar- OCR Effective Commenting-Overview of the Notice and Comment Period
+Webinar- Recent Due Process Rulings by the California Courts-What Do California Colleges and Universities Need to Know and Do?
+September 19, 2022 - Solutions for Managing Intake, Jurisdiction, and Dismissal in the Title IX Grievance Process Materials
+Common Report Writing Errors in Title IX & Civil Rights Investigations
+All customized training materials from 2018-Present are included below. If you believe your organization’s customized training should be listed but is not, please contact our Custom Events Team at customevents@tngconsulting.com.
+March 16, 2018_Community College of Spokane_Customized Sexual Harassment Training
+April 23-24, 2018_The University System of Georgia_Customized Investigator 3 Training
+May 10-11, 2018_American University of Beruit_Customized Investigator 2 Training
+August 9, 2018_Long Beach City College_Customized Civil Rights Training
+Sept 12-13, 2018_Angelo State University_Customized Panel Tune Up Training
+October 2-3, 2018_University of Alaska Systems_Customized Investigator 2 Training
+April, 2019_Hawaii Department of Education_PreK-12 Title IX Certification Training
+June 2019_Maryland Affinity Group_Customized Advanced Title IX Training
+July, 2019_Hawaii Department of Education_K-12 Investigations Training
+September 11-13, 2019 - PreK-12 Title IX Administrator Certification Course Slides
+September 16-17, 2019_West Virginia School of Osteopathic Medicine_Customized Civil Rights Investigator Training
+September, 2019_Hawaii Department of Education_PreK-12 Title IX Administrator and Investigator Training
+October 16-17, 2019_Los Angeles Community College District_Customized ATIXA Training
+November 12, 2019_Southern Oregon University_Customized Title IX Special Topics Training
+May 28 and June 1, 2020_Naperville School District_Customized Title IX Overview Training
+July 15, 2020_Bates College_Final Title IX Regulations Overview Training
+July 21-22, 2020_Metropolitan Community College_Customized Title IX Training
+August 5, 2020_Maryland Affinity Group_2020 Regulations Overview and Intersection with Maryland Law
+September, 2020_Wilkes Barre University_Customized Hearing Officer Training
+September 11 2020_Los Angeles Community College District Customized Title IX Training
+September 23 and 24 2020_Los Angeles Community College District Customized Title IX Training
+October 16, 2020_Ohio State University_Title IX Training Investigator & Decision-Makers
+October 20, 2020_Ohio State University_Foundations of the First Amendment
+October 28 and October 29, 2020_Naperville School District_K-12 Civil Rights InvestigatorTrainingJune 15 – 16, 2020 - Miami Dade County Public Schools_K-12 Coordinator Administrator Level 1 Cert Course
+August 11, 2020_Rhode Island Department of Health_Custom Title IX Regulations Training
+August 12-13, 2020_Rhode Island Department of Health_Custom Title IX Investigation Training
+February 12-19, 2021_Stockton University Title IX Training: Roles, Responsibilities and  Regulations
+March 11th 2021_Post University_ Title IX Hearing and Decision Maker Training
+April 20th 2021_ Nebraska State College System_First Amendment Presentation Slides
+April 20th 2021_ Nebraska State College System_Clery Act Presentation Slides
+June 24th 2021_Los Angeles Community College District_Advisor Training
+June 29th 2021_Los Angeles Community College District_ Decision Maker Training
+July 8th 2021_Los Angeles Community College District_Judicial Officer Training
+July 9th 2021_Los Angeles Community College District_ 504 Coordinator Training
+August 11-12, 2021_West Ada School District_K-12 Administrators Training
+July 8, 2021_Los Angeles Community College District_Hearing Officer Training
+August 13, 2021_Rhode Island Department of Health_Advanced Content Training
+August 2, 2021_Transylvania University_Civil Rights Investigator Training
+August 10th, 2021_The College of St. Scholastica_Decision-Maker Training
+August 10th, 2021_The College of St. Scholastica_Investigation Report Training
+Full Page Custom: Tredyffrin Easttown School District K-12 Training Course Slides
+Virginia Department of Criminal Justice Services_March 9, 2023_Full Page Slides
+University of South Carolina - Columbia_Civil Rights Law Overview Slides
+Paul Mitchell Advanced Education_Investigation and Documentation Slides
+Laredo College_Solutions for Managing Intake, Jurisdiction, and Dismissal in the Title IX Grievance Process Workshop Slides
+Virginia Polytechnic Institute and State University_Title IX Training Slides
+The Association of Title IX Administrators is the nation’s leading membership organization for Title IX professionals. We promote, develop, and safeguard the practice of Title IX administration and those who work in this field.
+Comprehensive, systems-level solutions for risk management designed by experts.
+Support and professional development for behavioral intervention team members.
+As part of our contined effort to improve our portal and user experience, we are currently requiring some users to reset their passwords.
+Please click the button below to recieve an email with additional instructions for resetting your password.
+Thompson Coburn LLP, Title IX Training Series - Video Playlist
+Thompson Coburn LLP, Title IX Training Series - Materials
+People Services                 Insights News & Events Diversity & Inclusion Women's Initiative Offices Firm Careers Subscribe Contact                     Home
+Title IX Training Series Materials Below you will find links to the slide decks for each of the Title IX Training Sessions along with a document highlighting the changes that have been made to the rule. For inquiries regarding the Thompson Coburn Title IX Training Series, custom
+training and simulations, or other issues relating to Title IX compliance, institutions are welcome to contact Scott Goldschmidt at sgoldschmidt@thompsoncoburn.com or Aaron Lacey at alacey@thompsoncoburn.com.Module 1 – An Introduction to Managing Title IX Sexual Harassment on Campus
+Presented by Scott Goldschmidt and Aaron LaceyModule 2 – Formal Complaints of Title IX Sexual HarassmentPresented by Scott Goldschmidt and Aaron LaceyModule 3 – Title IX Investigations & Informal ResolutionsPresented by Susan Lorenc, Scott Goldschmidt and Aaron Lacey  Module 4 – Title IX HearingsPresented by Retired Judge Booker Shaw, Scott Goldschmidt, and Aaron LaceyModule 5 – Title IX DeterminationsPresented by Susan Lorenc, Scott Goldschmidt, and Aaron LaceyModule 6 – Title IX AppealsPresented by Retired Judge Booker Shaw, Scott Goldschmidt, and Aaron LaceyAdditional MaterialsTitle IX ComparisonTitle IX Compliance ChecklistTitle IX Compliance Training Series VideosThese materials are intended for information only and should not be considered legal advice. If you desire legal advice for a particular situation, you should consult an attorney.
+Client Access  Disclaimers  Contact  Privacy  TC Remote Attorney Advertising     Chicago  Dallas  Los Angeles  New York  Southern Illinois  St. Louis  Washington, D.C.              Please read before continuing    NOTICE.
+Office for Civil Rights Title IX Webinars - Video Playlist
+Texas Workforce Commission Vocational Rehabilitation
+
+Title IX Procedure Manual
+ 
+
+
+Table of Contents
+
+	Table of Contents	1
+
+	I. INTRODUCTION	3
+
+	A. Purpose	3
+
+	B. Title IX Coordinator	3
+
+	C. Title IX	4
+
+	II. DEFINITIONS	4
+
+	A. Complainant	4
+
+	B. Consent	4
+
+	C. Decision-Maker	4
+
+	D. Document Filed by a Complainant	5
+
+	E. Harassment	5
+
+	F. Respondent	5
+
+	G. Retaliation	5
+
+	H. Sex Offenses, Non-forcible Intercourse	6
+
+	I. Nonconsensual Sexual Contact	6
+
+	J. Sexual Harassment	6
+
+	K. Sexual Misconduct	6
+
+	L. Supportive Measures	7
+
+	M. Title IX	7
+
+	N. Title IX Coordinator	7
+
+	O. CCRC Ombudsman/Title IX Liaison	7
+
+	P. Title IX Sexual Harassment Grievance Procedure	7
+
+	III. REPORTING AND INTAKE PROCEDURES	8
+
+	A. Mandatory Reporting Requirements	8
+
+	Covered Individual Reporting Discrimination, Harassment, Sexual Harassment, Sexual Misconduct and Retaliation	8
+
+	Procedure for Reporting a Complaint	8
+
+	B. Intake and Review of Report	8
+
+	Intake and Review	8
+
+	C. Title IX Sexual Harassment	9
+
+	Formal Complaint	9
+
+	Dismissal of a Formal Title IX Sexual Harassment Complaint	9
+
+	D. Student Refusal to Participate in Investigation	10
+
+	E. Failure to Report	10
+
+	F. Interference with Investigation	10
+
+	G. Supportive Measures	10
+
+	IV. CASE PROCEDURES	11
+
+	A. General Guidelines	11
+
+	Special Consideration	11
+
+	B. Informal Resolution of Complaints	11
+
+	C. Notification of Allegations and Interview to the Parties	12
+
+	D. Investigations	13
+
+	Investigation Norms	13
+
+	Investigative Report	14
+
+	Impact of Investigations	14
+
+	E. Determinations	15
+
+	Cases Falling Under Title IX Sexual Harassment–Written Determinations	15
+
+	F. Discipline	15
+
+	G. Resolution Timeframe	16
+
+	H. Appeal Procedures	16
+
+	Making an Appeal Request	16
+
+	Receiving a Decision on an Appeal	17
+
+	I. Recordkeeping	17
+
+	V. LIST OF APPENDICES	17
+
+	A.  Appendix A:	17
+
+	B.  Appendix B:	17
+
+	Appendix A	17
+
+	Appendix B	18
+
+
+
+I. INTRODUCTION
+
+A. Purpose
+
+The Title IX Procedure Manual (Manual) outlines the Texas Workforce Commission Vocational Rehabilitation’s (TWC-VR) policies and procedures, which help to provide a safe and secure environment by ensuring that staff know how to promptly and equitably resolve complaints of discrimination, harassment, sexual harassment, sexual misconduct, and retaliation by students and employees. The Manual also describes the Title IX policy as it relates to the Criss Cole Rehabilitation Center (CCRC) Program Manual. The Agency will not tolerate retaliation against any student or employee as a result of a complaint or report of sexual harassment, sexual misconduct, or any other information provided that is related to a complaint or report being filed. Additionally, no student or employee will tolerate discrimination, harassment, sexual harassment, sexual misconduct and/or retaliation as a condition of participation in any educational activity or as a condition of employment, all of which are prohibited by CCRC policy and Title IX of the Education Amendments of 1972 (20 USC §1681, et seq.) (Title IX).
+
+B. Title IX Coordinator
+
+The Title IX coordinator is responsible for ensuring that TWC complies with and fulfills its responsibilities under Title IX. The Title IX coordinator must be aware of all complaints and reports, as they will be responsible for addressing any Title IX–related issues. The Title IX coordinator is responsible for the following:
+
+		Coordinating all Title IX investigations according to CCRC policy
+
+		Determining supportive measures, if any, that are necessary to protect student and employee rights
+
+		Coordinating appropriate next steps, including appropriate remedial support for any identified complainants and respondents, required educational program changes, and recommendations of student and/or employee disciplinary measures
+
+		Consulting with other departments, as necessary, to determine appropriate actions in accordance with Title IX and other applicable local, state, and/or federal laws and regulations
+
+		Training TWC stakeholders in understanding Title IX’s policies and procedures 
+
+The Title IX coordinator’s contact information is:
+
+Erin Humphreys
+
+101 E. 15th St. Austin Texas 78778
+
+TitleIX@twc.texas.gov
+
+Contact the US Department of Education’s Office for Civil Rights at (800) 421-3481 or ocr@ed.gov with Title IX–related inquiries. 
+
+C. Title IX
+
+Title IX , which states that "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any educational program or activity receiving federal financial assistance," applies to all VR-CCRC educational programs and activities.
+
+		The Title IX coordinator is responsible for ensuring that efforts to comply with and fulfill the responsibilities under Title IX include implementing regulations to investigate, stop, prevent, and remedy discrimination and harassment based on sex or pregnancy status, sexual harassment, sexual misconduct, and retaliation.
+
+II. DEFINITIONS
+
+A. Complainant
+
+A complainant is the individual who is alleged to be the victim of conduct that could constitute sexual misconduct, including sexual harassment. For purposes of this policy, the term “party” refers to a complainant.
+
+B. Consent
+
+Consent is the informed, freely, and mutually understood words or actions that indicate a willingness to participate in agreed-upon sexual activity. An individual may withdraw consent at any time. There is no consent when there is force, threats, intimidation, or duress. An individual’s lack of verbal or physical resistance or manner of dress does not constitute consent. Consent to past sexual activity with another individual does not constitute consent to future sexual activity with that individual. Consent to engage in sexual activity with one individual does not constitute consent to engage in sexual activity with another individual. An individual cannot consent to sexual activity if such an individual is unable to understand the nature, fact, or extent of the activity or if the individual:
+
+		is incapacitated due to the use or influence of alcohol or drugs;
+
+		is asleep or unconscious;
+
+		is under the legal age to provide consent; or
+
+		has a mental or physical disability that prevents the individual from having the ability or capacity to give consent.
+
+C. Decision-Maker
+
+A decision-maker is an individual who is free from conflicts of interest and biases and who is trained to serve impartially without prejudging the facts at issue. Decision-makers have the authority to determine whether a Title IX policy was violated, the appropriate disciplinary action or sanction was enforced, and whether a complaint was dismissed.
+
+D. Document Filed by a Complainant
+
+A document filed by a complainant is a document or electronic submission (such as by email or through an online portal provided by the school) that contains the complainant's physical or digital signature, or otherwise indicates that the complainant is the individual filing the formal complaint.
+
+E. Harassment
+
+For the purposes of this manual, "harassment" means unwelcome verbal, nonverbal, visual, or physical conduct that is based on an individual's actual or perceived sex (including gender identity) or pregnancy status that is persistent, pervasive, or severe and objectively offensive and unreasonably interferes with, limits, or denies an individual's educational or employment access, benefits, or opportunities. Unwelcome conduct may include, but not be limited to:
+
+bullying; 
+
+intimidation; 
+
+telling offensive jokes; 
+
+referring to an individual by a slur, epithets, or offensive name; 
+
+assault; 
+
+making threats; 
+
+touching; 
+
+ridiculing or mocking; 
+
+insulting or using put-downs;
+
+sharing offensive objects or pictures; 
+
+sharing offensive messages via email, text or social media; 
+
+making sexual advances, requesting sexual favors, or any other sex-based conduct.
+
+F. Respondent 
+
+A respondent is the individual who is reported to be the perpetrator of conduct that could constitute sexual misconduct, including sexual harassment, discrimination, or harassment on the basis of sex. For purposes of this policy, the term “party” refers to a respondent.
+
+G. Retaliation
+
+Retaliation is any action, or attempted action, directly or indirectly, that is taken against any individual, who, in good faith, reports or discloses a violation of the policy, files a complaint, and/or otherwise participates in an investigation, proceedings, complaint, or hearing under this policy. Retaliation includes, but is not limited to, harassment, threats, job termination, adjustment in pay or responsibilities, or impeding academic progress. Actions are considered retaliatory if they have an adverse effect on an individual’s working, academic, or living environment or if they prevent an individual from effectively carrying out their educational responsibilities.
+
+H. Sex Offenses, Non-forcible Intercourse 
+
+Includes the following:
+
+Incest, which is the unforced sexual intercourse between persons who are related to each other.
+
+Statutory Rape, which is the unforced sexual intercourse with a person who is under the statutory age of consent of 17 years of age. It is considered statutory rape when the complainant is 17 or 18 years of age and the respondent is in a position of trust or authority, such as a teacher or coach.
+
+I. Nonconsensual Sexual Contact 
+
+Nonconsensual sexual contact is the inappropriate contact of an individual involving the mouth, genital area, inner or upper thigh area, anus, buttocks, breast, neck, or any part of another individual’s body, whether directly or indirectly through clothing.
+
+J. Sexual Harassment
+
+Sexual harassment is any unwelcome or unwanted sexual, sex-based, or gender-based conduct, whether verbal, written, electronic, and/or physical in nature that:
+
+is sufficiently severe or pervasive;
+
+is objectively offensive; 
+
+unreasonably interferes with, denies, or limits an individual's ability to participate or benefit from educational and/or employment opportunities, assessments, or status within VR-CCRC;
+
+is done by an individual who has power or authority over another individual in which submission to such conduct is made explicitly or implicitly a term or condition of educational and/or employment opportunities, participation, assessments, or status within VR-CCRC; or
+
+is considered an instance of sexual assault, as defined in the Clery Act, dating violence, or stalking, as defined in the Violence Against Women Act (VAWA).
+
+K. Sexual Misconduct
+
+Sexual misconduct is behavior used to obtain sexual gratification against another individual’s will or at the expense of another individual. Sexual misconduct includes sexual harassment, sexual assault, and any nonconsensual sexual conduct that is threatening or discomforting, such as exposing oneself or requesting exposure (whether it be through pictures, emails, chats, and so on) of another individual’s private areas and intimidating the individual against whom such conduct is directed.
+
+L. Supportive Measures
+
+Supportive measures are nonpunitive, non-disciplinary individualized services offered as appropriate, as reasonably available, and without fee or charge to the parties before or after the filing of a formal complaint or where no formal complaint has been filed. Supportive measures are designed to ensure equal educational access, protect safety, and/or deter sexual harassment. 
+
+M. Title IX
+
+Title IX is a federal law that prohibits sex discrimination, including sexual misconduct, in educational programs and institutions that receive federal financial assistance. The law also prohibits retaliation intended to interfere with any right or privilege protected by Title IX.
+
+N. Title IX Coordinator
+
+The VR official responsible for coordinating the school's efforts to comply with and carry out its responsibilities under Title IX of the Education Amendments of 1972. The Title IX coordinator must be made aware of all reports, as he or she will be responsible for addressing any Office of Civil Rights Title IX complaints or audits. The Title IX coordinator:
+
+		coordinates all Title IX investigations under the Policy;
+
+		determines supportive measures, if any, that are necessary to protect student and employee rights;
+
+		coordinates appropriate next steps including appropriate remedial support for any identified complainants and respondents, educational program changes required, commencement of student discipline and commencement of employee discipline or dismissal;
+
+		consults with other departments as deemed necessary to determine appropriate actions in accordance with Title IX as well as other applicable local, state and federal laws, policies, and collective bargaining agreements;
+
+		conducts trainings for TWC Title IX stakeholders; and
+
+		maintains record-keeping requirements.
+
+O. CCRC Ombudsman/Title IX Liaison
+
+The CCRC ombudsman is the designated official who works in conjunction with the Title IX coordinator to ensure that the TWC’s efforts comply with Title IX’s requirements.
+
+P. Title IX Sexual Harassment Grievance Procedure
+
+The Title IX sexual harassment and grievance procedure consists of the general principles that govern VR-CCRC policy to ensure that the workplace and educational environment are free from sexual harassment.
+
+III. REPORTING AND INTAKE PROCEDURES
+
+A. Mandatory Reporting Requirements
+
+Covered Individual Reporting Discrimination, Harassment, Sexual Harassment, Sexual Misconduct and Retaliation
+
+		Covered individuals include all employees, students, contractors, consultants, vendors, volunteers, visitors, and/or applicants for employment within VR-CCRC. Covered individuals must not engage in any discrimination, harassment, sexual harassment, sexual misconduct, or retaliation against another covered individual while employed by or participating in VR-CCRC educational programs or activities.
+
+		Additionally, covered individuals are required to report all instances of discrimination, harassment, sexual harassment, sexual misconduct, and retaliation concerns to the Title IX coordinator, whether it involves students or adults or conduct between adults and students.
+
+		Covered individuals must also follow the reporting procedures for all incidents of discrimination, harassment, sexual harassment, sexual misconduct, and retaliation of which they become aware. Failure to report may result in disciplinary action, including discharge and removal from VR-CCRC educational programs and activities and prohibiting future access to VR-CCRC premises.
+
+Procedure for Reporting a Complaint
+
+		Complaints related to sexual harassment, sexual misconduct, retaliation, and other conduct or harassment of a sexual nature, must be reported to the Title IX coordinator.
+
+B. Intake and Review of Report
+
+Intake and Review
+
+	Once the Title IX coordinator receives a complaint of misconduct covered herein, the coordinator or designee must conduct an intake, review the information received, and determine whether the complaint falls under Title IX jurisdiction. The Title IX coordinator or designee must, at all times, provide support to the parties regardless of whether the complaint falls under Title IX jurisdiction. 
+
+		Jurisdiction applies to conduct that takes place at the location of VR-CCRC educational programs and activities. It may also apply outside of a physical location and to online conduct that affects a substantial VR-CCRC interest. Regardless of where the conduct occurs, the Title IX coordinator or designee must address all allegations to determine whether the conduct continues to affect participants of a VR-CCRC educational program or activity. 
+
+		If the Title IX coordinator has jurisdiction, then the coordinator or designee must reach out to the complainant and provide information about the ability to file a formal complaint under Title IX.
+
+C. Title IX Sexual Harassment
+
+Complaints that fall within the definition of “sexual harassment” are covered by Title IX and will be processed as follows.
+
+Formal Complaint 
+
+		If an incident falls under Title IX’s definition of “sexual harassment,” then a formal complaint must be filed to request that the Title IX coordinator investigate the allegation. A formal complaint is a written document filed by a complainant (or by a parent and/or guardian) or signed by the Title IX coordinator that alleges a Title IX sexual harassment violation against a respondent.
+
+		A formal complaint may be filed in person, by mail, by email, or through the VR3447, Title IX Complaint Form sent to one or more of the following:
+
+		
+
+Title IX coordinator: TitleIX@twc.texas.gov
+
+CCRC ombudsman/Title IX liaison: CCRCTitleIX@twc.texas.gov
+
+Dismissal of a Formal Title IX Sexual Harassment Complaint
+
+		Mandatory Dismissal: If any of the following are met, a formal complaint must be dismissed without conducting an investigation under Title IX:
+
+		If a complainant is not participating in or attempting to participate in the educational program or activity of VR-CCRC at the time of filing a formal complaint
+
+		If the conduct did not occur in a VR-CCRC educational program or activity
+
+		If the conduct alleged in the formal complaint does not constitute sexual harassment as defined in Title IX
+
+		Discretionary Dismissal: If any of the following are met, a formal complaint may be dismissed without conducting an investigation under Title IX:
+
+		If a complainant notifies the Title IX coordinator in writing that they want to withdraw the formal complaint, or any allegations therein, at any time during the investigation or hearing
+
+		If the respondent is no longer enrolled in or employed by VR-CCRC
+
+		If circumstances prevent VR-CCRC from gathering sufficient evidence to reach a determination as to the formal complaint or allegations
+
+		Dismissal Notification and Right to Appeal: Both parties must receive a simultaneous notification of complaint dismissal from the decision-maker and have the opportunity to appeal the dismissal determination according to the Appeals section below.
+
+		When a Title IX sexual harassment complaint is dismissed, the complaint must be evaluated for other policy violations, as defined herein, and processed accordingly.
+
+D. Student Refusal to Participate in Investigation 
+
+A student may refuse to participate in an investigation. Despite any refusal, the Title IX coordinator has the discretion to continue to investigate if doing so is not clearly unreasonable given the known circumstances.
+
+E. Failure to Report
+
+An individual who fails to report violations of Title IX is subject to discipline. Depending on the facts and circumstances, the discipline may include discharge and removal from VR-CCRC educational programs and activities and prohibiting future access to the VR-CCRC premises.
+
+F. Interference with Investigation
+
+An individual who interferes with an investigation is subject to disciplinary action up to and including discharge. Prohibited investigation interference includes:
+
+		attempting to coerce, compel, or prevent an individual from providing testimony or relevant information;
+
+		removing, destroying, or altering documentation relevant to the complaint; and
+
+		knowingly providing false or misleading information to, or withholding information from, the Title IX coordinator, appeals officer, or decision-maker, or encouraging others to do so.
+
+G. Supportive Measures
+
+In all incidents, the Title IX coordinator must coordinate with VR-CCRC worksites to provide the parties with supportive measures, which are nonpunitive, non-disciplinary individualized services offered as appropriate, as reasonably available, and without fee or charge to the parties before or after the filing of a formal complaint or where no formal complaint has been filed. Such measures are designed to restore or preserve access to the VR-CCRC educational programs or activities, without unreasonably burdening the other party, including measures designed to protect the safety of all parties or the educational environment, or deter sexual harassment or other conduct covered herein. Available supportive measures include, but are not limited to, the following:
+
+		Counseling
+
+		Course-related adjustments
+
+		Modifications to work or class schedules
+
+		Campus escort services
+
+		Increased security and monitoring of certain areas of the school or campus
+
+		Mutual restrictions on contact between involved parties
+
+	Connections to external counseling, support, medical and health services, and/or advocacy services
+
+IV. CASE PROCEDURES
+
+A. General Guidelines
+
+The Title IX coordinator must follow the case procedures if they receive a report of discrimination, harassment, sexual harassment, sexual misconduct, and/or retaliation.
+
+Special Consideration
+
+		TWC takes other factors into special consideration, including, but not limited to, the language ability and disability status of students and/or employees, when responding to sexual misconduct incidents, both in the application of case procedures and in the assessment of applicable policies and discipline. 
+
+		Subject to Title IX, after an alleged incident of sexual abuse is accepted for investigation by a law enforcement agency, an alleged victim will not be interviewed by the agency regarding details of the alleged incident of sexual abuse until after the completion of a forensic interview, if such an interview is expected to be conducted.
+
+B. Informal Resolution of Complaints
+
+An informal resolution is available to the parties once a formal complaint has been filed and any time before a determination is made for a Title IX sexual harassment complaint. An informal resolution is used on a case-by-case basis, as determined by TWC and the Title IX coordinator. This option is available only when the complainant and respondent agree to an informal resolution. Usually, a preliminary inquiry will still precede this step to ensure that the case is appropriate for an informal resolution.
+
+		The parties must be provided with a written notice that includes the following:
+
+		A description of the reported misconduct and allegations
+
+		A description of the requirements of the informal resolution process
+
+		A description of the right of the parties to withdraw from the informal resolution process and resume the formal grievance process (However, once the informal resolution process is completed, the parties may not change their minds and revert to a formal grievance process.)
+
+		An explanation of the consequences that may result from participating in the process, including descriptions of sanctions that may result, and records that will be maintained and/or made potentially shareable
+
+		A determination of whether or not the resolution will be binding on the parties
+
+		An informal resolution is necessary in order to pursue the formal process of completing an investigation. Any party participating in an informal resolution may stop the process at any time and request a complete investigation.
+
+		Before conducting an informal resolution, TWC must obtain voluntary, written confirmation that the complainant and respondent want to resolve the matter through an informal resolution.
+
+		If TWC believes that the allegations involve serious misconduct or a pattern of employee misconduct, TWC may be unable to honor a request for confidentiality and/or an informal resolution.
+
+C. Notification of Allegations and Interview to the Parties
+
+The Title IX coordinator or their designee must provide written notice of allegations and interview to the parties before a formal interview takes place. If the allegations change at any point throughout the investigation, a written notice with the additional allegations must be provided again to both parties.
+
+		A Notification of Allegations must include the following:
+
+		Details of the allegation, as follows:
+
+		A summary of the allegations made including the date and location of the alleged incident
+
+		The identities of the parties involved (if known)
+
+		The classification of allegations made, including the conduct that is considered to be sex- and/or gender-based discrimination, sex- and/or gender-based harassment, sexual harassment, and/or sexual misconduct
+
+		The type of investigation that will occur
+
+		The rights of the parties to supportive measures
+
+		TWC and local resources that are available to the parties
+
+		Applicable section of the policies and procedures alleged to have been violated
+
+		A statement that the respondent is presumed to be not responsible for the alleged conduct until a determination is made according to the process outlined herein
+
+		A statement that the parties may have an advisor of their choice, such as an attorney
+
+		A reminder of the expectation of truthfulness in the process, including the consequences of providing false statements or submitting false information
+
+		A statement that the information learned and shared during an investigation must be treated as confidential
+
+		A Notification of Interview must be sent to parties at least four calendar days before the initial interview in order to provide parties with sufficient time to prepare for participation in the interview; however, circumstances may necessitate a shorter or longer time frame.
+
+		The notice must include the following:
+
+		Date
+
+		Time
+
+		Location
+
+		Name of the participants
+
+		Purpose of the investigative interview or meeting
+
+		If the investigation necessitates additional interviews, notification of subsequent interviews will be provided to parties, and the parties may waive the four-calendar-day time frame for preparation.
+
+		The notifications of allegations and interviews may, at TWC’s discretion, be combined into one notice containing all of the required information.
+
+D. Investigations
+
+Investigation Norms
+
+		All investigations, regardless of type, must be conducted in a prompt, thorough, fair, and impartial manner. Information that is protected by privilege must not be used during the investigation unless the party waives the applicable privilege.
+
+		Every investigation must include the following steps, though not necessarily in this order:
+
+		Interviewing all parties and conducting follow-up interviews as needed while notifying the parties of any meeting or interview in advance
+
+		Allowing each party the opportunity to provide any inculpatory and exculpatory evidence and suggest witnesses
+
+		Interviewing all available relevant witnesses and conducting follow-up interviews as necessary
+
+		Completing the investigation as promptly as possible and without unreasonable deviation from the intended timeline 
+
+		Providing the parties with status update notifications every ninety calendar days throughout the investigation
+
+		The following additional steps must be taken in cases falling under Title IX’s sexual harassment:
+
+		The Title IX coordinator or designee must write a comprehensive final report that summarizes the investigation and all witness interviews and addresses all relevant inculpatory and exculpatory evidence.
+
+		A decision-maker must review the material and render a determination of responsibility based upon a preponderance of the evidence standard.
+
+		The following additional steps must be taken in cases falling outside of Title IX’s definition of sexual harassment:
+
+		The Title IX coordinator or designee must write a comprehensive final report that summarizes the investigation and all witness interviews and addresses all relevant inculpatory and exculpatory evidence.
+
+		A decision-maker must review the material and render a determination of responsibility based upon a preponderance of the evidence standard.
+
+		TWC, not the parties, is responsible for the burden of proof and the burden of gathering evidence sufficient to reach a determination regarding responsibility.
+
+Investigative Report
+
+		Any investigation that the Title XI coordinator or designee conducts must result in an investigative report that fully summarizes the investigation and all witness interviews and addresses all relevant inculpatory and exculpatory evidence. Additionally, before completion, the Title IX coordinator or designee must share investigative reports falling under Title IX sexual harassment with the parties and their advisors. Investigative reports falling outside of Title IX sexual harassment must not be shared with the parties before the report is completed. Before completion of the Title IX sexual harassment investigative report, the investigator must send a copy of a draft of the report and any evidence obtained as part of the investigation that is directly related to the allegations made in a formal complaint to each party and their advisor for their review and inspection a copy. The parties must have 10 calendar days to submit a written response, which the investigator must consider before completing the investigative report. After completed, the investigator must provide the finalized investigative report to the parties and their advisors.
+
+Impact of Investigations
+
+		Corrective Action by the School Following a Title IX Report: Employees, vendors, and volunteers may be subject to appropriate corrective action following a non-Title IX investigation and report.
+
+	Employees: Employees who are found to have violated any Title IX policy or applicable law or statute are subject to disciplinary action up to and including dismissal.
+
+		Contractors, Consultants or Vendors: The Office of the General Counsel (OGC) must coordinate with the appropriate individuals within TWC to determine the appropriate disciplinary actions for contractors, consultants, or vendors, which may include debarment.
+
+		Volunteers: OGC must coordinate with the appropriate individuals within TWC to determine the appropriate disciplinary action for volunteers, which may include, but is not limited to, rescinding an individual’s authorization to serve as a volunteer.
+
+		Non-Title IX Investigations: Non-Title IX investigations are not subject to the procedures outlined above for Title IX investigations. Investigations that were initially designated as Title IX investigations but subsequently dismissed will no longer be subject to those procedures as of the date of dismissal.
+
+E. Determinations
+
+The parties must receive a determination regarding responsibility using the preponderance of the evidence standard. Regardless of the outcome of the investigation, TWC must take steps to prevent the recurrence of sexual harassment and all misconduct covered herein and correct any discriminatory effects on all impacted parties as appropriate.
+
+Cases Falling Under Title IX Sexual Harassment–Written Determinations
+
+		After the Title IX coordinator or designee has sent the draft investigative report to the parties, and before reaching a determination regarding responsibility, the decision-maker must:
+
+		give each party the opportunity to submit written, relevant questions that a party wants asked of any party or witness;
+
+		provide each party with the answers to their questions; and
+
+		allow for additional, limited follow-up questions from each party. 
+
+		The decision-maker may determine that a question is not relevant and will explain to the asking party any decision to exclude questions as not relevant. The decision-maker must issue a written determination regarding responsibility using the preponderance of the evidence standard.
+
+		The decision-maker must simultaneously send the written determination in a prompt and equitable manner to inform the parties and their advisors, including the parent and/or guardian of the respondent and complainant, of the following:
+
+		The section of the policies alleged to have been violated
+
+		The findings of fact that support the determination
+
+		The conclusions regarding the application of the findings of fact to the alleged policy violations
+
+		A statement of, and rationale for, the result as to each allegation, including a determination regarding responsibility, any disciplinary sanctions TWC will impose on the respondent, and whether remedies designed to restore or preserve equal access to the VR-CCRC educational program or activity will be provided by the respondent to the complainant
+
+		A description of the procedures for appeal, including the bases upon which the parties may appeal
+
+F. Discipline
+
+		Employees who violate the Title IX policy are subject to disciplinary action up to and including discharge.
+
+		Students who violate the Title IX policy are subject to disciplinary action under the CCRC Student Handbook.
+
+		Contractors, consultants, or vendors who violate the Title IX policy are subject to removal from and prohibited access to VR-CCRC premises, remedies of law, and/or remedies under their contract, up to and including contract termination.
+
+G. Resolution Timeframe
+
+Investigations must be completed promptly, although some investigations may take weeks or even months to complete, depending on the nature, extent, and complexity of the allegations, availability of witnesses, police involvement, and so on. 
+
+		The Title IX coordinator or designee must make a good faith effort to complete the resolution process, not including appeals and discipline, within a 90-business-day time frame, which may be extended, with notice to the parties as appropriate.
+
+H. Appeal Procedures
+
+		The agency must offer both parties the option to appeal from:
+
+		a determination regarding responsibility; and
+
+		the dismissal of a formal complaint or any allegations within the complaint.
+
+		The scope of appeal rights is determined based on whether the following factors may have changed the determination outcome:
+
+		Procedural irregularity
+
+		Newly discovered evidence 
+
+		Title IX personnel conflict of interest or bias
+
+		Neither the Title IX coordinator nor the decision-maker may also be the appeals officer. 
+
+Making an Appeal Request
+
+		The complainant and respondent may appeal a written determination or dismissal of a formal Title IX sexual harassment complaint through a written request, within five business days of receiving a written determination letter or notification of dismissal. Appeals may be made on any of the following grounds, which must be articulated in the appeal:
+
+		A procedural irregularity that affected the outcome of the matter
+
+		New evidence that was not reasonably available at the time the determination regarding responsibility or dismissal was made that may have affected the outcome of the matter
+
+		The Title IX coordinator, investigator, or decision-maker had a conflict of interest or bias for or against complainants or respondents generally or the individual complainant or respondent that affected the outcome of the matter
+
+		If exigent circumstances exist, then TWC may grant limited extensions. Any party may submit their request in person or by USPS mail to the office address listed below or to the Title IX coordinator.
+
+		Upon receiving an appeal, the appeals officer must notify each party in writing and give the parties an equal opportunity to submit a written statement in support of, or challenging, the determination outcome. The appeals officer must receive each party’s response within five business days. All responses and appeals must be shared with all parties.
+
+Receiving a Decision on an Appeal
+
+		The appeals officer must render a determination promptly but no later than 30 business days of receiving the written request for appeal. The 30-day response time frame may be extended for good cause. The appeals officer must notify both parties of the decision and document that notification. 
+
+I. Recordkeeping
+
+The Title IX coordinator is responsible for maintaining records related to all Title IX complaints. The records must be maintained for seven years and made available by request for each party.
+
+		The records of each complaint may include, but are not limited to, the following information:
+
+		Relevant information related to the complainant, respondent, and identified witnesses
+
+		Name and title of the individual who received the complaint
+
+		Date, time, nature, and location of the reported incident
+
+		Date VR-CCRC became aware of the incident
+
+		Date the Title IX coordinator received notice of the incident
+
+		Interim and supportive measures and resources offered to the parties
+
+		Final investigation reports
+
+		Outcome notification letters that were provided to the parties
+
+		Disciplinary sanctions issued to any individuals found in violation under these procedures
+
+		All materials used to train coordinators, investigators, decision-makers, and informal resolution facilitators regarding sexual harassment and Title IX procedures
+
+V. LIST OF APPENDICES
+
+A.  Appendix A: Student Rights in Investigations
+
+B.  Appendix B: Employee Rights in Investigations
+
+Appendix A
+
+Student Rights in Investigations
+
+When the Title IX coordinator learns about alleged sexual misconduct, an investigation must be undertaken. As part of the investigation, the students involved must give their side of the story about what happened. Based on this information, the Title IX investigators must decide if something “more likely than not” happened, and if it did, VR-CCRC must be notified and respond. Students have the following rights:
+
+		The right to have a prompt, thorough, fair and impartial investigation being conducted
+
+		The right to be heard and to share your experience
+
+		The right to request that the matter be resolved through informal resolution, subject to applicable law (This option is not available when a VR-CCRC employee is the subject of the investigation)
+
+		The right to an advisor of your choice be present during the process, subject to applicable law
+
+		The right to have a support person of your choosing to be in the room with you, subject to applicable law
+
+		The right to let the Title IX investigator know if you do not feel safe
+
+		The right to receive individualized supportive services at your school
+
+		The right to meet somewhere private
+
+		The right to request that the Title IX investigator to keep what you tell as private as possible
+
+		The right to present witnesses, evidence, and information to support your claim, subject to applicable law
+
+		The right to ask for an update on your case
+
+		The right to know the outcome of the investigation
+
+		The right to ask for a review of the outcome of the investigation
+
+		The right to be free from retaliation
+
+Appendix B
+
+Employee Rights in Investigations
+
+VR-CCRC is committed to providing a safe and secure working and learning environment free from discrimination, harassment, and retaliation. When a party files a complaint related to discrimination, harassment, or retaliation, VR-CCRC begins an investigation. The parties related to the complaint have certain rights during the investigation process. Employees’ rights include the following:
+
+		The right to receive a written notice of the investigation
+
+		The right to a prompt, reliable, and equitable resolution of the complaint
+
+		The right to receive individualized supportive services
+
+		The right to be referred to available supportive resources if needed
+
+		The right to have union representation (bargaining unit employees only)
+
+		The right for the process to respect the confidentiality and reputation of all parties to the extent permitted by applicable law
+
+		The right to request that the matter be resolved through informal resolution when appropriate
+
+		The right to present witnesses, evidence, and information to support your position, subject to applicable law
+
+		The right to obtain notification of the time frames for all major stages of the investigation
+
+		The right to be free from retaliation
+
+		The right to file a complaint with a federal, state, or local agency
+
+		The right to receive a written notice of the outcome of the investigationTitle IX Coordinator Training - Texas Higher Education Coordinating Board
 Home » Our Work » Supporting Our Institutions » Training » Title IX Coordinator Training
 Senate Bill 212 and House Bill 1735, 86th Texas Legislature, codified as Texas Education Code (TEC), Chapter 51, Subchapters E-2 and E-3, relate to the reporting of and the development of policies and recommended employee training regarding certain incidents of sexual harassment, sexual assault, dating violence, and stalking at public and private institutions of higher education in Texas. In accordance with Subchapters E-2 and E-3 and corresponding Texas Higher Education Coordinating Board (THECB) rules, codified as Texas Administrative Code (TAC), Chapter 3, Subchapter A, the materials included on this web page were developed by the Title IX Training Advisory Committee, which was established by the Board of the THECB in October 2019 (see THECB Rules, TAC, Chapter 1, Subchapter DD).
 Materials have been updated as of July 7, 2021, to reflect new forms.
@@ -2304,12 +3986,9 @@ Sitemap - Texas Higher Education Coordinating Board
 Hit enter to search or ESC to close
 Texas Higher Education Foundation
 Tri-Agency Workforce Initiative
-Building a Talent Strong Texas
 Institutional Funding Resources
 Texas Higher Education Accountability System
 Texas Public Higher Education Almanac
-THECB Quarterly Board Meetings
-THECB Board Committee Meetings
 Guidelines for Public Testimony
 Annual Internal Audit & Compliance Monitoring Plans
 Advisory Council on PSE For Persons With IDD
@@ -2335,7 +4014,6 @@ Courses, Calendars, and Reporting Frequently Asked Questions
 General Frequently Asked Questions (FAQs)
 Information and Resources for Higher Education Institutions
 Texas Commission on Community College Finance
-Building a Talent Strong Texas
 ADVi / Virtual Advising Project
 New Provisions for Plumbing Instruction and Licensure
 TASFA Frequently Asked Questions
@@ -2355,13 +4033,11 @@ Private Postsecondary Institution Resources
 Fraudulent and Substandard Institutions
 Institution and Program Development
 Institution and Program Modification
-Institution and Program Review
 Institutional Annual Reporting & Compliance
 Institutional Authorization to Operate in Texas
 Recognition of Accrediting Agencies
 Student Academic Record or Transcript Requests
 FAST Frequently Asked Questions
-Facilities Inventory and Audit
 Integrated Campus Planning System (ICPS)
 Report of Fundable Operating Expenses (RFOE)
 Institutional Certification and Compliance
@@ -2401,7 +4077,6 @@ Texas Science, Engineering, Math, and Science (T-STEM) Challenge Scholarship Pro
 Work-based Learning Opportunity Grants
 College & Career Readiness Standards
 Data Resources for LBB Measures (from THED)
-Educator Preparation Resources
 Building Replacement Estimate Reports
 Mission Statements for Public Universities & Health-Related Institutions
 State Authorization Reciprocity Agreement (SARA)
@@ -2412,19 +4087,15 @@ New Degree Program & Certificate Requests
 Program Rule Changes & Implementation
 National Research University Fund (NRUF)
 Research Reports, Policies and Resources
-Intellectual Property Policies
 Restricted Research Expenditures
-Student Financial Aid Programs
-IRS Certification Requirements
 Technology Innovation and Commercialization
 Governing Board Member Training
 Additional Training Requirements & Sources of Information for Members of Governing Boards
 Online Training – Community Colleges
-Online Training – Universities
 Guidance Regarding Perkins Grant Costs and Programmatic Disruptions During the COVID-19 Pandemic
 Tuition, Refunds, and Financial Aid Frequently Asked Questions
 VA Benefits and CARES Act Frequently Asked Questions
-Student Financial Aid ProgramsPerkins Basic Request for ApplicationsPerkins State Leadership Grants (RFA)Carl D. Perkins Career & Technical EducationData Submission & ReportingFormula FundingReport of Fundable Operating Expenses (RFOE)Financial ReportingProcurementNew Degree Program & Certificate Requests
+ProcurementNew Degree Program & Certificate RequestsPerkins Basic Request for ApplicationsPerkins Excellence Access and Opportunity Program Request for ApplicationsStudent Financial Aid ProgramsPerkins State Leadership Grants (RFA)Carl D. Perkins Career & Technical EducationData Submission & ReportingFormula FundingReport of Fundable Operating Expenses (RFOE)
 In Texas and across the country, our economy is racing forward in directions that require far greater skills, more education, and more credentials for a good job than ever before.Commissioner Harrison Keller
 Address Texas Higher Education Coordinating Board
 1801 Congress Ave. Suite 12.200
@@ -2435,12 +4106,9 @@ State Auditor’s Office Fraud, Waste, or Abuse Hotline
 twitterfacebooklinkedinyoutubeinstagram
 Texas Higher Education Foundation
 Tri-Agency Workforce Initiative
-Building a Talent Strong Texas
 Institutional Funding Resources
 Texas Higher Education Accountability System
 Texas Public Higher Education Almanac
-THECB Quarterly Board Meetings
-THECB Board Committee Meetings
 Guidelines for Public Testimony
 Texas.gov
 Texas.gov LogoFind ServicesExplore TexasResidentBusinessGovernmentTexas by TexasGlobe Icon EnglishSearch IconHamburger IconWelcome to Texas.govTexas.gov is the official website of the State of Texas. From here, weâll guide you to online services, resources, and information around our great state.
