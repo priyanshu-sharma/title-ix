@@ -9,7 +9,7 @@ __pycache__/
 src/crawler/dataset_domain/output/
 src/crawler/dataset_domain/test_data.csv
 src/crawler/dataset_domain/docs/
-src/crawler/extensions/Llamafiles/*.llamafile
+src/crawler/extensions/llamafiles/*.llamafile
 
 # C extensions
 *.so
