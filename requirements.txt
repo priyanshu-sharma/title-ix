@@ -5,6 +5,7 @@ fastapi
 ipython
 ipython-genutils
 jedi
+open-interpreter
 pandas
 poetry
 pre-commit
