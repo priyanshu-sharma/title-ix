@@ -1,19 +1,55 @@
-id,state,searched term,primary link,url,type
-1,california,"title ix california gov","https://www.cde.ca.gov/","https://www.cde.ca.gov/re/di/eo/genequitytitleix.asp#:~:text=Title%20IX%20is%20a%20federal,sex%20(including%20sexual%20harassment).",html
-2,california,"title ix california gov","https://www.cde.ca.gov/","https://www.cde.ca.gov/re/di/eo/sb1375crnt.asp",html
-3,texas,"title ix texas gov","https://www.highered.texas.gov/","https://reportcenter.highered.texas.gov/Training-materials/FAQ-title-ix-mandatory-reporting/",pdf
-4,texas,"title ix texas gov","https://www.highered.texas.gov/","https://reportcenter.highered.texas.gov/training-materials/handouts/title-ix-rules/",pdf
-5,texas,"title ix texas gov","https://www.twc.texas.gov/","https://www.twc.texas.gov/programs/vocational-rehabilitation/title-ix-coordinator",html
-6,texas,"title ix texas gov","https://www.twc.texas.gov/","https://www.twc.texas.gov/sites/default/files/vr/docs/title-ix-procedure-manual-twc.docx",docs
-7,texas,"title ix texas gov","https://www.highered.texas.gov/","https://www.highered.texas.gov/our-work/supporting-our-institutions/training/title-ix-coordinator-training/",html
-8,new_york,"title ix new york gov","https://www.schools.nyc.gov/","https://www.schools.nyc.gov/about-us/policies/non-discrimination-policy/title-ix",html
-9,new_york,"title ix new york gov","https://www.nysed.gov/","https://www.nysed.gov/sites/default/files/article-129-b-guidance.pdf",pdf
-10,new_york,"title ix new york gov","https://www.health.ny.gov/","https://www.health.ny.gov/prevention/sexual_violence/docs/regulations.pdf",pdf
-11,new_york,"title ix new york gov","https://www.schools.nyc.gov/","https://www.schools.nyc.gov/about-us/policies/non-discrimination-policy",html
-12,new_york,"title ix new york gov","https://www.ny.gov/","https://www.ny.gov/programs/combating-sexual-harassment-workplace",html
-13,utah,"title ix utah gov","https://schools.utah.gov/","https://schools.utah.gov/educationalequity/titleix.php",html
-14,utah,"title ix utah gov","https://le.utah.gov/","https://le.utah.gov/xcode/Title9/9.html",html
-15,utah,"title ix utah gov","https://le.utah.gov/","https://le.utah.gov/interim/2023/pdf/00002776.pdf",pdf
-16,utah,"title ix utah gov","https://www.utah.gov/","https://www.utah.gov/pmn/files/822179.pdf",pdf
-17,utah,"title ix utah gov","https://www.utah.gov/","https://www.utah.gov/pmn/files/873289.pdf",pdf
-18,utah,"title ix utah gov","https://le.utah.gov/","https://le.utah.gov/xcode/Title53G/Chapter8/53G-8-S802.html",html
+id,state,searched term,primary link,url,type,color
+1,california,"title ix california gov","https://www.cde.ca.gov/","https://www.cde.ca.gov/re/di/eo/genequitytitleix.asp#:~:text=Title%20IX%20is%20a%20federal,sex%20(including%20sexual%20harassment).",html,Blue
+2,california,"title ix california gov","https://www.cde.ca.gov/","https://www.cde.ca.gov/re/di/eo/sb1375crnt.asp",html,Blue
+3,texas,"title ix texas gov","https://www.highered.texas.gov/","https://reportcenter.highered.texas.gov/Training-materials/FAQ-title-ix-mandatory-reporting/",pdf,Red
+4,texas,"title ix texas gov","https://www.highered.texas.gov/","https://reportcenter.highered.texas.gov/training-materials/handouts/title-ix-rules/",pdf,Red
+5,texas,"title ix texas gov","https://www.twc.texas.gov/","https://www.twc.texas.gov/programs/vocational-rehabilitation/title-ix-coordinator",html,Red
+6,texas,"title ix texas gov","https://www.twc.texas.gov/","https://www.twc.texas.gov/sites/default/files/vr/docs/title-ix-procedure-manual-twc.docx",docs,Red
+7,texas,"title ix texas gov","https://www.highered.texas.gov/","https://www.highered.texas.gov/our-work/supporting-our-institutions/training/title-ix-coordinator-training/",html,Red
+8,new_york,"title ix new york gov","https://www.schools.nyc.gov/","https://www.schools.nyc.gov/about-us/policies/non-discrimination-policy/title-ix",html,Blue
+9,new_york,"title ix new york gov","https://www.nysed.gov/","https://www.nysed.gov/sites/default/files/article-129-b-guidance.pdf",pdf,Blue
+10,new_york,"title ix new york gov","https://www.health.ny.gov/","https://www.health.ny.gov/prevention/sexual_violence/docs/regulations.pdf",pdf,Blue
+11,new_york,"title ix new york gov","https://www.schools.nyc.gov/","https://www.schools.nyc.gov/about-us/policies/non-discrimination-policy",html,Blue
+12,new_york,"title ix new york gov","https://www.ny.gov/","https://www.ny.gov/programs/combating-sexual-harassment-workplace",html,Blue
+13,utah,"title ix utah gov","https://schools.utah.gov/","https://schools.utah.gov/educationalequity/titleix.php",html,Red
+14,utah,"title ix utah gov","https://le.utah.gov/","https://le.utah.gov/xcode/Title9/9.html",html,Red
+15,utah,"title ix utah gov","https://le.utah.gov/","https://le.utah.gov/interim/2023/pdf/00002776.pdf",pdf,Red
+16,utah,"title ix utah gov","https://www.utah.gov/","https://www.utah.gov/pmn/files/822179.pdf",pdf,Red
+17,utah,"title ix utah gov","https://www.utah.gov/","https://www.utah.gov/pmn/files/873289.pdf",pdf,Red
+18,utah,"title ix utah gov","https://le.utah.gov/","https://le.utah.gov/xcode/Title53G/Chapter8/53G-8-S802.html",html,Red
+19,maryland,"title ix maryland gov","https://mhec.maryland.gov/","https://mhec.maryland.gov/Pages/Title-IX-Campus-Sexual-Assault-Proceedings.aspx",html,Blue
+20,maryland,"title ix maryland gov","https://mhec.maryland.gov/","https://mhec.maryland.gov/Pages/Title-IX-Campus-Sexual-Assault-Proceedings---Attorney-List.aspx",html,Blue
+21,maryland,"title ix maryland gov","https://mhec.maryland.gov/","https://mhec.maryland.gov/Pages/Title-IX-Campus-Sexual-Assault-Proceedings---Attorney-Reimbursement-Procedures.aspx",html,Blue
+22,maryland,"title ix maryland gov","https://mgaleg.maryland.gov/","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0016?ys=2023RS&search=True",html,Blue
+23,maryland,"title ix maryland gov","https://mgaleg.maryland.gov/","https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0887?ys=2022RS",html,Blue
+24,maryland,"title ix maryland gov","https://mgaleg.maryland.gov/","https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=ged&section=11-601",html,Blue
+25,maryland,"title ix maryland gov","https://mgaleg.maryland.gov/","https://mgaleg.maryland.gov/2023RS/Chapters_noln/CH_678_hb0016t.pdf",pdf,Blue
+26,maryland,"title ix maryland gov","https://mgaleg.maryland.gov/","https://mgaleg.maryland.gov/2022RS/fnotes/bil_0007/sb0887.pdf",pdf,Blue
+27,maryland,"title ix maryland gov","https://mgaleg.maryland.gov/","https://mhec.maryland.gov/SiteAssets/Pages/Title-IX-Campus-Sexual-Assault-Proceedings/List%20Registration%20Form.pdf",pdf,Blue
+28,maryland,"title ix maryland gov","https://mhec.maryland.gov/","https://mhec.maryland.gov/SiteAssets/Pages/Title-IX-Campus-Sexual-Assault-Proceedings---Attorney-Reimbursement-Procedures/Additional%20Information%20Form.pdf",pdf,Blue
+29,maryland,"title ix maryland gov","https://mhec.maryland.gov/","https://mhec.maryland.gov/SiteAssets/Pages/Title-IX-Campus-Sexual-Assault-Proceedings---Attorney-List/Title%20IX%20Campus%20Sexual%20Assault%20Attorney%20List.pdf",pdf,Blue
+30,maryland,"title ix maryland gov","https://mccr.maryland.gov/","https://mccr.maryland.gov/Pages/Intake.aspx",html,Blue
+31,south carolina,"title ix south carolina gov","https://ed.sc.gov/","https://ed.sc.gov/jobs/human-resources/title-ix-compliance/",pdf,Red
+32,south carolina,"title ix south carolina gov","https://ed.sc.gov/","https://ed.sc.gov/newsroom/school-district-memoranda-archive/title-ix-initiative-and-the-district-entity-information-management-system/title-ix-initiative-and-the-district-entity-information-management-system-memo/",pdf,Red
+33,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=325&numrows=10",html,Red
+34,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=273&numrows=10",html,Red
+35,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=830&numrows=10",html,Red
+36,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=1298&numrows=10",html,Red
+37,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=351&numrows=10",html,Red
+38,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=670&numrows=10",html,Red
+39,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/code/statmast.php",html,Red
+40,kansas,"title ix kansas gov","https://www.ksde.org/","https://www.ksde.org/Agency/Division-of-Learning-Services/Student-Staff-Training/Prevention-and-Responsive-Culture/Sexual-Harassment-Title-IX",html,Red
+41,kansas,"title ix kansas gov","https://www.kckschools.org/","https://www.kckschools.org/federal-programs/title-ix-information",html,Red
+42,massachusetts,"title ix massachusetts gov","https://www.mass.gov/","https://www.mass.gov/info-details/massachusetts-law-about-sexual-harassment",html,Blue
+43,massachusetts,"title ix massachusetts gov","https://www.mass.gov/","https://www.mass.gov/news/ag-healey-supports-federal-proposal-aimed-at-strengthening-protections-against-sexual-harassment-in-schools",html,Blue
+44,massachusetts,"title ix massachusetts gov","https://www.mma.org/","https://www.mma.org/schools-must-comply-with-new-title-ix-regulations/",html,Blue
+45,massachusetts,"title ix massachusetts gov","https://malegislature.gov/","https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter59/Section4",html,Blue
+46,massachusetts,"title ix massachusetts gov","https://malegislature.gov/","https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64E/Section12",html,Blue
+47,washington,"title ix washington gov","https://app.leg.wa.gov/","https://app.leg.wa.gov/wac/default.aspx?cite=132E-122-250",html,Blue
+48,washington,"title ix washington gov","https://app.leg.wa.gov/","https://apps.leg.wa.gov/wac/default.aspx?cite=516-21&full=true",html,Blue
+49,washington,"title ix washington gov","https://ospi.k12.wa.us/","https://ospi.k12.wa.us/policy-funding/equity-and-civil-rights/resources-school-districts-civil-rights-washington-schools/discriminatory-and-sexual-harassment",html,Blue
+50,washington,"title ix washington gov","https://ospi.k12.wa.us/","https://ospi.k12.wa.us/sites/default/files/2023-08/20200810_sexual-harassment-webinar_final.pdf",pdf,Blue
+51,south dakota,"title ix south dakota gov","https://doe.sd.gov/","https://doe.sd.gov/title/IX.aspx",html,Red
+52,south dakota,"title ix south dakota gov","https://doe.sd.gov/","https://doe.sd.gov/oatq/civilrights.aspx",html,Red
+53,south dakota,"title ix south dakota gov","https://sdlegislature.gov/","https://sdlegislature.gov/Statutes/23-5C-2",html,Red
+54,south dakota,"title ix south dakota gov","https://sdlegislature.gov/","https://sdlegislature.gov/Statutes/13",html,Red
