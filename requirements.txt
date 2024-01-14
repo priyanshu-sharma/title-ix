@@ -9,7 +9,7 @@ open-interpreter
 pandas
 poetry
 pre-commit
-# pyautogen==0.2.0
+pyautogen==0.2.0
 PyPDF2<3.0
 python-json-logger
 requests
