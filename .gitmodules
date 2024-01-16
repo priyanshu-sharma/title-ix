@@ -1,0 +1,3 @@
+[submodule "src/crawler/extensions/privateGPT"]
+	path = src/crawler/extensions/privateGPT
+	url = https://github.com/imartinez/privateGPT.git
