@@ -19,7 +19,7 @@ teachable_agent = ConversableAgent(
 teachability = Teachability(
     verbosity=0,
     reset_db=True,
-    path_to_db_dir="../../dataset_domain/output",
+    path_to_db_dir="./output",
     recall_threshold=1.5, 
 )
 
