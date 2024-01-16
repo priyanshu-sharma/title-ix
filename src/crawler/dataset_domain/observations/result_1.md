@@ -230,16 +230,3 @@ In summary, ATIXA is a professional organization that supports individuals invol
 ```
 
 
-# Result with Autogen Framwork
-
-Agent Scenario
-
-1. Lawyer defending for better policies.
-2. Think Tank fomulating the study to figure out various drawbacks of these policies.
-3. News Agency to conduct a autonomus survey.
-4. Companies top org thinking about opening new facilities in these states but major workforce is woman/diversified. Which is better.
-
-Observations: -
-
-Very less documentation as well as docs related to state level title ix documentation (lacking) altought they have university level documentations. State-level documentation lacking
-for kansas, South Carolina

@@ -6,7 +6,7 @@ __pycache__/
 *$py.class
 
 # Output directory
-src/crawler/dataset_domain/output/
+# src/crawler/dataset_domain/output/
 src/crawler/dataset_domain/test_data.csv
 src/crawler/dataset_domain/docs/
 src/crawler/extensions/llamafiles/*.llamafile
