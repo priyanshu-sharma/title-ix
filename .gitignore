@@ -10,6 +10,11 @@ __pycache__/
 src/crawler/dataset_domain/test_data.csv
 src/crawler/dataset_domain/docs/
 src/crawler/extensions/llamafiles/*.llamafile
+src/crawler/dataset_domain/output/08139c81-be35-4a3c-b6bc-4cdabe0b1598/
+src/crawler/dataset_domain/output/chroma.sqlite3
+src/crawler/dataset_domain/output/uid_text_dict.pkl
+src/crawler/extensions/autogen/output/
+src/crawler/extensions/ollama/
 
 # C extensions
 *.so
