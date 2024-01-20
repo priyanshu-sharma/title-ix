@@ -33,3 +33,6 @@ class TitleIXRag:
     def chat(self, problem):
         self.texas_assistant.reset()
         self.texas_ragproxyagent.initiate_chat(self.texas_assistant, problem=problem)
+
+title = TitleIXRag()
+title.chat("Give me a brief summary of Title IX implementation in Texas State.")
