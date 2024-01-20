@@ -32,8 +32,7 @@ class TitleIXRag:
                 "docs_path": "https://raw.githubusercontent.com/priyanshu-sharma/title-ix/master/src/crawler/dataset_domain/output/california.txt",
                 "must_break_at_empty_line": False,
                 "client": chromadb.PersistentClient(path="./db"),
-                "collection_name": "california-titleix",
-                "embedding_model": "all-MiniLM-L6-v2"
+                "collection_name": "california-titleix"
             },
         )
 
