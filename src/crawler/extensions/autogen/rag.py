@@ -17,16 +17,17 @@ class TitleIXRag:
 
         self.texas_assistant = RetrieveAssistantAgent(
             name="assistant",
-            system_message="You are a helpful assistant, which help in summarizing policies, plan and other implementation details of Title IX implementation in Texas.",
+            system_message="You are a helpful assistant.",
             llm_config=self.llm_config,
         )
 
         self.texas_ragproxyagent = RetrieveUserProxyAgent(
             name="ragproxyagent",
+            human_input_mode="NEVER",
+            max_consecutive_auto_reply=10,
             retrieve_config={
                 "task": "qa",
-                "must_break_at_empty_line": "True",
-                "docs_path": "https://raw.githubusercontent.com/priyanshu-sharma/title-ix/master/src/crawler/dataset_domain/output/texas.txt?token=GHSAT0AAAAAAB3JO6UQ4NKO7LH7E5NGO5QEZNGFFJA",
+                "docs_path": "https://raw.githubusercontent.com/priyanshu-sharma/title-ix/master/src/crawler/dataset_domain/output/california.txt",
             },
         )
 
@@ -35,4 +36,4 @@ class TitleIXRag:
         self.texas_ragproxyagent.initiate_chat(self.texas_assistant, problem=problem)
 
 title = TitleIXRag()
-title.chat("Give me a brief summary of Title IX implementation in Texas State.")
+title.chat("Give me a brief summary of Title IX implementation in California State.")
