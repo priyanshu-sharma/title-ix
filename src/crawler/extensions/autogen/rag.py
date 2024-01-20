@@ -25,7 +25,6 @@ class TitleIXRag:
             name="ragproxyagent",
             human_input_mode="NEVER",
             max_consecutive_auto_reply=10,
-            model="mistral",
             retrieve_config={
                 "task": "qa",
                 "docs_path": "https://raw.githubusercontent.com/priyanshu-sharma/title-ix/master/src/crawler/dataset_domain/output/california.txt",
