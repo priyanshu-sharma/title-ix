@@ -30,7 +30,7 @@ class TitleIXRag:
             retrieve_config={
                 "task": "qa",
                 "docs_path": "https://raw.githubusercontent.com/priyanshu-sharma/title-ix/master/src/crawler/dataset_domain/output/california.txt",
-                "must_break_at_empty_line": true,
+                "must_break_at_empty_line": True,
                 "model": "mistral",
                 "client": chromadb.PersistentClient(path="./db"),
                 "collection_name": "california-titleix",
