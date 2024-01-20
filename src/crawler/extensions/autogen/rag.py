@@ -9,7 +9,7 @@ import chromadb
 
 class TitleIXRag:
     def __init__(self):
-        self.config_list = [{"base_url": "http://0.0.0.0:8000", "model": "mistral"}]
+        self.config_list = [{"base_url": "http://127.0.0.1:8000", "model": "mistral"}]
         self.llm_config = {
             "cache_seed": 42,  
             "temperature": 0,
@@ -30,6 +30,7 @@ class TitleIXRag:
             retrieve_config={
                 "task": "qa",
                 "docs_path": "https://raw.githubusercontent.com/priyanshu-sharma/title-ix/master/src/crawler/dataset_domain/output/california.txt",
+                "model": "ollama/mistral",
                 "must_break_at_empty_line": False,
                 "client": chromadb.PersistentClient(path="./db"),
                 "collection_name": "california-titleix",
@@ -42,6 +43,6 @@ class TitleIXRag:
         self.texas_ragproxyagent.initiate_chat(self.texas_assistant, problem=problem)
 
 title = TitleIXRag()
-title.chat("List all the importrant")
+title.chat("Brief summary about the context.")
 title.chat("Give me a brief summary of Title IX implementation in California State.")
 title.chat("How is Title IX implementated in California State in terms of policies, plan, strategy, and other details.")
