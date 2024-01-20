@@ -25,9 +25,11 @@ class TitleIXRag:
             name="ragproxyagent",
             human_input_mode="NEVER",
             max_consecutive_auto_reply=10,
+            model="mistral",
             retrieve_config={
                 "task": "qa",
                 "docs_path": "https://raw.githubusercontent.com/priyanshu-sharma/title-ix/master/src/crawler/dataset_domain/output/california.txt",
+                "must_break_at_empty_line": True
             },
         )
 
@@ -37,3 +39,4 @@ class TitleIXRag:
 
 title = TitleIXRag()
 title.chat("Give me a brief summary of Title IX implementation in California State.")
+title.chat("How is Title IX implementated in California State in terms of policies, plan, strategy, and other details.")
