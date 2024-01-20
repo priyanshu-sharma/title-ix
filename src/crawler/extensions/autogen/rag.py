@@ -29,10 +29,11 @@ class TitleIXRag:
             max_consecutive_auto_reply=10,
             retrieve_config={
                 "task": "qa",
-                "docs_path": "https://raw.githubusercontent.com/priyanshu-sharma/title-ix/master/src/crawler/dataset_domain/output/california.txt",
+                "docs_path": ["https://raw.githubusercontent.com/priyanshu-sharma/title-ix/master/src/crawler/dataset_domain/output/california.txt", "https://raw.githubusercontent.com/priyanshu-sharma/title-ix/master/src/crawler/dataset_domain/output/texas.txt"],
                 "must_break_at_empty_line": False,
                 "client": chromadb.PersistentClient(path="./db"),
-                "collection_name": "california-titleix"
+                "collection_name": "titleix",
+                "get_or_create": True,
             },
         )
 
@@ -41,6 +42,8 @@ class TitleIXRag:
         self.texas_ragproxyagent.initiate_chat(self.texas_assistant, problem=problem)
 
 title = TitleIXRag()
-title.chat("Brief summary about the context.")
-title.chat("Give me a brief summary of Title IX implementation in California State.")
+# title.chat("Brief summary about the context.")
+# title.chat("Give me a brief summary of Title IX implementation in California State.")
 title.chat("How is Title IX implementated in California State in terms of policies, plan, strategy, and other details.")
+title.chat("How is Title IX implementated in Texas State in terms of policies, plan, strategy, and other details.")
+title.chat("How is Title IX implementation is different in California vs Texas State in terms of policies, plan, strategy, and other details.")
