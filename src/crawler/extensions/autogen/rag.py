@@ -4,6 +4,8 @@ from autogen.agentchat.contrib.retrieve_assistant_agent import \
 from autogen.agentchat.contrib.retrieve_user_proxy_agent import \
     RetrieveUserProxyAgent
 
+import chromadb
+
 
 class TitleIXRag:
     def __init__(self):
@@ -28,7 +30,11 @@ class TitleIXRag:
             retrieve_config={
                 "task": "qa",
                 "docs_path": "https://raw.githubusercontent.com/priyanshu-sharma/title-ix/master/src/crawler/dataset_domain/output/california.txt",
-                "must_break_at_empty_line": True
+                "must_break_at_empty_line": true,
+                "model": "mistral",
+                "client": chromadb.PersistentClient(path="./db"),
+                "collection_name": "california-titleix",
+                "embedding_model": "all-MiniLM-L6-v2"
             },
         )
 
@@ -37,5 +43,6 @@ class TitleIXRag:
         self.texas_ragproxyagent.initiate_chat(self.texas_assistant, problem=problem)
 
 title = TitleIXRag()
+title.chat("List all the importrant")
 title.chat("Give me a brief summary of Title IX implementation in California State.")
 title.chat("How is Title IX implementated in California State in terms of policies, plan, strategy, and other details.")
