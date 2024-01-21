@@ -136,7 +136,7 @@ class Crawl:
                 child_data = self.get_child_link_data(link_list)
                 self.formatted_data = self.formatted_data + format_data + child_data
         # logger.info("Formatted Child Data - {}".format(self.formatted_data))
-        with open('output/{}.txt'.format(self.starting_state), "w", encoding="utf-8") as f:
+        with open('../output_domain/{}.txt'.format(self.starting_state), "w", encoding="utf-8") as f:
             f.write(self.formatted_data)
 
 csv_path = 'data.csv'

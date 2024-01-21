@@ -7,6 +7,7 @@ ipython
 ipython-genutils
 jedi
 litellm
+llama-index
 open-interpreter
 pandas
 poetry
