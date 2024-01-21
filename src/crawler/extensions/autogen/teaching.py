@@ -29,7 +29,7 @@ user = UserProxyAgent(
     name="user",
     human_input_mode="NEVER",
     is_termination_msg=lambda x: True if "TERMINATE" in x.get("content") else False,
-    max_consecutive_auto_reply=0,
+    max_consecutive_auto_reply=3,
 )
 
 text = "How is Title IX implemented in California?"
