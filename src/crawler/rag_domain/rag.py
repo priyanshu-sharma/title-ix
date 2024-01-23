@@ -21,30 +21,27 @@ class TitleRag:
 
     def type_one(self, city_one):
         question = 'Can you give me the summary of this Title IX Implemention of {}?'.format(city_one)
-        print(question)
-        # response = self.query_engine.query(question)
-        # self.result.append({
-        #     'Question': question,
-        #     'Response': response.response,
-        # })
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
 
     def type_two(self, city_one, city_two):
         question = 'How is the implementation of Title IX is different in {} and {}?'.format(city_one, city_two)
-        print(question)
-        # response = self.query_engine.query(question)
-        # self.result.append({
-        #     'Question': question,
-        #     'Response': response.response,
-        # })
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
 
     def type_three(self, total_cities, cities_string):
         question = 'How are Title IX Implementation is different in all {} states, i.e. - {}? List only the differences.'.format(total_cities, cities_string)
-        print(question)
-        # response = self.query_engine.query(question)
-        # self.result.append({
-        #     'Question': question,
-        #     'Response': response.response,
-        # })
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
     
     def pre_evaluation(self):
         for city in self.cities:
