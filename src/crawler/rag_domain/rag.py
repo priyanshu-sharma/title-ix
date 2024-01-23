@@ -44,12 +44,12 @@ class TitleRag:
     
     def pre_evaluation(self):
         self.type_one('California')
-        # self.type_one('Texas')
-        # self.type_one('Utah')
-        # self.type_two('California', 'Texas')
-        # self.type_two('Utah', 'Texas')
-        # self.type_two('Utah', 'California')
-        # self.type_three('three', 'California, Texas and Utah')
+        self.type_one('Texas')
+        self.type_one('Utah')
+        self.type_two('California', 'Texas')
+        self.type_two('Utah', 'Texas')
+        self.type_two('Utah', 'California')
+        self.type_three('three', 'California, Texas and Utah')
         with open("output.json", "w") as f:
             json.dump(self.result, f)
 
