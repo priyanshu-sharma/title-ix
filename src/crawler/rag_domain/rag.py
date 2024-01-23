@@ -21,10 +21,9 @@ class TitleRag:
     def type_one(self, city_one):
         question = 'Can you give me the summary of this Title IX Implemention of {}?'.format(city_one)
         response = self.query_engine.query(question)
-        print(response)
         self.result.append({
             'Question': question,
-            'Response': response
+            'Response': response.response,
         })
 
     def type_two(self, city_one, city_two):
@@ -32,7 +31,7 @@ class TitleRag:
         response = self.query_engine.query(question)
         self.result.append({
             'Question': question,
-            'Response': response
+            'Response': response.response,
         })
 
     def type_three(self, total, cities):
@@ -40,7 +39,7 @@ class TitleRag:
         response = self.query_engine.query(question)
         self.result.append({
             'Question': question,
-            'Response': response
+            'Response': response.response,
         })
     
     def pre_evaluation(self):
