@@ -12,9 +12,9 @@ class TitleRag:
     def __init__(self):
         llm = Ollama(model="mistral")
         self.result = []
-        self.cities = ['California', 'Texas', 'Utah', 'New York']
+        self.cities = ['California', 'Texas', 'Utah', 'New York', 'Kansas', 'Maryland', 'Massachusetts', 'South Carolina', 'South Dakota', 'Washington']
         service_context = ServiceContext.from_defaults(llm=llm, embed_model="local")
-        documents = SimpleDirectoryReader("data").load_data()
+        documents = SimpleDirectoryReader("../output_domain").load_data()
         index = VectorStoreIndex.from_documents(documents, service_context=service_context)
         self.query_engine = index.as_query_engine()
         self.pre_evaluation()
