@@ -12,6 +12,7 @@ class TitleRag:
     def __init__(self):
         llm = Ollama(model="mistral")
         self.result = []
+        self.cities = ['California', 'Texas', 'Utah', 'New York']
         service_context = ServiceContext.from_defaults(llm=llm, embed_model="local")
         documents = SimpleDirectoryReader("data").load_data()
         index = VectorStoreIndex.from_documents(documents, service_context=service_context)
@@ -20,36 +21,40 @@ class TitleRag:
 
     def type_one(self, city_one):
         question = 'Can you give me the summary of this Title IX Implemention of {}?'.format(city_one)
-        response = self.query_engine.query(question)
-        self.result.append({
-            'Question': question,
-            'Response': response.response,
-        })
+        print(question)
+        # response = self.query_engine.query(question)
+        # self.result.append({
+        #     'Question': question,
+        #     'Response': response.response,
+        # })
 
     def type_two(self, city_one, city_two):
         question = 'How is the implementation of Title IX is different in {} and {}?'.format(city_one, city_two)
-        response = self.query_engine.query(question)
-        self.result.append({
-            'Question': question,
-            'Response': response.response,
-        })
+        print(question)
+        # response = self.query_engine.query(question)
+        # self.result.append({
+        #     'Question': question,
+        #     'Response': response.response,
+        # })
 
-    def type_three(self, total, cities):
-        question = 'How are Title IX Implementation is different in all {} states, i.e. - {}? List only the differences.'.format(total, cities)
-        response = self.query_engine.query(question)
-        self.result.append({
-            'Question': question,
-            'Response': response.response,
-        })
+    def type_three(self, total_cities, cities_string):
+        question = 'How are Title IX Implementation is different in all {} states, i.e. - {}? List only the differences.'.format(total_cities, cities_string)
+        print(question)
+        # response = self.query_engine.query(question)
+        # self.result.append({
+        #     'Question': question,
+        #     'Response': response.response,
+        # })
     
     def pre_evaluation(self):
-        self.type_one('California')
-        self.type_one('Texas')
-        self.type_one('Utah')
-        self.type_two('California', 'Texas')
-        self.type_two('Utah', 'Texas')
-        self.type_two('Utah', 'California')
-        self.type_three('three', 'California, Texas and Utah')
+        for city in self.cities:
+            self.type_one(city)
+        for i in range(0, len(self.cities)):
+            for j in range(0, len(self.cities)):
+                if self.cities[i] != self.cities[j]:
+                    self.type_two(self.cities[i], self.cities[j])
+        cities_string = ', '.join(str(city) for city in self.cities)
+        self.type_three(len(self.cities), cities_string)
         with open("output.json", "w") as f:
             json.dump(self.result, f)
 
