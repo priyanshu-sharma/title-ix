@@ -20,7 +20,8 @@ class TitleRag:
 
     def type_one(self, city_one):
         question = 'Can you give me the summary of this Title IX Implemention of {}?'.format(city_one)
-        response = self.query_engine.query(question).json()
+        response = self.query_engine.query(question)
+        response = json.loads(response)
         self.result.append({
             'Question': question,
             'Response': response
