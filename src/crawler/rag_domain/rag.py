@@ -17,29 +17,39 @@ class TitleRag:
         index = VectorStoreIndex.from_documents(documents, service_context=service_context)
         self.query_engine = index.as_query_engine()
         self.pre_evaluation()
+
+    def type_one(self, city_one):
+        question = 'Can you give me the summary of this Title IX Implemention of {}?'.format(city_one)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response
+        })
+
+    def type_two(self, city_one, city_two):
+        question = 'How is the implementation of Title IX is different in {} and {}?'.format(city_one, city_two)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response
+        })
+
+    def type_three(self, total, cities):
+        question = 'How are Title IX Implementation is different in all {} states, i.e. - {}? List only the differences.'.format(total, cities)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response
+        })
     
     def pre_evaluation(self):
-        response = self.query_engine.query("Can you give me the summary of this Title IX Implemention of California?")
-        self.result.append(response)
-        print(response)
-        response = self.query_engine.query("Can you give me the summary of this Title IX Implemention of Texas?")
-        self.result.append(response)
-        print(response)
-        response = self.query_engine.query("Can you give me the summary of this Title IX Implemention of Utah?")
-        self.result.append(response)
-        print(response)
-        response = self.query_engine.query("How is the implementation of Title IX is different in California and Texas?")
-        self.result.append(response)
-        print(response)
-        response = self.query_engine.query("How is the implementation of Title IX is different in Utah and Texas?")
-        self.result.append(response)
-        print(response)
-        response = self.query_engine.query("How is the implementation of Title IX is different in California and Utah?")
-        self.result.append(response)
-        print(response)
-        response = self.query_engine.query("How are Title IX Implementation is different in all three states, i.e. - California, Texas and Utah? List only the differences.")
-        self.result.append(response)
-        print(response)
+        self.type_one('California')
+        # self.type_one('Texas')
+        # self.type_one('Utah')
+        # self.type_two('California', 'Texas')
+        # self.type_two('Utah', 'Texas')
+        # self.type_two('Utah', 'California')
+        # self.type_three('three', 'California, Texas and Utah')
         with open("output.json", "w") as f:
             json.dump(self.result, f)
 
