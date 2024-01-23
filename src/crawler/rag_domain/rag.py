@@ -44,7 +44,7 @@ class TitleRag:
         })
     
     def pre_evaluation(self):
-        self.type_one('California')
+        # self.type_one('California')
         # self.type_one('Texas')
         # self.type_one('Utah')
         # self.type_two('California', 'Texas')
