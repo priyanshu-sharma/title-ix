@@ -3,17 +3,31 @@ import logging
 import sys
 
 from llama_index import ServiceContext, SimpleDirectoryReader, VectorStoreIndex
+from llama_index.extractors import (EntityExtractor, KeywordExtractor,
+                                    QuestionsAnsweredExtractor,
+                                    SummaryExtractor, TitleExtractor)
 from llama_index.llms import Ollama
+from llama_index.node_parser import SemanticSplitterNodeParser
+from llama_index.embeddings import HuggingFaceEmbedding
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 
 class TitleRag:
     def __init__(self):
-        llm = Ollama(model="mistral")
         self.result = []
         self.cities = ['California', 'Texas', 'Utah', 'New York', 'Kansas', 'Maryland', 'Massachusetts', 'South Carolina', 'South Dakota', 'Washington']
-        service_context = ServiceContext.from_defaults(llm=llm, embed_model="local")
+        llm = Ollama(model="mistral")
+        embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
+        transformation = [
+            SemanticSplitterNodeParser(buffer_size=1, breakpoint_percentile_threshold=95, embed_model=embed_model),
+            TitleExtractor(nodes=5, llm=llm),
+            QuestionsAnsweredExtractor(questions=3, llm=llm),
+            EntityExtractor(prediction_threshold=0.5),
+            SummaryExtractor(summaries=["prev", "self"], llm=llm),
+            KeywordExtractor(keywords=10, llm=llm),
+        ]
+        service_context = ServiceContext.from_defaults(llm=llm, embed_model="local", embed_model=embed_model, transformations=transformation)
         documents = SimpleDirectoryReader("../output_domain").load_data()
         documents = self.add_metadata(documents)
         print([document.metadata for document in documents])
