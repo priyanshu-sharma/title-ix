@@ -27,7 +27,7 @@ class TitleRag:
             SummaryExtractor(summaries=["prev", "self"], llm=llm),
             KeywordExtractor(keywords=10, llm=llm),
         ]
-        service_context = ServiceContext.from_defaults(llm=llm, embed_model="local", embed_model=embed_model, transformations=transformation)
+        service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformation)
         documents = SimpleDirectoryReader("../output_domain").load_data()
         documents = self.add_metadata(documents)
         print([document.metadata for document in documents])
