@@ -17,7 +17,7 @@ logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 class TitleRag:
     def __init__(self):
         self.result = []
-        self.cities = ['California', 'Texas', 'Utah', 'New York', 'Kansas', 'Maryland', 'Massachusetts', 'South Carolina', 'South Dakota', 'Washington']
+        self.cities = ['California']#, 'Texas', 'Utah', 'New York', 'Kansas', 'Maryland', 'Massachusetts', 'South Carolina', 'South Dakota', 'Washington']
         llm = Ollama(model="llama2-uncensored", request_timeout=1000)
         embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
         transformations = [
@@ -31,10 +31,10 @@ class TitleRag:
         service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformations)
         documents = SimpleDirectoryReader("../output_domain").load_data()
         documents = self.add_metadata(documents)
-        print([document.metadata for document in documents])
+        # print([document.metadata for document in documents])
         pipeline = IngestionPipeline(transformations=transformations)
         nodes = pipeline.run(documents=documents)
-        print(nodes[0].metadata, nodes[2].metadata)
+        # print(nodes[0].metadata, nodes[2].metadata)
         self.initialize_indexing(nodes, service_context)
 
     def add_metadata(self, documents):
