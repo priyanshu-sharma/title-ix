@@ -18,12 +18,12 @@ class TitleRag:
     def __init__(self):
         self.result = []
         self.cities = ['California', 'Texas', 'Utah', 'New York', 'Kansas', 'Maryland', 'Massachusetts', 'South Carolina', 'South Dakota', 'Washington']
-        llm = Ollama(model="mistral")
+        llm = Ollama(model="mistral", request_timeout=1000)
         embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
         transformations = [
             SemanticSplitterNodeParser(buffer_size=1, breakpoint_percentile_threshold=95, embed_model=embed_model),
-            # TitleExtractor(nodes=5, llm=llm),
-            # QuestionsAnsweredExtractor(questions=3, llm=llm),
+            TitleExtractor(nodes=5, llm=llm),
+            QuestionsAnsweredExtractor(questions=3, llm=llm),
             # EntityExtractor(prediction_threshold=0.5),
             # SummaryExtractor(summaries=["prev", "self", "next"], llm=llm),
             # KeywordExtractor(keywords=10, llm=llm),
