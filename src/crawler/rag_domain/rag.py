@@ -1,9 +1,9 @@
-from llama_index.llms import Ollama
-from llama_index import VectorStoreIndex, SimpleDirectoryReader
-from llama_index import ServiceContext
+import json
 import logging
 import sys
-import json
+
+from llama_index import ServiceContext, SimpleDirectoryReader, VectorStoreIndex
+from llama_index.llms import Ollama
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
@@ -15,7 +15,31 @@ class TitleRag:
         self.cities = ['California', 'Texas', 'Utah', 'New York', 'Kansas', 'Maryland', 'Massachusetts', 'South Carolina', 'South Dakota', 'Washington']
         service_context = ServiceContext.from_defaults(llm=llm, embed_model="local")
         documents = SimpleDirectoryReader("../output_domain").load_data()
-        index = VectorStoreIndex.from_documents(documents, service_context=service_context)
+        documents = self.add_metadata(documents)
+        print([document.metadata for document in documents])
+        # self.initialize_indexing(documents, service_context)
+
+    def add_metadata(self, documents):
+        for document in documents:
+            file_path = document.get('file_path')
+            state = file_path.split('/')[-1].split('.')[0]
+            if state in ['california', 'new_york', 'maryland', 'massachusetts', 'washington']:
+                document.metadata['Topic'] = 'Title IX Implementation of {} State'.format(state)
+                document.metadata['State'] = state
+                document.metadata['Color'] = 'Blue'
+                document.metadata['Type'] = 'Democratic'
+            else:
+                document.metadata['Topic'] = 'Title IX Implementation of {} State'.format(state)
+                document.metadata['State'] = state
+                document.metadata['Color'] = 'Red'
+                document.metadata['Type'] = 'Republican'
+        return documents
+
+    def initialize_indexing(documents, service_context):
+        index = VectorStoreIndex.from_documents(documents, service_context)
+        self.initialize_query_engine(index)
+    
+    def initialize_query_engine(self, index):
         self.query_engine = index.as_query_engine()
         self.pre_evaluation()
 
