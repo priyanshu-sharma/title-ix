@@ -26,7 +26,7 @@ class TitleRag:
             # QuestionsAnsweredExtractor(questions=3, llm=llm),
             # EntityExtractor(prediction_threshold=0.5),
             # SummaryExtractor(summaries=["prev", "self", "next"], llm=llm),
-            KeywordExtractor(keywords=10, llm=llm),
+            # KeywordExtractor(keywords=10, llm=llm),
         ]
         service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformations)
         documents = SimpleDirectoryReader("../output_domain").load_data()
