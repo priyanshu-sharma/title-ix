@@ -22,11 +22,11 @@ class TitleRag:
         embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
         transformations = [
             SemanticSplitterNodeParser(buffer_size=1, breakpoint_percentile_threshold=95, embed_model=embed_model),
-            TitleExtractor(nodes=5, llm=llm),
-            QuestionsAnsweredExtractor(questions=3, llm=llm),
-            EntityExtractor(prediction_threshold=0.5),
-            SummaryExtractor(summaries=["prev", "self"], llm=llm),
-            KeywordExtractor(keywords=10, llm=llm),
+            # TitleExtractor(nodes=5, llm=llm),
+            # QuestionsAnsweredExtractor(questions=3, llm=llm),
+            # EntityExtractor(prediction_threshold=0.5),
+            # SummaryExtractor(summaries=["prev", "self", "next"], llm=llm),
+            # KeywordExtractor(keywords=10, llm=llm),
         ]
         service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformations)
         documents = SimpleDirectoryReader("../output_domain").load_data()
