@@ -53,7 +53,7 @@ class TitleRag:
                 document.metadata['Type'] = 'Republican'
         return documents
 
-    def initialize_indexing(nodes, service_context):
+    def initialize_indexing(self, nodes, service_context):
         index = VectorStoreIndex(nodes=nodes, service_context=service_context)
         self.initialize_query_engine(index)
 
