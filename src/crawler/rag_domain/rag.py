@@ -21,7 +21,7 @@ class TitleRag:
 
     def add_metadata(self, documents):
         for document in documents:
-            file_path = document.get('file_path')
+            file_path = document.metadata.get('file_path')
             state = file_path.split('/')[-1].split('.')[0]
             if state in ['california', 'new_york', 'maryland', 'massachusetts', 'washington']:
                 document.metadata['Topic'] = 'Title IX Implementation of {} State'.format(state)
