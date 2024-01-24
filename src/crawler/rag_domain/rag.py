@@ -18,7 +18,7 @@ class TitleRag:
     def __init__(self):
         self.result = []
         self.cities = ['California', 'Texas', 'Utah', 'New York', 'Kansas', 'Maryland', 'Massachusetts', 'South Carolina', 'South Dakota', 'Washington']
-        llm = Ollama(model="mistral", request_timeout=1000)
+        llm = Ollama(model="llama2-uncensored", request_timeout=1000)
         embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
         transformations = [
             SemanticSplitterNodeParser(buffer_size=1, breakpoint_percentile_threshold=95, embed_model=embed_model),
@@ -35,7 +35,7 @@ class TitleRag:
         pipeline = IngestionPipeline(transformations=transformations)
         nodes = pipeline.run(documents=documents)
         print(nodes[0].metadata, nodes[2].metadata)
-        # self.initialize_indexing(documents, service_context)
+        self.initialize_indexing(nodes, service_context)
 
     def add_metadata(self, documents):
         for document in documents:
@@ -53,8 +53,8 @@ class TitleRag:
                 document.metadata['Type'] = 'Republican'
         return documents
 
-    def initialize_indexing(documents, service_context):
-        index = VectorStoreIndex.from_documents(documents, service_context)
+    def initialize_indexing(nodes, service_context):
+        index = VectorStoreIndex(nodes=nodes, service_context=service_context)
         self.initialize_query_engine(index)
 
     def initialize_query_engine(self, index):
@@ -84,7 +84,23 @@ class TitleRag:
             'Question': question,
             'Response': response.response,
         })
-    
+
+    def type_four(self, city_one):
+        question = 'Can you list all the core components behind the Implementation of Title IX in {} State?'.format(city_one)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_five(self, total_cities, cities_string):
+        question = 'Can you list all the common and core ideas behind the Implementation of Title IX in all {} different states, i.e. - {}? List only the common and core ideas.'.format(total_cities, cities_string)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
     def pre_evaluation(self):
         for city in self.cities:
             self.type_one(city)
@@ -94,7 +110,10 @@ class TitleRag:
                     self.type_two(self.cities[i], self.cities[j])
         cities_string = ', '.join(str(city) for city in self.cities)
         self.type_three(len(self.cities), cities_string)
-        with open("output.json", "w") as f:
+        for city in self.cities:
+            self.type_four(city)
+        self.type_five(len(self.cities), cities_string)
+        with open("llama_two_uncensored.json", "w") as f:
             json.dump(self.result, f)
 
     def evaluate(self, question):
