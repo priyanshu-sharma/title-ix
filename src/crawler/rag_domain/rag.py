@@ -32,7 +32,7 @@ class TitleRag:
             # EntityExtractor(prediction_threshold=0.5, num_workers=8),
             # SummaryExtractor(summaries=["prev", "self", "next"], llm=llm, num_workers=8),
             # KeywordExtractor(keywords=10, llm=llm, num_workers=8),
-            # embed_model,
+            embed_model,
         ]
         service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformations)
         documents = SimpleDirectoryReader("../output_domain").load_data()
@@ -67,7 +67,7 @@ class TitleRag:
 
     def initialize_indexing(self, nodes, service_context, storage_context):
         index = VectorStoreIndex(nodes=nodes, service_context=service_context, storage_context=storage_context)
-        # self.initialize_query_engine(index)
+        self.initialize_query_engine(index)
 
     def initialize_query_engine(self, index):
         self.query_engine = index.as_query_engine()
