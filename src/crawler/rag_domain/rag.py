@@ -42,7 +42,7 @@ class TitleRag:
         chroma_collection = db.get_or_create_collection("llama-2-ten")
         vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
         pipeline = IngestionPipeline(transformations=transformations, vector_store=vector_store)
-        nodes = await pipeline.arun(documents=documents)
+        nodes = pipeline.run(documents=documents)
         print(nodes[0].metadata, nodes[2].metadata)
         storage_context = StorageContext.from_defaults(vector_store=vector_store)
         self.initialize_indexing(nodes, service_context, storage_context)
