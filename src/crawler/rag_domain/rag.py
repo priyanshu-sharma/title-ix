@@ -22,7 +22,7 @@ class TitleRag:
     def __init__(self):
         start = time.time()
         self.result = []
-        self.cities = ['California']#, 'Texas', 'Utah', 'New York', 'Kansas', 'Maryland', 'Massachusetts', 'South Carolina', 'South Dakota', 'Washington']
+        self.cities = ['California', 'Texas', 'Utah', 'New York', 'Kansas', 'Maryland', 'Massachusetts', 'South Carolina', 'South Dakota', 'Washington']
         llm = Ollama(model="llama2-uncensored", request_timeout=1000)
         embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
         transformations = [
@@ -31,8 +31,8 @@ class TitleRag:
             # QuestionsAnsweredExtractor(questions=3, llm=llm, num_workers=8),
             # EntityExtractor(prediction_threshold=0.5, num_workers=8),
             # SummaryExtractor(summaries=["prev", "self", "next"], llm=llm, num_workers=8),
-            KeywordExtractor(keywords=10, llm=llm, num_workers=8),
-            embed_model,
+            # KeywordExtractor(keywords=10, llm=llm, num_workers=8),
+            # embed_model,
         ]
         service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformations)
         documents = SimpleDirectoryReader("../output_domain").load_data()
@@ -113,6 +113,22 @@ class TitleRag:
             'Response': response.response,
         })
 
+    def type_six(self, city_one):
+        question = 'Can you generate some Question Answer Pairs that can help me in better understanding of Implementation of Title IX in {} State?'.format(city_one)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_seven(self, city_one):
+        question = 'Can you list all Keywords that plays a major role in understanding the Implementation of Title IX in {} State?'.format(city_one)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
     def pre_evaluation(self):
         for city in self.cities:
             self.type_one(city)
@@ -125,6 +141,10 @@ class TitleRag:
         for city in self.cities:
             self.type_four(city)
         self.type_five(len(self.cities), cities_string)
+        for city in self.cities:
+            self.type_six(city)
+        for city in self.cities:
+            self.type_seven(city)
         with open("llama_two_uncensored.json", "w") as f:
             json.dump(self.result, f)
 
