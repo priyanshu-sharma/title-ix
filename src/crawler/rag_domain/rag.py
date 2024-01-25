@@ -31,7 +31,7 @@ class TitleRag:
             # QuestionsAnsweredExtractor(questions=3, llm=llm, num_workers=8),
             # EntityExtractor(prediction_threshold=0.5, num_workers=8),
             # SummaryExtractor(summaries=["prev", "self", "next"], llm=llm, num_workers=8),
-            # KeywordExtractor(keywords=10, llm=llm, num_workers=8),
+            KeywordExtractor(keywords=10, llm=llm, num_workers=8),
             embed_model,
         ]
         service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformations)
