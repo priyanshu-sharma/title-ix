@@ -23,7 +23,7 @@ class TitleRag:
         start = time.time()
         self.result = []
         self.cities = ['California', 'Texas', 'Utah', 'New York', 'Kansas', 'Maryland', 'Massachusetts', 'South Carolina', 'South Dakota', 'Washington']
-        llm = Ollama(model="llama2-uncensored", request_timeout=1000)
+        llm = Ollama(model="mistral", request_timeout=1000)
         embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
         transformations = [
             SemanticSplitterNodeParser(buffer_size=1, breakpoint_percentile_threshold=95, embed_model=embed_model, num_workers=8),
@@ -89,8 +89,8 @@ class TitleRag:
             'Response': response.response,
         })
 
-    def type_three(self, total_cities, cities_string):
-        question = 'How are Title IX Implementation is different in all {} states, i.e. - {}? List only the differences.'.format(total_cities, cities_string)
+    def type_three(self, total_cities, issue, cities_string):
+        question = 'How are Title IX Implementation is different in all {} states in terms of {}, i.e. - {}? List only the differences.'.format(total_cities, issue, cities_string)
         response = self.query_engine.query(question)
         self.result.append({
             'Question': question,
@@ -105,8 +105,8 @@ class TitleRag:
             'Response': response.response,
         })
 
-    def type_five(self, total_cities, cities_string):
-        question = 'Can you list all the common and core ideas behind the Implementation of Title IX in all {} different states, i.e. - {}? List only the common and core ideas.'.format(total_cities, cities_string)
+    def type_five(self, total_cities, issue, cities_string):
+        question = 'Can you list all the common and core ideas behind the Implementation of Title IX in all {} different states, i.e. - {} in terms of {}? List only the common and core ideas.'.format(total_cities, issue, cities_string)
         response = self.query_engine.query(question)
         self.result.append({
             'Question': question,
@@ -114,7 +114,7 @@ class TitleRag:
         })
 
     def type_six(self, city_one):
-        question = 'Can you generate some Question Answer Pairs that can help me in better understanding of Implementation of Title IX in {} State?'.format(city_one)
+        question = 'Can you generate 5 Question Answer Pairs that can help me in better understanding of Implementation of Title IX in {} State?'.format(city_one)
         response = self.query_engine.query(question)
         self.result.append({
             'Question': question,
@@ -129,6 +129,30 @@ class TitleRag:
             'Response': response.response,
         })
 
+    def type_eight(self):
+        question = 'Can you list all the Blue and Red States?'
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_nine(self):
+        question = 'Can you list all the Democratic and Republican States?'
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_ten(self):
+        question = 'Can you list all the differences between the Implementation of Title in the Blue and Red States?'
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
     def pre_evaluation(self):
         for city in self.cities:
             self.type_one(city)
@@ -137,19 +161,35 @@ class TitleRag:
                 if self.cities[i] != self.cities[j]:
                     self.type_two(self.cities[i], self.cities[j])
         cities_string = ', '.join(str(city) for city in self.cities)
-        self.type_three(len(self.cities), cities_string)
+        
+        issues = ['Policy development and implementation','Training and education for students, faculty, and staff','Reporting mechanisms','Investigation and resolution procedures','Support services','Accountability measures','External review','Ongoing monitoring']
+        for issue in issues:
+            self.type_three(len(self.cities), issue, cities_string)
         for city in self.cities:
             self.type_four(city)
-        self.type_five(len(self.cities), cities_string)
+        for issue in issues:
+            self.type_five(len(self.cities), issue, cities_string)
         for city in self.cities:
             self.type_six(city)
         for city in self.cities:
             self.type_seven(city)
-        with open("llama_two_uncensored.json", "w") as f:
+        self.type_eight()
+        self.type_nine()
+        self.type_ten()
+        with open("mistral.json", "w") as f:
             json.dump(self.result, f)
 
     def evaluate(self, question):
         response = self.query_engine.query(question)
         print(response)
+
+    def convert_to_text(self):
+        with open('mistral.json', 'r') as openfile:
+            json_object = json.load(openfile)
+        final = ''
+        for values in json_object:
+            final = final + '\nQuestion : - {}\n\nAnswer : - {}\n'.format(values['Question'], values['Response'])
+        with open("mistral.txt", "w", encoding="utf-8") as f:
+            f.write(final)
 
 ta = TitleRag()
