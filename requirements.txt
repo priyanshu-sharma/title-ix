@@ -1,5 +1,6 @@
 black
 bs4
+chromadb
 docx2txt
 fastapi
 gunicorn
@@ -7,6 +8,7 @@ ipython
 ipython-genutils
 jedi
 litellm
+llama_index>=0.9.7
 open-interpreter
 pandas
 poetry
@@ -17,4 +19,6 @@ pyautogen[retrievechat]
 PyPDF2<3.0
 python-json-logger
 requests
+span-marker
+transformers
 uvicorn

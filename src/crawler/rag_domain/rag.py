@@ -1,0 +1,195 @@
+import json
+import logging
+import sys
+import time
+
+import chromadb
+from llama_index import ServiceContext, SimpleDirectoryReader, VectorStoreIndex
+from llama_index.embeddings import HuggingFaceEmbedding
+from llama_index.extractors import (EntityExtractor, KeywordExtractor,
+                                    QuestionsAnsweredExtractor,
+                                    SummaryExtractor, TitleExtractor)
+from llama_index.ingestion import IngestionPipeline
+from llama_index.llms import Ollama
+from llama_index.node_parser import SemanticSplitterNodeParser
+from llama_index.storage.storage_context import StorageContext
+from llama_index.vector_stores import ChromaVectorStore
+
+logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
+logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
+
+class TitleRag:
+    def __init__(self):
+        start = time.time()
+        self.result = []
+        self.cities = ['California', 'Texas', 'Utah', 'New York', 'Kansas', 'Maryland', 'Massachusetts', 'South Carolina', 'South Dakota', 'Washington']
+        llm = Ollama(model="mistral", request_timeout=1000)
+        embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
+        transformations = [
+            SemanticSplitterNodeParser(buffer_size=1, breakpoint_percentile_threshold=95, embed_model=embed_model, num_workers=8),
+            # TitleExtractor(nodes=5, llm=llm, num_workers=8),
+            # QuestionsAnsweredExtractor(questions=3, llm=llm, num_workers=8),
+            # EntityExtractor(prediction_threshold=0.5, num_workers=8),
+            # SummaryExtractor(summaries=["prev", "self", "next"], llm=llm, num_workers=8),
+            # KeywordExtractor(keywords=10, llm=llm, num_workers=8),
+            # embed_model,
+        ]
+        service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformations)
+        documents = SimpleDirectoryReader("../output_domain").load_data()
+        documents = self.add_metadata(documents)
+        print([document.metadata for document in documents])
+        db = chromadb.PersistentClient(path="./chroma_db")
+        chroma_collection = db.get_or_create_collection("llama-2-ten")
+        vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
+        pipeline = IngestionPipeline(transformations=transformations, vector_store=vector_store)
+        nodes = pipeline.run(documents=documents)
+        print(nodes[0].metadata, nodes[2].metadata)
+        storage_context = StorageContext.from_defaults(vector_store=vector_store)
+        self.initialize_indexing(nodes, service_context, storage_context)
+        end = time.time()
+        print("Total Time taken - {} seconds".format(end - start))
+
+    def add_metadata(self, documents):
+        for document in documents:
+            file_path = document.metadata.get('file_path')
+            state = file_path.split('/')[-1].split('.')[0]
+            if state in ['california', 'new_york', 'maryland', 'massachusetts', 'washington']:
+                document.metadata['Topic'] = 'Title IX Implementation of {} State'.format(state)
+                document.metadata['State'] = state
+                document.metadata['Color'] = 'Blue'
+                document.metadata['Type'] = 'Democratic'
+            else:
+                document.metadata['Topic'] = 'Title IX Implementation of {} State'.format(state)
+                document.metadata['State'] = state
+                document.metadata['Color'] = 'Red'
+                document.metadata['Type'] = 'Republican'
+        return documents
+
+    def initialize_indexing(self, nodes, service_context, storage_context):
+        index = VectorStoreIndex(nodes=nodes, service_context=service_context, storage_context=storage_context)
+        self.initialize_query_engine(index)
+
+    def initialize_query_engine(self, index):
+        self.query_engine = index.as_query_engine()
+        self.pre_evaluation()
+
+    def type_one(self, city_one):
+        question = 'Can you give me the summary of this Title IX Implemention of {}?'.format(city_one)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_two(self, city_one, city_two):
+        question = 'How is the implementation of Title IX is different in {} and {}?'.format(city_one, city_two)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_three(self, total_cities, issue, cities_string):
+        question = 'How are Title IX Implementation is different in all {} states in terms of {}, i.e. - {}? List only the differences.'.format(total_cities, issue, cities_string)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_four(self, city_one):
+        question = 'Can you list all the core components behind the Implementation of Title IX in {} State?'.format(city_one)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_five(self, total_cities, issue, cities_string):
+        question = 'Can you list all the common and core ideas behind the Implementation of Title IX in all {} different states, i.e. - {} in terms of {}? List only the common and core ideas.'.format(total_cities, issue, cities_string)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_six(self, city_one):
+        question = 'Can you generate 5 Question Answer Pairs that can help me in better understanding of Implementation of Title IX in {} State?'.format(city_one)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_seven(self, city_one):
+        question = 'Can you list all Keywords that plays a major role in understanding the Implementation of Title IX in {} State?'.format(city_one)
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_eight(self):
+        question = 'Can you list all the Blue and Red States?'
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_nine(self):
+        question = 'Can you list all the Democratic and Republican States?'
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def type_ten(self):
+        question = 'Can you list all the differences between the Implementation of Title in the Blue and Red States?'
+        response = self.query_engine.query(question)
+        self.result.append({
+            'Question': question,
+            'Response': response.response,
+        })
+
+    def pre_evaluation(self):
+        for city in self.cities:
+            self.type_one(city)
+        for i in range(0, len(self.cities)):
+            for j in range(0, len(self.cities)):
+                if self.cities[i] != self.cities[j]:
+                    self.type_two(self.cities[i], self.cities[j])
+        cities_string = ', '.join(str(city) for city in self.cities)
+        
+        issues = ['Policy development and implementation','Training and education for students, faculty, and staff','Reporting mechanisms','Investigation and resolution procedures','Support services','Accountability measures','External review','Ongoing monitoring']
+        for issue in issues:
+            self.type_three(len(self.cities), issue, cities_string)
+        for city in self.cities:
+            self.type_four(city)
+        for issue in issues:
+            self.type_five(len(self.cities), issue, cities_string)
+        for city in self.cities:
+            self.type_six(city)
+        for city in self.cities:
+            self.type_seven(city)
+        self.type_eight()
+        self.type_nine()
+        self.type_ten()
+        with open("mistral.json", "w") as f:
+            json.dump(self.result, f)
+
+    def evaluate(self, question):
+        response = self.query_engine.query(question)
+        print(response)
+
+    def convert_to_text(self):
+        with open('mistral.json', 'r') as openfile:
+            json_object = json.load(openfile)
+        final = ''
+        for values in json_object:
+            final = final + '\nQuestion : - {}\n\nAnswer : - {}\n'.format(values['Question'], values['Response'])
+        with open("mistral.txt", "w", encoding="utf-8") as f:
+            f.write(final)
+
+ta = TitleRag()
