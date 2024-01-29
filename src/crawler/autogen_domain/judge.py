@@ -46,7 +46,7 @@ from autogen.agentchat.contrib.agent_builder import AgentBuilder
 config_file_or_env = 'OAI_CONFIG_LIST'
 default_llm_config = {'temperature': 0}
 
-builder = AgentBuilder(config_file_or_env=config_file_or_env, builder_model='ollama/mistral', agent_model='ollama/mistral', host='0.0.0.0', max_agents=14)
+builder = AgentBuilder(config_file_or_env=config_file_or_env, builder_model='ollama/mistral', agent_model='ollama/mistral', host='0.0.0.0', max_agents=5)
 building_task = """In today's session of Supreme Court of the United States, we will mainly discuss the best policies and shortcomings of the Implementation of Title IX of various states such as California, Texas, Utah, New York, etc, and then prepare a report about the its implementation, policies, and other details in different states.
                 In this session, lawyer representing various states will present their own states policies and shortcoming in order to formulate the nation-wide policy for the same. (Use on state government data from their official websites)"""
 agent_list, agent_configs = builder.build(building_task, default_llm_config, coding=False)
