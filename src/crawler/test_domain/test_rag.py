@@ -14,7 +14,7 @@ from llama_index.llms import Ollama
 from llama_index.node_parser import SemanticSplitterNodeParser
 from llama_index.storage.storage_context import StorageContext
 from llama_index.vector_stores import ChromaVectorStore
-from custom_transformation import TextBlobTransformation, VaderTransformation, RobertaTranformation
+from custom_transformation import TextBlobTransformation, VaderTransformation, RobertaTranformation, PoliBiasTranformation
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
@@ -35,6 +35,7 @@ class TitleRagQA:
             TextBlobTransformation(),
             VaderTransformation(),
             RobertaTranformation(),
+            PoliBiasTranformation(),
         ]
         # service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformations)
         documents = SimpleDirectoryReader("data/").load_data()
@@ -49,7 +50,7 @@ class TitleRagQA:
         print("Total Time taken - {} seconds".format(end - start))
         print(len(self.nodes))
         for node in self.nodes:
-            print(node.metadata['roberta'])
+            print(node.metadata['polibias'])
 
     # def extract_metadata(self):
     #     for node in self.nodes:
