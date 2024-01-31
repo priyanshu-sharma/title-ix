@@ -45,7 +45,7 @@ class RobertaTranformation(TransformComponent):
             }
         return nodes
 
-class PoliBiasTranformation(TransformComponent):
+class BertTransformation(TransformComponent):
     def __call__(self, nodes, **kwargs):
         tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
         model = AutoModelForSequenceClassification.from_pretrained("bucketresearch/politicalBiasBERT")
@@ -54,7 +54,7 @@ class PoliBiasTranformation(TransformComponent):
             output = model(**bert_encoded_text)
             scores = output[0][0].detach().numpy()
             scores = softmax(scores)
-            node.metadata['polibias'] = {
+            node.metadata['bert'] = {
                 'left': scores[0],
                 'center': scores[1],
                 'right': scores[2],
