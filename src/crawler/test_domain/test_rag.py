@@ -65,20 +65,20 @@ class TitleRagQA:
                         # 'next_section_summary': {node.metadata.get('next_section_summary')},
                         # 'section_summary': {node.metadata.get('section_summary')},
                         # 'keywords': {node.metadata.get('excerpt_keywords')},
-                        'textblob_polarity': [node.metadata['textblob'].get('polarity')],
-                        'textblob_subjectivity': [node.metadata['textblob'].get('subjectivity')],
-                        'vader_negative': [node.metadata['vader'].get('negative')],
-                        'vader_positive': [node.metadata['vader'].get('positive')],
-                        'vader_neutral': [node.metadata['vader'].get('neutral')],
-                        'vader_compound': [node.metadata['vader'].get('compound')],
-                        'roberta_negative': [node.metadata['roberta'].get('negative')],
-                        'roberta_neutral': [node.metadata['roberta'].get('neutral')],
-                        'roberta_positive': [node.metadata['roberta'].get('positive')],
-                        'bert_left': [node.metadata['bert'].get('left')],
-                        'bert_center': [node.metadata['bert'].get('center')],
-                        'bert_right': [node.metadata['bert'].get('right')],
+                        'textblob_polarity': [str(node.metadata['textblob'].get('polarity'))],
+                        'textblob_subjectivity': [str(node.metadata['textblob'].get('subjectivity'))],
+                        'vader_negative': [str(node.metadata['vader'].get('negative'))],
+                        'vader_positive': [str(node.metadata['vader'].get('positive'))],
+                        'vader_neutral': [str(node.metadata['vader'].get('neutral'))],
+                        'vader_compound': [str(node.metadata['vader'].get('compound'))],
+                        'roberta_negative': [str(node.metadata['roberta'].get('negative'))],
+                        'roberta_neutral': [str(node.metadata['roberta'].get('neutral'))],
+                        'roberta_positive': [str(node.metadata['roberta'].get('positive'))],
+                        'bert_left': [str(node.metadata['bert'].get('left'))],
+                        'bert_center': [str(node.metadata['bert'].get('center'))],
+                        'bert_right': [str(node.metadata['bert'].get('right'))],
                     }
-                    self.result[state]['entities'] = set(self.result[state]['entities'])
+                    # self.result[state]['entities'] = set(self.result[state]['entities'])
                 else:
                     # self.result[state]['document_titles'].add(node.metadata.get('document_title'))
                     # self.result[state]['question_answers'].add(node.metadata.get('questions_this_excerpt_can_answer'))
@@ -87,18 +87,18 @@ class TitleRagQA:
                     # self.result[state]['next_section_summary'].add(node.metadata.get('next_section_summary'))
                     # self.result[state]['section_summary'].add(node.metadata.get('section_summary'))
                     # self.result[state]['keywords'].add(node.metadata.get('excerpt_keywords'))
-                    self.result[state]['textblob_polarity'].append(node.metadata['textblob'].get('polarity'))
-                    self.result[state]['textblob_subjectivity'].append(node.metadata['textblob'].get('subjectivity'))
-                    self.result[state]['vader_negative'].append(node.metadata['vader'].get('negative'))
-                    self.result[state]['vader_positive'].append(node.metadata['vader'].get('positive'))
-                    self.result[state]['vader_neutral'].append(node.metadata['vader'].get('neutral'))
-                    self.result[state]['vader_compound'].append(node.metadata['vader'].get('compound'))
-                    self.result[state]['roberta_negative'].append(node.metadata['roberta'].get('negative'))
-                    self.result[state]['roberta_neutral'].append(node.metadata['roberta'].get('neutral'))
-                    self.result[state]['roberta_positive'].append(node.metadata['roberta'].get('positive'))
-                    self.result[state]['bert_left'].append(node.metadata['bert'].get('left'))
-                    self.result[state]['bert_center'].append(node.metadata['bert'].get('center'))
-                    self.result[state]['bert_right'].append(node.metadata['bert'].get('right'))
+                    self.result[state]['textblob_polarity'].append(str(node.metadata['textblob'].get('polarity')))
+                    self.result[state]['textblob_subjectivity'].append(str(node.metadata['textblob'].get('subjectivity')))
+                    self.result[state]['vader_negative'].append(str(node.metadata['vader'].get('negative')))
+                    self.result[state]['vader_positive'].append(str(node.metadata['vader'].get('positive')))
+                    self.result[state]['vader_neutral'].append(str(node.metadata['vader'].get('neutral')))
+                    self.result[state]['vader_compound'].append(str(node.metadata['vader'].get('compound')))
+                    self.result[state]['roberta_negative'].append(str(node.metadata['roberta'].get('negative')))
+                    self.result[state]['roberta_neutral'].append(str(node.metadata['roberta'].get('neutral')))
+                    self.result[state]['roberta_positive'].append(str(node.metadata['roberta'].get('positive')))
+                    self.result[state]['bert_left'].append(str(node.metadata['bert'].get('left')))
+                    self.result[state]['bert_center'].append(str(node.metadata['bert'].get('center')))
+                    self.result[state]['bert_right'].append(str(node.metadata['bert'].get('right')))
         # self.result[state]['document_titles'] = list(self.result[state]['document_titles'])
         # self.result[state]['question_answers'] = list(self.result[state]['question_answers'])
         # self.result[state]['entities'] = list(self.result[state]['entities'])
