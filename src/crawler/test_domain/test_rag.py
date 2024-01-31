@@ -18,21 +18,21 @@ from llama_index.vector_stores import ChromaVectorStore
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 
-class TitleRag:
+class TitleRagQA:
     def __init__(self):
+        self.result = {}
         start = time.time()
         llm = Ollama(model="mistral", request_timeout=1000)
         embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
         transformations = [
             SemanticSplitterNodeParser(buffer_size=1, breakpoint_percentile_threshold=95, embed_model=embed_model, num_workers=8),
             TitleExtractor(nodes=5, llm=llm, num_workers=8),
-            # QuestionsAnsweredExtractor(questions=3, llm=llm, num_workers=8),
-            # EntityExtractor(prediction_threshold=0.5, num_workers=8),
-            # SummaryExtractor(summaries=["prev", "self", "next"], llm=llm, num_workers=8),
-            # KeywordExtractor(keywords=10, llm=llm, num_workers=8),
-            # HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5"),
+            QuestionsAnsweredExtractor(questions=5, llm=llm, num_workers=8),
+            EntityExtractor(prediction_threshold=0.5, num_workers=8),
+            SummaryExtractor(summaries=["prev", "self", "next"], llm=llm, num_workers=8),
+            KeywordExtractor(keywords=10, llm=llm, num_workers=8),
         ]
-        service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformations)
+        # service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformations)
         documents = SimpleDirectoryReader("data/").load_data()
         print([document.metadata for document in documents])
         db = chromadb.PersistentClient(path="./chroma_db")
@@ -40,17 +40,40 @@ class TitleRag:
         vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
         pipeline = IngestionPipeline(transformations=transformations, vector_store=vector_store)
         self.nodes = pipeline.run(documents=documents)
-        print(self.nodes[0].metadata, self.nodes[2].metadata)
-    #     storage_context = StorageContext.from_defaults(vector_store=vector_store)
-    #     self.initialize_indexing(nodes, service_context, storage_context)
+        print(self.nodes[0].metadata.keys())
         end = time.time()
         print("Total Time taken - {} seconds".format(end - start))
 
-    # def initialize_indexing(self, nodes, service_context, storage_context):
-    #     index = VectorStoreIndex(nodes=nodes, service_context=service_context, storage_context=storage_context)
-    #     self.initialize_query_engine(index)
+    def extract_metadata(self):
+        for node in self.nodes:
+            file_path = node.metadata.get('file_path')
+            state = file_path.split('/')[-1].split('.')[0]
+            if state in ['california']:
+                if state not in self.result.keys():
+                    self.result[state] = {
+                        'document_titles': {node.metadata.get('document_title')},
+                        'question_answers': {node.metadata.get('questions_this_excerpt_can_answer')},
+                        'entities': [entity for entity in node.metadata.get('entities')],
+                        'next_section_summary': {node.metadata.get('next_section_summary')},
+                        'section_summary': {node.metadata.get('section_summary')},
+                        'keywords': {node.metadata.get('excerpt_keywords')},
+                    }
+                    self.result[state]['entities'] = set(self.result[state]['entities'])
+                else:
+                    self.result[state][document_titles].add(node.metadata.get('document_title'))
+                    self.result[state][question_answers].add(node.metadata.get('questions_this_excerpt_can_answer'))
+                    self.result[state][entities].add(node.metadata.get('entities'))
+                    self.result[state][next_section_summary].add(node.metadata.get('next_section_summary'))
+                    self.result[state][section_summary].add(node.metadata.get('section_summary'))
+                    self.result[state][keywords].add(node.metadata.get('excerpt_keywords'))
+        self.result[state][document_titles] = list(self.result[state][document_titles])
+        self.result[state][question_answers] = list(self.result[state][question_answers])
+        self.result[state][entities] = list(self.result[state][entities])
+        self.result[state][next_section_summary] = list(self.result[state][next_section_summary])
+        self.result[state][section_summary] = list(self.result[state][section_summary])
+        self.result[state][keywords] = list(self.result[state][keywords])
+        with open("california_qa.json", "w") as f:
+            json.dump(self.result, f)
 
-    # def initialize_query_engine(self, index):
-    #     self.query_engine = index.as_query_engine()
-
-ta = TitleRag()
+ta = TitleRagQA()
+ta.extract_metadata()
