@@ -1,6 +1,9 @@
 from llama_index.schema import TransformComponent
 from textblob import TextBlob
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from transformers import AutoTokenizer
+from transformers import AutoModelForSequenceClassification
+from scipy.special import softmax
 
 class TextBlobTransformation(TransformComponent):
     def __call__(self, nodes, **kwargs):
@@ -22,5 +25,22 @@ class VaderTransformation(TransformComponent):
                 'positive': node_data.get('pos', None),
                 'neutral': node_data.get('neu', None),
                 'compound': node_data.get('compound', None)
+            }
+        return nodes
+
+class RobertaTranformation(TransformComponent):
+    def __call__(self, nodes, **kwargs):
+        roberta_pretrained_model = f"cardiffnlp/twitter-roberta-base-sentiment"
+        tokenizer = AutoTokenizer.from_pretrained(roberta_pretrained_model)
+        model = AutoModelForSequenceClassification.from_pretrained(roberta_pretrained_model)
+        for node in nodes:
+            roberta_encoded_text = tokenizer(node.text, return_tensors='pt', padding='max_length', truncation=True, max_length=512)
+            output = model(**roberta_encoded_text)
+            scores = output[0][0].detach().numpy()
+            scores = softmax(scores)
+            node.metadata['roberta'] = {
+                'negative': scores[0],
+                'neutral': scores[1],
+                'positive': scores[2],
             }
         return nodes

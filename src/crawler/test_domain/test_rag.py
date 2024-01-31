@@ -14,7 +14,7 @@ from llama_index.llms import Ollama
 from llama_index.node_parser import SemanticSplitterNodeParser
 from llama_index.storage.storage_context import StorageContext
 from llama_index.vector_stores import ChromaVectorStore
-from custom_transformation import TextBlobTransformation, VaderTransformation
+from custom_transformation import TextBlobTransformation, VaderTransformation, RobertaTranformation
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
@@ -34,6 +34,7 @@ class TitleRagQA:
             # KeywordExtractor(keywords=10, llm=llm, num_workers=8),
             TextBlobTransformation(),
             VaderTransformation(),
+            RobertaTranformation(),
         ]
         # service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformations)
         documents = SimpleDirectoryReader("data/").load_data()
@@ -44,12 +45,11 @@ class TitleRagQA:
         pipeline = IngestionPipeline(transformations=transformations, vector_store=vector_store)
         self.nodes = pipeline.run(documents=documents)
         print(self.nodes[0].metadata.keys())
-        print(self.nodes[0].metadata['textblob'])
         end = time.time()
         print("Total Time taken - {} seconds".format(end - start))
         print(len(self.nodes))
         for node in self.nodes:
-            print(node.metadata['vader'])
+            print(node.metadata['roberta'])
 
     # def extract_metadata(self):
     #     for node in self.nodes:

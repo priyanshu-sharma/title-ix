@@ -21,6 +21,7 @@ pyautogen[retrievechat]
 PyPDF2<3.0
 python-json-logger
 requests
+scipy
 span-marker
 textblob
 transformers
