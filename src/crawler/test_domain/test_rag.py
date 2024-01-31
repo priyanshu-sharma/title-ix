@@ -14,6 +14,7 @@ from llama_index.llms import Ollama
 from llama_index.node_parser import SemanticSplitterNodeParser
 from llama_index.storage.storage_context import StorageContext
 from llama_index.vector_stores import ChromaVectorStore
+from test_domain.custom_transformation import TextBlobTransformation
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
@@ -31,6 +32,7 @@ class TitleRagQA:
             EntityExtractor(prediction_threshold=0.5, num_workers=8),
             SummaryExtractor(summaries=["prev", "self", "next"], llm=llm, num_workers=8),
             KeywordExtractor(keywords=10, llm=llm, num_workers=8),
+            TextBlobTransformation(),
         ]
         # service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=transformations)
         documents = SimpleDirectoryReader("data/").load_data()
@@ -41,6 +43,7 @@ class TitleRagQA:
         pipeline = IngestionPipeline(transformations=transformations, vector_store=vector_store)
         self.nodes = pipeline.run(documents=documents)
         print(self.nodes[0].metadata.keys())
+        print(self.nodes[0]['textblob'])
         end = time.time()
         print("Total Time taken - {} seconds".format(end - start))
 
@@ -62,7 +65,8 @@ class TitleRagQA:
                 else:
                     self.result[state]['document_titles'].add(node.metadata.get('document_title'))
                     self.result[state]['question_answers'].add(node.metadata.get('questions_this_excerpt_can_answer'))
-                    self.result[state]['entities'].add(node.metadata.get('entities'))
+                    for entity in node.metadata.get('entities'):
+                        self.result[state]['entities'].add(entity)
                     self.result[state]['next_section_summary'].add(node.metadata.get('next_section_summary'))
                     self.result[state]['section_summary'].add(node.metadata.get('section_summary'))
                     self.result[state]['keywords'].add(node.metadata.get('excerpt_keywords'))
