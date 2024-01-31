@@ -47,6 +47,9 @@ class TitleRagQA:
         print(self.nodes[0].metadata['textblob'])
         end = time.time()
         print("Total Time taken - {} seconds".format(end - start))
+        print(len(self.nodes))
+        for node in self.nodes:
+            print(node.metadata['vader'])
 
     # def extract_metadata(self):
     #     for node in self.nodes:

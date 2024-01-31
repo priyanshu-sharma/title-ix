@@ -21,6 +21,6 @@ class VaderTransformation(TransformComponent):
                 'negative': node_data.get('neg', None),
                 'positive': node_data.get('pos', None),
                 'neutral': node_data.get('neu', None),
-                'compound': vader_score.get('compound', None)
+                'compound': node_data.get('compound', None)
             }
         return nodes
