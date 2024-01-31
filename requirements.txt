@@ -9,6 +9,7 @@ ipython-genutils
 jedi
 litellm
 llama_index>=0.9.7
+nltk
 open-interpreter
 pandas
 poetry
