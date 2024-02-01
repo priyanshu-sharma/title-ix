@@ -26,13 +26,13 @@ class TitleRagFeature:
         embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
         transformations = [
             SemanticSplitterNodeParser(buffer_size=1, breakpoint_percentile_threshold=95, embed_model=embed_model, num_workers=8),
-            TitleExtractor(nodes=5, llm=llm, num_workers=8),
+            # TitleExtractor(nodes=5, llm=llm, num_workers=8),
             QuestionsAnsweredExtractor(questions=5, llm=llm, num_workers=8),
             EntityExtractor(prediction_threshold=0.5, num_workers=8),
             SummaryExtractor(summaries=["prev", "self", "next"], llm=llm, num_workers=8),
             KeywordExtractor(keywords=10, llm=llm, num_workers=8),
         ]
-        documents = SimpleDirectoryReader("data/").load_data()
+        documents = SimpleDirectoryReader("../output_domain").load_data()
         # print([document.metadata for document in documents])
         db = chromadb.PersistentClient(path="./chroma_db")
         chroma_collection = db.get_or_create_collection("title_ix")
@@ -75,7 +75,7 @@ class TitleRagFeature:
         self.result[state]['next_section_summary'] = list(self.result[state]['next_section_summary'])
         self.result[state]['section_summary'] = list(self.result[state]['section_summary'])
         self.result[state]['keywords'] = list(self.result[state]['keywords'])
-        with open("ct_features.json", "w") as f:
+        with open("features.json", "w") as f:
             json.dump(self.result, f)
 
 taf = TitleRagFeature()
