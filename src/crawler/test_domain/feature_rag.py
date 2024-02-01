@@ -32,7 +32,7 @@ class TitleRagFeature:
             SummaryExtractor(summaries=["prev", "self", "next"], llm=llm, num_workers=8),
             KeywordExtractor(keywords=10, llm=llm, num_workers=8),
         ]
-        documents = SimpleDirectoryReader("../output_domain").load_data()
+        documents = SimpleDirectoryReader("data/").load_data()
         # print([document.metadata for document in documents])
         db = chromadb.PersistentClient(path="./chroma_db")
         chroma_collection = db.get_or_create_collection("title_ix")
@@ -75,7 +75,7 @@ class TitleRagFeature:
         self.result[state]['next_section_summary'] = list(self.result[state]['next_section_summary'])
         self.result[state]['section_summary'] = list(self.result[state]['section_summary'])
         self.result[state]['keywords'] = list(self.result[state]['keywords'])
-        with open("features.json", "w") as f:
+        with open("ct_features.json", "w") as f:
             json.dump(self.result, f)
 
 taf = TitleRagFeature()
