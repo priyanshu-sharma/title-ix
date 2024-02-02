@@ -12,9 +12,56 @@ from llama_index.node_parser import SemanticSplitterNodeParser
 from llama_index.storage.storage_context import StorageContext
 from llama_index.vector_stores import ChromaVectorStore
 from custom_transformation import TextBlobTransformation, VaderTransformation, RobertaTranformation, BertTransformation
+import pandas as pd
+import plotly.graph_objects as go
+import numpy as np
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
+
+def calculate_average(city_data, key):
+    city_key = city_data[key]
+    key_total = 0
+    for data in city_key:
+        key_total = key_total + float(data)
+    return key_total/len(city_key)
+
+def metrics_to_data():
+    with open('metrics.json', 'r') as openfile:
+        json_object = json.load(openfile)
+    overall_result = {}
+    for city, city_data in json_object.items():
+        overall_result[city] = []
+        keys = ['textblob_polarity', 'textblob_subjectivity', 'vader_negative', 'vader_positive', 'vader_neutral', 'vader_compound', 'roberta_negative', 'roberta_neutral', 'roberta_positive', 'bert_left', 'bert_center', 'bert_right']
+        for key in keys:
+            overall_result[city].append(calculate_average(city_data, key))
+        overall_result['feature'] = keys
+    df = pd.DataFrame.from_dict(overall_result)
+    print(df.head(10), df.columns)
+    return df, overall_result
+
+def radar_chat(df):
+    categories = df['feature']
+    fig = go.Figure()
+    for column in df.columns:
+        fig.add_trace(go.Scatterpolar(r=df[column], theta=categories, name=column))        
+    fig.show()
+    fig.write_image("metrics.png")
+
+def sortdata(overall_result, ikey):
+    r = {}
+    keys = ['textblob_polarity', 'textblob_subjectivity', 'vader_negative', 'vader_positive', 'vader_neutral', 'vader_compound', 'roberta_negative', 'roberta_neutral', 'roberta_positive', 'bert_left', 'bert_center', 'bert_right']
+    i = 0
+    for key in keys:
+        if key != ikey:
+            i = i + 1
+        else:
+            break
+    print(i, keys[i])
+    for k, v in overall_result.items():
+        if k != 'feature':
+            r[k] = np.float64(v[i])
+    return dict(sorted(r.items(), key=lambda item: item[1]))
 
 class TitleRagMetrics:
     def __init__(self):
@@ -78,5 +125,5 @@ class TitleRagMetrics:
         with open("metrics.json", "w") as f:
             json.dump(self.result, f)
 
-tam = TitleRagMetrics()
-tam.extract_metadata()
+# tam = TitleRagMetrics()
+# tam.extract_metadata()
