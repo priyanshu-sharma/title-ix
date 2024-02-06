@@ -46,7 +46,7 @@ class TopicDistribution:
         print(self.df.head(5))
 
     def configure_embedding(self):
-        embedding_model = SentenceTransformer("SFR-Embedding-Mistral")
+        embedding_model = SentenceTransformer("Salesforce/SFR-Embedding-Mistral")
         embeddings = embedding_model.encode(self.df['text'], show_progress_bar=True)
         umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
         hdbscan_model = HDBSCAN(min_cluster_size=200, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
