@@ -2,16 +2,16 @@ import logging
 import sys
 import time
 
+import pandas as pd
+from bertopic import BERTopic
+from bertopic.representation import KeyBERTInspired, MaximalMarginalRelevance
+from hdbscan import HDBSCAN
 from llama_index import SimpleDirectoryReader
 from llama_index.ingestion import IngestionPipeline
 from llama_index.node_parser import SentenceSplitter
-import pandas as pd
 from sentence_transformers import SentenceTransformer
-from umap import UMAP
-from hdbscan import HDBSCAN
 from sklearn.feature_extraction.text import CountVectorizer
-from bertopic.representation import KeyBERTInspired, MaximalMarginalRelevance
-from bertopic import BERTopic
+from umap import UMAP
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
@@ -31,23 +31,17 @@ class TopicDistribution:
         self.pre_df()
 
     def pre_df(self):
-        states = []
-        texts = []
+        self.states = []
+        self.texts = []
         for node in self.nodes:
             file_path = node.metadata.get('file_path')
             state = file_path.split('/')[-1].split('.')[0]
-            states.append(state)
-            texts.append(node.text)
-        data = {
-            'states': states,
-            'text': texts
-        }
-        self.df = pd.DataFrame.from_dict(data)
-        print(self.df.head(5))
+            self.states.append(state)
+            self.texts.append(node.text)
 
     def configure_embedding(self):
         embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-        embeddings = embedding_model.encode(self.df['text'], show_progress_bar=True)
+        embeddings = embedding_model.encode(self.texts, show_progress_bar=True)
         umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
         hdbscan_model = HDBSCAN(min_cluster_size=200, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
         vectorizer_model = CountVectorizer(stop_words="english", min_df=5, ngram_range=(1, 2, 3, 4))
@@ -68,7 +62,7 @@ class TopicDistribution:
             top_n_words=10,
             verbose=True
         )
-        topics, probs = self.topic_model.fit_transform(self.df['text'], embeddings)
+        topics, probs = self.topic_model.fit_transform(self.texts, embeddings)
         return topics, probs
 
 topic = TopicDistribution()
