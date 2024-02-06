@@ -59,6 +59,7 @@ class TopicDistribution:
             gpu_layers=50,
             hf=True
         )
+        model.max_seq_len = 4096
         tokenizer = AutoTokenizer.from_pretrained("HuggingFaceH4/zephyr-7b-alpha")
         generator = pipeline(
             model=model, tokenizer=tokenizer,
