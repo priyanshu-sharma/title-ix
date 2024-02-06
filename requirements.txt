@@ -2,6 +2,7 @@ bertopic
 black
 bs4
 chromadb
+ctransformers[cuda]
 docx2txt
 fastapi
 gunicorn

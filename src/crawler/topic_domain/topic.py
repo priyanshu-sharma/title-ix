@@ -25,7 +25,7 @@ class TopicDistribution:
         self.result = []
         start = time.time()
         transformations = [
-            SentenceSplitter(chunk_size=1024, chunk_overlap=20)
+            SentenceSplitter(chunk_size=512, chunk_overlap=20)
         ]
         documents = SimpleDirectoryReader("../output_domain").load_data()
         pipeline = IngestionPipeline(transformations=transformations)
