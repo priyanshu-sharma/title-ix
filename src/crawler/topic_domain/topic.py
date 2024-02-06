@@ -10,7 +10,7 @@ from sentence_transformers import SentenceTransformer
 from umap import UMAP
 from hdbscan import HDBSCAN
 from sklearn.feature_extraction.text import CountVectorizer
-from bertopic.representation import KeyBERTInspired, MaximalMarginalRelevance, PartOfSpeech
+from bertopic.representation import KeyBERTInspired, MaximalMarginalRelevance
 from bertopic import BERTopic
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
@@ -52,13 +52,11 @@ class TopicDistribution:
         hdbscan_model = HDBSCAN(min_cluster_size=200, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
         vectorizer_model = CountVectorizer(stop_words="english", min_df=5, ngram_range=(1, 2, 3, 4))
         keybert_model = KeyBERTInspired(top_n_words=30)
-        pos_model = PartOfSpeech("en_core_web_sm")
         mmr_model = MaximalMarginalRelevance(diversity=0.5)
         combined_model = [KeyBERTInspired(top_n_words=30), MaximalMarginalRelevance(diversity=0.5)]
         representation_model = {
             "keyBERT": keybert_model,
             "mmr": mmr_model,
-            "pos": pos_model,
             "combined": combined_model,
         }
         self.topic_model = BERTopic(
