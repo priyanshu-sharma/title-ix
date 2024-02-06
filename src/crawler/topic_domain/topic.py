@@ -44,14 +44,14 @@ class TopicDistribution:
         embeddings = embedding_model.encode(self.texts, show_progress_bar=True)
         umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
         hdbscan_model = HDBSCAN(min_cluster_size=200, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
-        vectorizer_model = CountVectorizer(stop_words="english", min_df=5, ngram_range=(1, 2, 3, 4))
+        vectorizer_model = CountVectorizer(stop_words="english", min_df=5, ngram_range=(1, 2, 3))
         keybert_model = KeyBERTInspired(top_n_words=30)
         mmr_model = MaximalMarginalRelevance(diversity=0.5)
-        # combined_model = [KeyBERTInspired(top_n_words=30), MaximalMarginalRelevance(diversity=0.5)]
+        combined_model = [KeyBERTInspired(top_n_words=30), MaximalMarginalRelevance(diversity=0.5)]
         representation_model = {
             "keyBERT": keybert_model,
             "mmr": mmr_model,
-            # "combined": combined_model,
+            "combined": combined_model,
         }
         self.topic_model = BERTopic(
             embedding_model=embedding_model,
