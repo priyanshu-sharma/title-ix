@@ -1,3 +1,4 @@
+bertopic
 black
 bs4
 chromadb
