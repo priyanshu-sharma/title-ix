@@ -1,4 +1,4 @@
-Topic - "SOUTH DAKOTA TITLE IX DOCUMENTATION"
+TITLE - SOUTH_DAKOTA TITLE IX DOCUMENTATION
 
 Republic State (Red Region) (This is crawled data)
 
@@ -558,7 +558,7 @@ Governor's Office of Economic Development
 South Dakota Housing Authority
 South Dakota Retirement System
 Events Calendar - Click on highlighted date to view a list of events.
-SunMonTueWedThuFriSat311234567891011121314151617181920212223242526272829303112345678910
+SunMonTueWedThuFriSat282930311234567891011121314151617181920212223242526272829123456789
 © 2024 | Powered by BIT | State of South Dakota
 sd.gov | sdlegislature.gov | email us
 Codified Laws
@@ -2830,7 +2830,7 @@ Governor's Office of Economic Development
 South Dakota Housing Authority
 South Dakota Retirement System
 Events Calendar - Click on highlighted date to view a list of events.
-SunMonTueWedThuFriSat311234567891011121314151617181920212223242526272829303112345678910
+SunMonTueWedThuFriSat282930311234567891011121314151617181920212223242526272829123456789
 © 2024 | Powered by BIT | State of South Dakota
 sd.gov | sdlegislature.gov | email us
 Codified Laws
@@ -2855,12 +2855,16 @@ Help make Google Chrome better by automatically sending usage statistics and cra
 Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
 Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
 Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
-Set Google Chrome as my default browser
+Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
 Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
 Set Google Chrome as my default browser
 Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
 Set Google Chrome as my default browser
 Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
+Set Google Chrome as my default browser
+Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
+By downloading Chrome, you agree to the Google Terms of Service and Chrome and ChromeOS Additional Terms of Service
+By downloading Chrome, you agree to the Google Terms of Service and Chrome and ChromeOS Additional Terms of Service
 By downloading Chrome, you agree to the Google Terms of Service and Chrome and ChromeOS Additional Terms of Service
 By downloading Chrome, you agree to the Google Terms of Service and Chrome and ChromeOS Additional Terms of Service
 By downloading Chrome, you agree to the Google Terms of Service and Chrome and ChromeOS Additional Terms of Service
@@ -3046,12 +3050,16 @@ Help make Google Chrome better by automatically sending usage statistics and cra
 Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
 Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
 Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
-Set Google Chrome as my default browser
+Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
 Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
 Set Google Chrome as my default browser
 Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
 Set Google Chrome as my default browser
 Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
+Set Google Chrome as my default browser
+Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
+By downloading Chrome, you agree to the Google Terms of Service and Chrome and ChromeOS Additional Terms of Service
+By downloading Chrome, you agree to the Google Terms of Service and Chrome and ChromeOS Additional Terms of Service
 By downloading Chrome, you agree to the Google Terms of Service and Chrome and ChromeOS Additional Terms of Service
 By downloading Chrome, you agree to the Google Terms of Service and Chrome and ChromeOS Additional Terms of Service
 By downloading Chrome, you agree to the Google Terms of Service and Chrome and ChromeOS Additional Terms of Service

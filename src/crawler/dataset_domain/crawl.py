@@ -6,12 +6,14 @@ import docx2txt
 from io import BytesIO
 import pandas as pd
 from bs4 import BeautifulSoup
+import json
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 class Crawl:
     def __init__(self, csv_path):
+        self.headers = {}
         self.csv_data = pd.read_csv(csv_path)
         logger.info("columns - {}".format(self.csv_data.columns))
         logger.info(self.csv_data.head())
@@ -66,14 +68,16 @@ class Crawl:
                 read_pdf = PyPDF2.PdfFileReader(data)
                 for page in range(read_pdf.getNumPages()):
                     child_data = child_data + read_pdf.getPage(page).extractText()
+            return child_data, {child_url: 'empty'}
         else:    
             child_html_page = requests.get(child_url).text
             soup = BeautifulSoup(child_html_page, 'html.parser')
+            child_header = soup.find_all(["title", "h1", "h2", "h3"])
             child_text_data = soup.text.strip()
             formatted_child_data = self.clean_and_add_data(child_text_data)
             child_data = child_data + formatted_child_data
-        # logger.info("Formatted Child Data - {}".format(child_data))
-        return child_data
+            # logger.info("Formatted Child Data - {}".format(child_data))
+            return child_data, {child_url : str(child_header)}
 
     def reject_unwanted_links(self):
         filtered_links = []
@@ -85,6 +89,7 @@ class Crawl:
     def get_child_link_data(self, link_list):
         children_data = ''
         self.child_links = []
+        child_headers = []
         for link in link_list:
             if link.get('href') is not None and link.get('class') is None and link['href'][:4] == 'http':
                 self.child_links.append(link)
@@ -100,11 +105,12 @@ class Crawl:
                 child_topic = child_link.text.strip()
                 logger.info("{} --------------------------------- {}".format(child_url, child_topic))
                 try:
-                    child_data = self.get_child_crawled_data(child_url, child_topic)
+                    child_data, child_header = self.get_child_crawled_data(child_url, child_topic)
                     children_data = children_data + child_data
+                    child_headers.append(child_header)
                 except Exception as e:
                     print(e)
-        return children_data
+        return children_data, child_headers
 
     def title_and_info(self, state, color):
         party = 'Democratic' if color == 'Blue' else 'Republic'
@@ -114,7 +120,7 @@ class Crawl:
     def crawl(self):
         for index, row in self.csv_data.iterrows():
             if row['state'] != self.starting_state:
-                with open('output/{}.txt'.format(self.starting_state), "w", encoding="utf-8") as f:
+                with open('../output_domain/{}.txt'.format(self.starting_state), "w", encoding="utf-8") as f:
                     f.write(self.formatted_data)
                 self.starting_state = row['state']
                 self.formatted_data = self.title_and_info(row['state'], row['color'])
@@ -124,20 +130,37 @@ class Crawl:
                     read_pdf = PyPDF2.PdfFileReader(data)
                     for page in range(read_pdf.getNumPages()):
                         self.formatted_data = self.formatted_data + read_pdf.getPage(page).extractText()
+                main_headers = [{row['url'] : 'empty'}]
+                child_headers = []
             elif row['type'] == 'docs':
                 file = self.url_map[row['url']]
                 self.formatted_data = self.formatted_data + docx2txt.process(file)
+                main_headers = [{row['url'] : 'empty'}]
+                child_headers = []
             else:
                 html_page = requests.get(row['url']).text
                 soup = BeautifulSoup(html_page, 'html.parser')
+                temp_headers = soup.find_all(["title", "h1", "h2", "h3"])
+                main_headers = [{row['url'] : str(temp_headers)}]
                 text_data = soup.text.strip()
                 format_data = self.clean_and_add_data(text_data)
                 link_list = soup.find_all("a")
-                child_data = self.get_child_link_data(link_list)
+                child_data, child_headers = self.get_child_link_data(link_list)
                 self.formatted_data = self.formatted_data + format_data + child_data
+            print(main_headers, child_headers)
+            if self.starting_state not in self.headers.keys():
+                self.headers[self.starting_state] = {
+                        'headers': main_headers,
+                        'child_headers': child_headers
+                }
+            else:
+                self.headers[self.starting_state]['headers'] = self.headers[self.starting_state]['headers'] + main_headers
+                self.headers[self.starting_state]['child_headers'] = self.headers[self.starting_state]['child_headers'] + child_headers
         # logger.info("Formatted Child Data - {}".format(self.formatted_data))
         with open('../output_domain/{}.txt'.format(self.starting_state), "w", encoding="utf-8") as f:
             f.write(self.formatted_data)
+        with open("headers.json", "w") as f:
+            json.dump(self.headers, f)
 
 csv_path = 'data.csv'
 crawl = Crawl(csv_path)
