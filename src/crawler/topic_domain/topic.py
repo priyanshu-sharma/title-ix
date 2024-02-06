@@ -47,11 +47,11 @@ class TopicDistribution:
         vectorizer_model = CountVectorizer(stop_words="english", min_df=5, ngram_range=(1, 2, 3, 4))
         keybert_model = KeyBERTInspired(top_n_words=30)
         mmr_model = MaximalMarginalRelevance(diversity=0.5)
-        combined_model = [KeyBERTInspired(top_n_words=30), MaximalMarginalRelevance(diversity=0.5)]
+        # combined_model = [KeyBERTInspired(top_n_words=30), MaximalMarginalRelevance(diversity=0.5)]
         representation_model = {
             "keyBERT": keybert_model,
             "mmr": mmr_model,
-            "combined": combined_model,
+            # "combined": combined_model,
         }
         self.topic_model = BERTopic(
             embedding_model=embedding_model,
