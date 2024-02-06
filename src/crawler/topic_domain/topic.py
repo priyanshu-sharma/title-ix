@@ -12,6 +12,10 @@ from llama_index.node_parser import SentenceSplitter
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 from umap import UMAP
+from bertopic.representation import TextGeneration
+from ctransformers import AutoModelForCausalLM
+from transformers import AutoTokenizer, pipeline
+
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
@@ -48,10 +52,36 @@ class TopicDistribution:
         keybert_model = KeyBERTInspired(top_n_words=30)
         mmr_model = MaximalMarginalRelevance(diversity=0.5)
         combined_model = [KeyBERTInspired(top_n_words=30), MaximalMarginalRelevance(diversity=0.5)]
+        model = AutoModelForCausalLM.from_pretrained(
+            "TheBloke/zephyr-7B-alpha-GGUF",
+            model_file="zephyr-7b-alpha.Q4_K_M.gguf",
+            model_type="mistral",
+            gpu_layers=50,
+            hf=True
+        )
+        tokenizer = AutoTokenizer.from_pretrained("HuggingFaceH4/zephyr-7b-alpha")
+        generator = pipeline(
+            model=model, tokenizer=tokenizer,
+            task='text-generation',
+            max_new_tokens=50,
+            repetition_penalty=1.1
+        )
+        prompt = """<|system|>You are a helpful, respectful and honest assistant for labeling topics..</s>
+        <|user|>
+        I have a topic that contains the following documents:
+        [DOCUMENTS]
+
+        The topic is described by the following keywords: '[KEYWORDS]'.
+
+        Based on the information about the topic above, please create a short label of this topic. Make sure you to only return the label and nothing more.</s>
+        <|assistant|>"""
+
+        zephyr = TextGeneration(generator, prompt=prompt)
         representation_model = {
             "keyBERT": keybert_model,
             "mmr": mmr_model,
             "combined": combined_model,
+            "zephyr": zephyr,
         }
         self.topic_model = BERTopic(
             embedding_model=embedding_model,
