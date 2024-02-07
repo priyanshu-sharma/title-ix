@@ -12,6 +12,10 @@ from llama_index.node_parser import SentenceSplitter
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 from umap import UMAP
+from ctransformers import AutoModelForCausalLM
+from transformers import AutoTokenizer, pipeline
+from bertopic.representation import TextGeneration
+
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
@@ -45,6 +49,50 @@ class TopicDistribution:
         umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
         hdbscan_model = HDBSCAN(min_cluster_size=10, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
         vectorizer_model = CountVectorizer(stop_words="english", ngram_range=(1, 5))
+        model = AutoModelForCausalLM.from_pretrained(
+            "TheBloke/zephyr-7B-alpha-GGUF",
+            model_file="zephyr-7b-alpha.Q4_K_M.gguf",
+            model_type="mistral",
+            gpu_layers=50,
+            hf=True,
+            context_length = 6000,
+        )
+        tokenizer = AutoTokenizer.from_pretrained("HuggingFaceH4/zephyr-7b-alpha")
+        generator = pipeline(
+            model=model, tokenizer=tokenizer,
+            task='text-generation',
+            max_new_tokens=50,
+            repetition_penalty=1.1
+        )
+        system_prompt = """
+        <s>[INST] <<SYS>>
+        You are a helpful, respectful and honest assistant for labeling topics.
+        <</SYS>>
+        """
+        example_prompt = """
+        I have a topic that contains the following documents:
+        - Traditional diets in most cultures were primarily plant-based with a little meat on top, but with the rise of industrial style meat production and factory farming, meat has become a staple food.
+        - Meat, but especially beef, is the word food in terms of emissions.
+        - Eating meat doesn't make you a bad person, not eating meat doesn't make you a good one.
+
+        The topic is described by the following keywords: 'meat, beef, eat, eating, emissions, steak, food, health, processed, chicken'.
+
+        Based on the information about the topic above, please create a short label of this topic. Make sure you to only return the label and nothing more.
+
+        [/INST] Environmental impacts of eating meat
+        """
+        main_prompt = """
+        [INST]
+        I have a topic that contains the following documents:
+        [DOCUMENTS]
+
+        The topic is described by the following keywords: '[KEYWORDS]'.
+
+        Based on the information about the topic above, please create a short label of this topic. Make sure you to only return the label and nothing more.
+        [/INST]
+        """
+        prompt = system_prompt + example_prompt + main_prompt
+        zephyr = TextGeneration(generator, prompt=prompt)
         keybert_model = KeyBERTInspired(top_n_words=30)
         mmr_model = MaximalMarginalRelevance(diversity=0.3)
         combined_model = [KeyBERTInspired(top_n_words=30), MaximalMarginalRelevance(diversity=0.3)]
@@ -52,6 +100,7 @@ class TopicDistribution:
             "keyBERT": keybert_model,
             "mmr": mmr_model,
             "combined": combined_model,
+            "zephyr": zephyr,
         }
         self.topic_model = BERTopic(
             embedding_model=embedding_model,
