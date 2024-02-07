@@ -42,7 +42,7 @@ class TopicDistribution:
     def configure_embedding(self):
         embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
         embeddings = embedding_model.encode(self.texts, show_progress_bar=True)
-        # umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
+        umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
         # hdbscan_model = HDBSCAN(min_cluster_size=100, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
         vectorizer_model = CountVectorizer(stop_words="english", ngram_range=(1, 5))
         keybert_model = KeyBERTInspired(top_n_words=30)
@@ -55,7 +55,7 @@ class TopicDistribution:
         }
         self.topic_model = BERTopic(
             embedding_model=embedding_model,
-        #     umap_model=umap_model,
+            umap_model=umap_model,
         #     hdbscan_model=hdbscan_model,
             vectorizer_model=vectorizer_model,
             representation_model=representation_model,
