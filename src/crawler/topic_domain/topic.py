@@ -62,7 +62,7 @@ class TopicDistribution:
             # top_n_words=10,
             verbose=True
         )
-        topics, probs = self.topic_model.fit_transform(self.texts, embeddings)
+        topics, probs = self.topic_model.fit_transform(self.texts)
         return topics, probs
 
 topic = TopicDistribution()
