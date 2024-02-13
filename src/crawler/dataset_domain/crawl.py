@@ -113,14 +113,19 @@ class Crawl:
         return children_data, child_headers
 
     def title_and_info(self, state, color):
-        party = 'Democratic' if color == 'Blue' else 'Republic'
-        format_header = "TITLE - {} TITLE IX DOCUMENTATION\n\n{} State ({} Region) (This is crawled data)\n\n".format(state.upper(), party, color)
+        if state == 'federal':
+            format_header = "TITLE - {} TITLE IX DOCUMENTATION\n\n (This is crawled data)\n\n".format(state.upper())
+        else:
+            party = 'Democratic' if color == 'Blue' else 'Republic'
+            format_header = "TITLE - {} TITLE IX DOCUMENTATION\n\n{} State ({} Region) (This is crawled data)\n\n".format(state.upper(), party, color)
         return format_header
+
 
     def crawl(self):
         for index, row in self.csv_data.iterrows():
+            print(row['type'])
             if row['state'] != self.starting_state:
-                with open('../output_domain/{}.txt'.format(self.starting_state), "w", encoding="utf-8") as f:
+                with open('../output_domain/federal/{}.txt'.format(self.starting_state), "w", encoding="utf-8") as f:
                     f.write(self.formatted_data)
                 self.starting_state = row['state']
                 self.formatted_data = self.title_and_info(row['state'], row['color'])
@@ -157,10 +162,10 @@ class Crawl:
                 self.headers[self.starting_state]['headers'] = self.headers[self.starting_state]['headers'] + main_headers
                 self.headers[self.starting_state]['child_headers'] = self.headers[self.starting_state]['child_headers'] + child_headers
         # logger.info("Formatted Child Data - {}".format(self.formatted_data))
-        with open('../output_domain/{}.txt'.format(self.starting_state), "w", encoding="utf-8") as f:
+        with open('../output_domain/federal/{}.txt'.format(self.starting_state), "w", encoding="utf-8") as f:
             f.write(self.formatted_data)
         with open("headers.json", "w") as f:
             json.dump(self.headers, f)
 
-csv_path = 'data.csv'
+csv_path = 'test_data.csv'
 crawl = Crawl(csv_path)

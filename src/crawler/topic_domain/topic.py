@@ -27,7 +27,7 @@ class TopicDistribution:
         transformations = [
             SentenceSplitter(chunk_size=1024, chunk_overlap=20)
         ]
-        documents = SimpleDirectoryReader("../output_domain").load_data()
+        documents = SimpleDirectoryReader("../output_domain/federal/").load_data()
         pipeline = IngestionPipeline(transformations=transformations)
         self.nodes = pipeline.run(documents=documents)
         end = time.time()
@@ -115,3 +115,5 @@ class TopicDistribution:
         return topics, probs
 
 topic = TopicDistribution()
+
+# Visualize topic per class
