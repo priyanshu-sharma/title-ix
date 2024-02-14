@@ -40,6 +40,23 @@ def metrics_to_data():
     print(df.head(10), df.columns)
     return df, overall_result
 
+def red_blue(df):
+    cf = df
+    cf['red'] = 0
+    cf['blue'] = 0
+    cf['blue'] = cf['california'] + cf['maryland'] + cf['massachusetts'] + cf['new_york'] + cf['washington']
+    cf['red'] = cf['kansas'] + cf['south_carolina'] + cf['south_dakota'] + cf['texas'] + cf['utah']
+    cf['red'] = cf['red']/5
+    cf['blue'] = cf['blue']/5
+    cf = cf.drop(['california', 'kansas', 'maryland', 'massachusetts', 'new_york', 'south_carolina', 'south_dakota', 'texas', 'utah', 'washington'], axis=1)
+    categories = cf['feature']
+    fig = go.Figure()
+    columns = ['blue', 'red']
+    for column in columns:
+        fig.add_trace(go.Scatterpolar(r=cf[column], theta=categories, name=column))        
+    fig.show()
+    fig.write_image("red_blue_metrics.png")
+
 def radar_chat(df):
     categories = df['feature']
     fig = go.Figure()

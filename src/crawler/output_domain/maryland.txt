@@ -1,4 +1,4 @@
-Topic - "MARYLAND TITLE IX DOCUMENTATION"
+TITLE - MARYLAND TITLE IX DOCUMENTATION
 
 Democratic State (Blue Region) (This is crawled data)
 
@@ -18,100 +18,100 @@ You may be trying to access this site from a secured browser on the server. Plea
 COMARCOMAR OnlineCOMAR Order FormsDepository LibrariesRegulatory Review and EvaluationMaryland RegisterMaryland Register OnlineRegister Order FormsCumulative Index (PDF)Cumulative Table (PDF)Table of Pending Proposals (PDF)International and Interstate AgreementsAdditional InformationPIA RequestState Holidays
 Left_Content​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 Main_Content​Display​ all regulations of a Title, Subtitle or Chapter​ ​Under Regulations by Title (left navigation if using a computer) - Click on a Title to filter the list, then on a Subtitle and Chapter as needed. To search for a specific term, place quotes around that term (ex: "influenza").​​​ ​Results will appear below.
-01.02.01.00.aspx1018410/20/2022 8:41:03 PM2862https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.01.000001020101.02.01
-01.02.02.00.aspx1018510/20/2022 8:41:04 PM1497https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.02.000001020201.02.02
-01.02.03.00.aspx1018610/20/2022 8:41:05 PM1555https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.000001020301.02.03
+01.02.01.00.aspx1018410/20/2022 8:41:03 PM2945https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.01.000001020101.02.01
+01.02.02.00.aspx1018510/20/2022 8:41:04 PM1554https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.02.000001020201.02.02
+01.02.03.00.aspx1018610/20/2022 8:41:05 PM1591https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.000001020301.02.03
 Authority: Business Regulation Article, §6-204; State Government Article, §§10-123 and 10-204; Annotated Code of Maryland
-01.02.03.01.aspx1018711/9/2022 11:12:15 PM1260https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.010101020301.02.03 Scope.
+01.02.03.01.aspx1018711/9/2022 11:12:15 PM1298https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.010101020301.02.03 Scope.
 These regulations apply to controversies and hearings arising under the Maryland Charitable Solicitations Act, Business Regulation Article, Title 6, Annotated Code of Maryland.
-01.02.03.02.aspx1018811/22/2022 7:59:52 PM1358https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.020201020301.02.03 Definitions.
+01.02.03.02.aspx1018811/22/2022 7:59:52 PM1396https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.020201020301.02.03 Definitions.
 A. "Act" means the Maryland Solicitations Act, Business Regulation Article, Title 6, Annotated Code of Maryland.
 C. "Party" means any person requesting a hearing and any person or agency having an interest in the outcome of a hearing.
-E. "Respondent" means any person requesting a hearing from the ...01.02.03.03.aspx1018910/20/2022 8:41:08 PM1187https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.030301020301.02.03 Petition for Adoption of Regulations.
+E. "Respondent" means any person requesting a hearing from the ...01.02.03.03.aspx1018910/20/2022 8:41:08 PM1226https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.030301020301.02.03 Petition for Adoption of Regulations.
 A. Who May File. Any interested person may file with the Secretary a petition requesting the promulgation, amendment, or repeal of any regulation.
 B. Form. The petition shall be in writing and shall contain the name, address, and telephone number of the petitioner. It shall also contain the proposed regulation change and a brief statement of reasons in support of the change.
-C. Submission, Consideration, and Di...01.02.03.04.aspx1019010/20/2022 8:41:08 PM1069https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.040401020301.02.03 Petition for Declaratory Ruling.
+C. Submission, Consideration, and Di...01.02.03.04.aspx1019010/20/2022 8:41:08 PM1101https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.040401020301.02.03 Petition for Declaratory Ruling.
 A. Who May File. Any interested person may file with the Secretary a petition for a declaratory ruling with respect to the applicability of the Act or any regulation pertaining to the Act, to any person, property, or state of facts.
-B. Form. The petition shall be in writing. It shall contain a detailed statement of the facts underlying the questioned applicability of the regulation or the Act and shall pose the question of whe...01.02.03.05.aspx101914/5/2023 8:56:17 PM1079https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.050501020301.02.03 Right to a Hearing.
+B. Form. The petition shall be in writing. It shall contain a detailed statement of the facts underlying the questioned applicability of the regulation or the Act and shall pose the question of whe...01.02.03.05.aspx101914/5/2023 8:56:17 PM1109https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.050501020301.02.03 Right to a Hearing.
 A. Who May Request a Hearing. Any person adversely affected by any action taken by the Secretary as a result of an investigation pursuant to Business Regulation Article, §6-205, Annotated Code of Maryland, is entitled to a hearing before the Secretary.
-(1) Whenever the Secretary notifies a person that the Secretary has taken action which may adversely affect that person or that person's ability to engage in solicitati...01.02.03.06.aspx1011710/20/2022 8:41:10 PM974https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.060601020301.02.03 Requests for Hearings.
+(1) Whenever the Secretary notifies a person that the Secretary has taken action which may adversely affect that person or that person's ability to engage in solicitati...01.02.03.06.aspx1011710/20/2022 8:41:10 PM1001https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.060601020301.02.03 Requests for Hearings.
 Any person entitled to a hearing may file with the Secretary a petition requesting a hearing. The petition shall be filed within 30 days of the date of the Secretary's decision, failure to act, or other action. The Secretary shall mail promptly to each petitioner a notice indicating the date of receipt of the request.
-01.02.03.07.aspx1011811/22/2022 8:01:19 PM996https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.070701020301.02.03 Date of Hearing — Timing.
+01.02.03.07.aspx1011811/22/2022 8:01:19 PM1020https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.070701020301.02.03 Date of Hearing — Timing.
 A. Within 30 days after a request is submitted by a respondent, the Secretary of State shall hold a hearing in accordance with State Government Article, Title 10, Subtitle 2, Annotated Code of Maryland.
 B. For all other hearing requests, the Secretary shall hold the hearing as promptly as possible and within a reasonable time of the date a request for a hearing is received.
-01.02.03.08.aspx1011910/20/2022 8:41:11 PM974https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.080801020301.02.03 Right to Counsel.
-01.02.03.09.aspx1012010/20/2022 8:41:12 PM924https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.090901020301.02.03 Consolidation of Requests for Hearings.
+01.02.03.08.aspx1011910/20/2022 8:41:11 PM1003https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.080801020301.02.03 Right to Counsel.
+01.02.03.09.aspx1012010/20/2022 8:41:12 PM952https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.090901020301.02.03 Consolidation of Requests for Hearings.
 The Secretary may consolidate requests for hearings, when the sole issue involved is one of policy, and hold a group hearing. In all group hearings, the procedures contained in these regulations shall be followed.
-01.02.03.10.aspx1012110/20/2022 8:41:13 PM932https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.101001020301.02.03 Prehearing Procedure.
+01.02.03.10.aspx1012110/20/2022 8:41:13 PM957https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.101001020301.02.03 Prehearing Procedure.
 A. Notice of Hearings. The Secretary shall provide reasonable notice to a party of the date, time and place of a hearing. If the petitioner notifies the Secretary that the date designated is not convenient, the Secretary may designate another date which is convenient to the petitioner.
-B. Briefs. Each party may submit briefs containing arguments relating to the issues of fact and law involved in the hearing. If briefs are submitted, the ...01.02.03.11.aspx1012210/20/2022 8:41:13 PM992https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.111101020301.02.03 Hearing Procedure.
+B. Briefs. Each party may submit briefs containing arguments relating to the issues of fact and law involved in the hearing. If briefs are submitted, the ...01.02.03.11.aspx1012210/20/2022 8:41:13 PM1018https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.111101020301.02.03 Hearing Procedure.
 A. Administrative Procedure Act. All hearings held pursuant to Business Regulation Article, Title 6, Annotated Code of Maryland, or these regulations shall be subject to the provisions of the Administrative Procedure Act.
 B. Parties. The Secretary, or the designee of the Secretary, shall permit any party to be present at the hearings.
-C. Presiding Officer. The Secretary, or the Secretary's designee, shall be the presiding officer...01.02.03.12.aspx1012310/20/2022 8:41:14 PM886https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.121201020301.02.03 Withdrawn or Abandoned Requests for Hearings.
+C. Presiding Officer. The Secretary, or the Secretary's designee, shall be the presiding officer...01.02.03.12.aspx1012310/20/2022 8:41:14 PM910https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.121201020301.02.03 Withdrawn or Abandoned Requests for Hearings.
 A. Withdrawn Requests for Hearings. A request for a hearing may be withdrawn in writing by the petitioner or their counsel at any time.
 B. Abandoned Requests for Hearings. The Secretary shall consider a request for a hearing abandoned if neither the petitioner nor the petitioner's counsel appears at the hearing.
-C. Denied or Dismissed Requests for Hearings. The Secretary shall deny or dismiss a request ...01.02.03.13.aspx1012410/20/2022 8:41:15 PM1486https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.131301020301.02.03 Records.
+C. Denied or Dismissed Requests for Hearings. The Secretary shall deny or dismiss a request ...01.02.03.13.aspx1012410/20/2022 8:41:15 PM1515https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.131301020301.02.03 Records.
 A. Preparation. The Secretary shall prepare an official stenographic record of the proceedings in accordance with State Government Article, Title 10, Subtitle 2, Annotated Code of Maryland. The record shall include all pleadings, testimony, exhibits, and other memoranda or material filed in the proceedings. Any party requesting a typewritten transcript of the hearing, or part of it, is responsible for its cost.
-B. Availability. The record shall be av...01.02.03.14.aspx1012510/20/2022 8:41:16 PM949https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.141401020301.02.03 Decisions.
+B. Availability. The record shall be av...01.02.03.14.aspx1012510/20/2022 8:41:16 PM971https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.141401020301.02.03 Decisions.
 (1) Every final decision rendered by the Secretary shall be in writing and shall be accompanied by findings of fact and conclusions of law.
 (2) The findings of fact shall consist of a concise statement of the conclusions upon each contested issue of fact.
-(3) The Secretary shall mail to each party or each party's counsel a copy of the decision and accompanying findings and conclusions within 30 day...01.02.03.9999.aspx1005010/20/2022 8:41:16 PM925https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.9999999901020301.02.03
+(3) The Secretary shall mail to each party or each party's counsel a copy of the decision and accompanying findings and conclusions within 30 day...01.02.03.9999.aspx1005010/20/2022 8:41:16 PM955https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.9999999901020301.02.03
 Regulation .02A, D amended effective August 8, 2022 (49:16 Md. R. 757) Regulation .02E adopted effective August 8, 2022 (49:16 Md. R. 757) Regulation .03C amended effective October 3, 1988 (15:20 Md. R. 2332); August 8, 2022 (49:16 Md. R. 757)
-Regulation .04C amended effective August 8, 2022 (49:16 Md. R. 757) Regulation .05 amended effective October 3, 1988 (15:20 Md. R. 2332); November 13, 200...01.02.04.00.aspx1005110/20/2022 8:41:18 PM1054https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.000001020401.02.04
-01.02.04.01.aspx100524/5/2023 8:56:19 PM1334https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.010101020401.02.04 Definitions.
+Regulation .04C amended effective August 8, 2022 (49:16 Md. R. 757) Regulation .05 amended effective October 3, 1988 (15:20 Md. R. 2332); November 13, 200...01.02.04.00.aspx1005110/20/2022 8:41:18 PM1080https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.000001020401.02.04
+01.02.04.01.aspx100524/5/2023 8:56:19 PM1379https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.010101020401.02.04 Definitions.
 A. Terms defined in Business Regulation Article, §6-101, Annotated Code of Maryland, shall have the same meaning for the purposes of these regulations as they do in the Act.
 B. Terms defined in these regulations shall have the same meaning for the purposes of the Act as they do in these regulations.
-...01.02.04.02.aspx1005310/20/2022 8:41:20 PM1031https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.020201020401.02.04 Responsibilities of Persons Regulated.
+...01.02.04.02.aspx1005310/20/2022 8:41:20 PM1071https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.020201020401.02.04 Responsibilities of Persons Regulated.
 (1) An organization shall advise its members of the amount, if any, of the membership fees, dues, fines, or assessments which the Internal Revenue Service does not consider tax deductible as a contribution.
-(2)  An organization shall advise each purchaser or contributor of the amount, if any, of the contribution which the Internal Revenue Service does not consider tax deductible...01.02.04.03.aspx1005411/22/2022 8:07:03 PM1014https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.030301020401.02.04 Responsibilities of the Secretary.
+(2)  An organization shall advise each purchaser or contributor of the amount, if any, of the contribution which the Internal Revenue Service does not consider tax deductible...01.02.04.03.aspx1005411/22/2022 8:07:03 PM1042https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.030301020401.02.04 Responsibilities of the Secretary.
 (1) Identify to the extent possible persons who have not registered and are subject to the provisions of the Act;
 (2) Send to those identified the necessary forms and instructions and with instructions on how to access a copy of the Act and regulations; and
-(3) Advise the person not in compliance of the person's unlawful solicitation and no...01.02.04.04.aspx1005510/20/2022 8:41:21 PM1049https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.040401020401.02.04 Allocation of Expenses.
+(3) Advise the person not in compliance of the person's unlawful solicitation and no...01.02.04.04.aspx1005510/20/2022 8:41:21 PM1079https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.040401020401.02.04 Allocation of Expenses.
 (1) Program services expenses are activities which the organization was created to conduct and which form the basis for the organization's tax-exempt status. Each major program service shall be distinguishable from all other program services, and shall include activities, the costs of which can be practicably segregated and accounted for in the records of the organization.
-(2) Examples of program services expenses inc...01.02.04.05.aspx1005610/20/2022 8:41:22 PM1535https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.050501020401.02.04 Repealed.
-01.02.04.06.aspx1005710/20/2022 8:41:23 PM906https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.060601020401.02.04 Payments for Property Sold or Services Rendered.
+(2) Examples of program services expenses inc...01.02.04.05.aspx1005610/20/2022 8:41:22 PM1563https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.050501020401.02.04 Repealed.
+01.02.04.06.aspx1005710/20/2022 8:41:23 PM930https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.060601020401.02.04 Payments for Property Sold or Services Rendered.
 If an organization implies or states that payments for property sold or services rendered by the organization will be used in whole or in part for charitable purposes, the act of selling property or rendering services shall be a solicitation, and all the payments shall be contributions.
-01.02.04.07.aspx1005810/20/2022 8:41:23 PM901https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.070701020401.02.04 Declaratory Rulings as to Status.
+01.02.04.07.aspx1005810/20/2022 8:41:23 PM925https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.070701020401.02.04 Declaratory Rulings as to Status.
 An organization uncertain of its status under that Act may request a declaratory ruling from the Secretary in accordance with COMAR 01.02.03.
-01.02.04.08.aspx1005910/20/2022 8:41:24 PM996https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.080801020401.02.04 Repealed.
-01.02.04.09.aspx1006010/20/2022 8:41:25 PM914https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.090901020401.02.04 Determination of Charitable Purpose.
+01.02.04.08.aspx1005910/20/2022 8:41:24 PM1020https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.080801020401.02.04 Repealed.
+01.02.04.09.aspx1006010/20/2022 8:41:25 PM941https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.090901020401.02.04 Determination of Charitable Purpose.
 A. Charitable Purpose and Noncharitable Purposes. An organization's governing instrument, actions, deeds, oral statements and written materials shall be used to determine whether the organization has a charitable purpose.
 B. Solicitations. If a solicitation reflects both the charitable and noncharitable purposes of the organization, the proceeds of the entire solicitation shall be designated for charitable purposes.
-...01.02.04.10.aspx997710/20/2022 8:41:25 PM983https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.101001020401.02.04 Method of Delivery of Required Forms and Other Written Materials.
+...01.02.04.10.aspx997710/20/2022 8:41:25 PM1011https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.101001020401.02.04 Method of Delivery of Required Forms and Other Written Materials.
 A. Mailing Address. The official mailing address of the Secretary for delivery and receipt of any mail, information, filings, registrations, applications, or other material required by the Act or regulations promulgated by the Secretary of State pursuant to §6-204 of the Act is: Office of the Secretary of State, Charitable Organizations Division, 16 Francis Street, Annapolis, MD 21401.
-B. Elect...01.02.04.11.aspx997810/20/2022 8:41:26 PM912https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.111101020401.02.04 Consolidated Filings.
+B. Elect...01.02.04.11.aspx997810/20/2022 8:41:26 PM937https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.111101020401.02.04 Consolidated Filings.
 An organization which files a consolidated registration statement on behalf of its Maryland chapters, branches, or affiliates, shall state separately the names and addresses of those organizations included in the consolidated filing.
-01.02.04.12.aspx997910/20/2022 8:41:27 PM910https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.121201020401.02.04 Federated Fund-Raising Organizations.
+01.02.04.12.aspx997910/20/2022 8:41:27 PM936https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.121201020401.02.04 Federated Fund-Raising Organizations.
 A federated fund-raising organization shall state the names and addresses of its member agencies in its registration statement.
-01.02.04.13.aspx998010/20/2022 8:41:27 PM896https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.131301020401.02.04 Employee of a Charitable Organization.
+01.02.04.13.aspx998010/20/2022 8:41:27 PM920https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.131301020401.02.04 Employee of a Charitable Organization.
 In determining whether an individual is an employee of an organization, a professional solicitor, or a fund-raising counsel, the payment of payroll taxes on behalf of the individual and reporting the payments, salaries, or fees as income for the individual to the Internal Revenue Service is evidence that an employer-employee relationship exists. The Secretary may require proof that these are being reported to the Internal Revenue Service.
-...01.02.04.14.aspx998110/20/2022 8:41:28 PM958https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.141401020401.02.04 Repealed.
-01.02.04.15.aspx998210/20/2022 8:41:29 PM1019https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.151501020401.02.04 Complaints.
+...01.02.04.14.aspx998110/20/2022 8:41:28 PM984https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.141401020401.02.04 Repealed.
+01.02.04.15.aspx998210/20/2022 8:41:29 PM1046https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.151501020401.02.04 Complaints.
 (3) State to the extent possible the nature of the alleged violation, the date of occurrence, and the name of each person involved;
-(4) Include to the extent possible any materials distributed by ...01.02.04.16.aspx998310/20/2022 8:41:29 PM924https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.161601020401.02.04 Disclosure of Information.
+(4) Include to the extent possible any materials distributed by ...01.02.04.16.aspx998310/20/2022 8:41:29 PM951https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.161601020401.02.04 Disclosure of Information.
 The Secretary may request additional information which relates to a true and full disclosure of facts affecting a person's past or impending solicitation or practices, to aid the Secretary in the administration of the Act.
-01.02.04.17.aspx998410/20/2022 8:41:30 PM853https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.171701020401.02.04 Repealed.
-01.02.04.18.aspx998510/20/2022 8:41:31 PM898https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.181801020401.02.04 Repealed.
-01.02.04.19.aspx998610/20/2022 8:41:32 PM1028https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.191901020401.02.04 Prohibited Acts.
+01.02.04.17.aspx998410/20/2022 8:41:30 PM878https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.171701020401.02.04 Repealed.
+01.02.04.18.aspx998510/20/2022 8:41:31 PM921https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.181801020401.02.04 Repealed.
+01.02.04.19.aspx998610/20/2022 8:41:32 PM1074https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.191901020401.02.04 Prohibited Acts.
 A. Closely Related Names. A person may not use a name, symbol, or statement so closely related to that used by a charitable organization or governmental agency that the use would tend to confuse or mislead the public.
-B. Restrictions on Use of Name. A person may not use a name implying an activity in any field of law enforcement, public safety, fire fighting, or emergency services unless a majority of the members of the organization are activ...01.02.04.20.aspx998710/20/2022 8:41:33 PM994https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.202001020401.02.04 Professional Solicitors' and Fund-Raising Counsel's Contracts.
-A. The Secretary of State shall make a determination that a contract between a professional solicitor or fund-raising counsel and a charitable organization does or does not comply with Maryland law within 30 days of the filing of the contract with the Secretary of State. Upon notification that a contract does not comply with the Maryland law, a new contract or contract addendum addressing the provisions not in complian...01.02.04.20-1.aspx99887/19/2023 3:27:12 PM1094https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.20-0120-0101020401.02.04 Charitable Organizations Affiliated with State Agencies.
+B. Restrictions on Use of Name. A person may not use a name implying an activity in any field of law enforcement, public safety, fire fighting, or emergency services unless a majority of the members of the organization are activ...01.02.04.20.aspx998710/20/2022 8:41:33 PM1017https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.202001020401.02.04 Professional Solicitors' and Fund-Raising Counsel's Contracts.
+A. The Secretary of State shall make a determination that a contract between a professional solicitor or fund-raising counsel and a charitable organization does or does not comply with Maryland law within 30 days of the filing of the contract with the Secretary of State. Upon notification that a contract does not comply with the Maryland law, a new contract or contract addendum addressing the provisions not in complian...01.02.04.20-1.aspx99887/19/2023 3:27:12 PM1172https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.20-0120-0101020401.02.04 Charitable Organizations Affiliated with State Agencies.
 A. A charitable organization affiliated with a State agency that is required to register with the Secretary of State as a charitable organization shall file with its registration statement and with each annual report an audit prepared in accordance with generally accepted auditing standards if it is required to do so under §6-402(b)(7)(i) of the Act.
-B. The auditor's opinion shall state whether the fi...01.02.04.21.aspx1012610/20/2022 8:41:34 PM967https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.212101020401.02.04 Penalties.
+B. The auditor's opinion shall state whether the fi...01.02.04.21.aspx1012610/20/2022 8:41:34 PM998https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.212101020401.02.04 Penalties.
 A person who violates these regulations is subject to the penalties contained in Business Regulation Article, §6-619, Annotated Code of Maryland.
-01.02.04.9999.aspx1012711/22/2022 8:12:20 PM962https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.9999999901020401.02.04
-Regulation ...01.02.05.00.aspx1012810/20/2022 8:41:36 PM924https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.000001020501.02.05
-01.02.05.01.aspx1012911/22/2022 8:13:01 PM902https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.010101020501.02.05 General.
+01.02.04.9999.aspx1012711/22/2022 8:12:20 PM985https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.9999999901020401.02.04
+Regulation ...01.02.05.00.aspx1012810/20/2022 8:41:36 PM947https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.000001020501.02.05
+01.02.05.01.aspx1012911/22/2022 8:13:01 PM929https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.010101020501.02.05 General.
 These regulations set out the procedures for the filing of requests with the Secretary of State for the inspection and copying of records under State Government Article, §§10-61110-628, Annotated Code of Maryland. It is the policy of the Secretary to facilitate public access to the records of the office when this access is allowed by law by minimizing costs and time delays to persons requesting information.
-01.02.05.02.aspx1013011/22/2022 8:14:00 PM980https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.020201020501.02.05 Definitions.
-(4) "Office custodian", or "custodian", means the Secretary of State or the Secretary's designee who ha...01.02.05.03.aspx1013110/20/2022 8:41:39 PM981https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.030301020501.02.05 Who May Request.
+01.02.05.02.aspx1013011/22/2022 8:14:00 PM1005https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.020201020501.02.05 Definitions.
+(4) "Office custodian", or "custodian", means the Secretary of State or the Secretary's designee who ha...01.02.05.03.aspx1013110/20/2022 8:41:39 PM1004https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.030301020501.02.05 Who May Request.
 A person or governmental unit may request to inspect or copy any public record that is in the custody and control of the Office.
-01.02.05.04.aspx1013210/20/2022 8:41:39 PM990https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.040401020501.02.05 Necessity for Written Request.
-The custodian shall make public records available for inspection by an applicant without demanding a written request. However, a written request shall be required when the custodian reasonably believes that the Act or any other law may prevent the disclosure of the record to the applicant or when the custodian believes that a written request will materially assist the Office in responding to the request. An applicant furnished a copy of any record ma...01.02.05.05.aspx1013310/20/2022 8:41:40 PM994https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.050501020501.02.05 Contents of Written Request.
+01.02.05.04.aspx1013210/20/2022 8:41:39 PM1025https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.040401020501.02.05 Necessity for Written Request.
+The custodian shall make public records available for inspection by an applicant without demanding a written request. However, a written request shall be required when the custodian reasonably believes that the Act or any other law may prevent the disclosure of the record to the applicant or when the custodian believes that a written request will materially assist the Office in responding to the request. An applicant furnished a copy of any record ma...01.02.05.05.aspx1013310/20/2022 8:41:40 PM1029https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.050501020501.02.05 Contents of Written Request.
 A written request shall contain the applicant's name and address, be signed and dated by the applicant, and shall reasonably identify by brief description the record sought.
-01.02.05.06.aspx1013410/20/2022 8:41:41 PM861https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.060601020501.02.05 Filing the Request.
+01.02.05.06.aspx1013410/20/2022 8:41:41 PM883https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.060601020501.02.05 Filing the Request.
 A written request for a record in the custody and control of the Office shall be addressed to the custodian of the record. If the custodian of the record is unknown to the applicant, the request may be addressed to the Secretary.
-01.02.05.07.aspx1006110/20/2022 8:41:41 PM952https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.070701020501.02.05 Response to Request.
+01.02.05.07.aspx1006110/20/2022 8:41:41 PM985https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.070701020501.02.05 Response to Request.
 A. Within 10 working days of the receipt of the written request, the Office custodian shall respond to the written request for a record. This time period period may be extended for a period not to exceed an additional 20 working days if the custodian notifies the applicant in writing that the additional time is needed to respond to the request.
 B. If the custodian denies the person access to a requested record or any portion of it, the custodian shall pro...
 The State of Maryland pledges to provide constituents, businesses, customers, and stakeholders with friendly and courteous, timely and responsive, accurate and consistent, accessible and convenient, and truthful and transparent services.
@@ -130,7 +130,7 @@ JavaScript is required to use content on this page. Please enable JavaScript in 
 Governor Wes MooreLt. GovernorFirst LadyCabinet
 Press ReleasesSpeechesExecutive OrdersBill SigningsProclamationsPress Contacts
 Contact the GovernorRequest a Meeting/EventLetter/Citation RequestPublic Information Act Requests
-Our LeadershipNewsContact Us
+Our LeadershipPrioritiesNewsContact Us
 © Copyright Maryland.gov. All rights reserved.
 ​​​Contact Us​​​​Privacy & Security
 100 State Circle, Annapolis, MD 21401
@@ -213,15 +213,15 @@ If you plan to vote on election day, go to the polling place assigned to your ne
 If you do not receive a Voter Notification Card with your updated information three weeks after you submit information, you should contact the local board of elections where you now live to ensure that your records are up-to-date. You can also verify whether the local board of elections has your new information by visiting our voter look-up website.
 You can use Maryland's Online Voter Registration System (OLVR), or immediately provide your new address to the local board of elections in your new jurisdiction.
 gender or you can notify theÂ local board of electionsÂ where you currently live if your
-anything else. Your information will be sent by the MVA to the appropriate local board
 of election. They will update the information in your voter record, unless you opt out of
 Election, your updated information will not be reflected in your voter record. When you
 go to the voting location to vote, you will be asked for your name, address and date of
 birth at check-in.Â  If the name you provide does not match the voter record, you will be
 record.Â  If you provide sufficient information to locate your voter record (i.e. previous
-name or address that is listed in the database), you will be asked to fill out a Voter
-You can notify the local board of elections where you currently live if you wish to cancel your voter registration with a signed written notice. You can also send a cancellation to the State Board of Elections using the Voter Registration Cancellation Form (PDF).
-You should contact the local board of elections where you now live to ensure that your records are up-to-date. You can also verify the cancellation by visiting our voter look-up website.
+The easiest way to cancel your registration is online. You can head to our Voter Registration Update Page here: Maryland's Online Voter Registration System (OLVR).
+Once you are on the Voter Information Page, select the blue âCancel My Registrationâ option.
+Alternatively, you can notify the local board of elections where you currently live if you wish to cancel your voter registration with a signed written notice. You can also send a cancellation to the State Board of Elections using the Voter Registration Cancellation Form (PDF).
+You can use your Voter Lookup tool or contact your local board of elections where you now live to ensure that your records are up-to-date and verify the cancellation.
 Yes. To change your party affiliation you can use Maryland's Online Voter Registration System (OLVR), or submit a new voter registration application or a signed written request to your local board of elections. The deadline to change your party affiliation  is:
 You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.
 JavaScript is required to use content on this page. Please enable JavaScript in your browser.
@@ -258,7 +258,7 @@ JavaScript is required to use content on this page. Please enable JavaScript in 
 Governor Wes MooreLt. GovernorFirst LadyCabinet
 Press ReleasesSpeechesExecutive OrdersBill SigningsProclamationsPress Contacts
 Contact the GovernorRequest a Meeting/EventLetter/Citation RequestPublic Information Act Requests
-Our LeadershipNewsContact Us
+Our LeadershipPrioritiesNewsContact Us
 © Copyright Maryland.gov. All rights reserved.
 ​​​Contact Us​​​​Privacy & Security
 100 State Circle, Annapolis, MD 21401
@@ -341,15 +341,15 @@ If you plan to vote on election day, go to the polling place assigned to your ne
 If you do not receive a Voter Notification Card with your updated information three weeks after you submit information, you should contact the local board of elections where you now live to ensure that your records are up-to-date. You can also verify whether the local board of elections has your new information by visiting our voter look-up website.
 You can use Maryland's Online Voter Registration System (OLVR), or immediately provide your new address to the local board of elections in your new jurisdiction.
 gender or you can notify theÂ local board of electionsÂ where you currently live if your
-anything else. Your information will be sent by the MVA to the appropriate local board
 of election. They will update the information in your voter record, unless you opt out of
 Election, your updated information will not be reflected in your voter record. When you
 go to the voting location to vote, you will be asked for your name, address and date of
 birth at check-in.Â  If the name you provide does not match the voter record, you will be
 record.Â  If you provide sufficient information to locate your voter record (i.e. previous
-name or address that is listed in the database), you will be asked to fill out a Voter
-You can notify the local board of elections where you currently live if you wish to cancel your voter registration with a signed written notice. You can also send a cancellation to the State Board of Elections using the Voter Registration Cancellation Form (PDF).
-You should contact the local board of elections where you now live to ensure that your records are up-to-date. You can also verify the cancellation by visiting our voter look-up website.
+The easiest way to cancel your registration is online. You can head to our Voter Registration Update Page here: Maryland's Online Voter Registration System (OLVR).
+Once you are on the Voter Information Page, select the blue âCancel My Registrationâ option.
+Alternatively, you can notify the local board of elections where you currently live if you wish to cancel your voter registration with a signed written notice. You can also send a cancellation to the State Board of Elections using the Voter Registration Cancellation Form (PDF).
+You can use your Voter Lookup tool or contact your local board of elections where you now live to ensure that your records are up-to-date and verify the cancellation.
 Yes. To change your party affiliation you can use Maryland's Online Voter Registration System (OLVR), or submit a new voter registration application or a signed written request to your local board of elections. The deadline to change your party affiliation  is:
 Title IX Campus Sexual Assault Proceedings - Attorney Reimbursement Procedures
 You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.
@@ -436,100 +436,100 @@ You may be trying to access this site from a secured browser on the server. Plea
 COMARCOMAR OnlineCOMAR Order FormsDepository LibrariesRegulatory Review and EvaluationMaryland RegisterMaryland Register OnlineRegister Order FormsCumulative Index (PDF)Cumulative Table (PDF)Table of Pending Proposals (PDF)International and Interstate AgreementsAdditional InformationPIA RequestState Holidays
 Left_Content​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 Main_Content​Display​ all regulations of a Title, Subtitle or Chapter​ ​Under Regulations by Title (left navigation if using a computer) - Click on a Title to filter the list, then on a Subtitle and Chapter as needed. To search for a specific term, place quotes around that term (ex: "influenza").​​​ ​Results will appear below.
-01.02.01.00.aspx1018410/20/2022 8:41:03 PM2862https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.01.000001020101.02.01
-01.02.02.00.aspx1018510/20/2022 8:41:04 PM1497https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.02.000001020201.02.02
-01.02.03.00.aspx1018610/20/2022 8:41:05 PM1555https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.000001020301.02.03
+01.02.01.00.aspx1018410/20/2022 8:41:03 PM2945https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.01.000001020101.02.01
+01.02.02.00.aspx1018510/20/2022 8:41:04 PM1554https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.02.000001020201.02.02
+01.02.03.00.aspx1018610/20/2022 8:41:05 PM1591https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.000001020301.02.03
 Authority: Business Regulation Article, §6-204; State Government Article, §§10-123 and 10-204; Annotated Code of Maryland
-01.02.03.01.aspx1018711/9/2022 11:12:15 PM1260https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.010101020301.02.03 Scope.
+01.02.03.01.aspx1018711/9/2022 11:12:15 PM1298https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.010101020301.02.03 Scope.
 These regulations apply to controversies and hearings arising under the Maryland Charitable Solicitations Act, Business Regulation Article, Title 6, Annotated Code of Maryland.
-01.02.03.02.aspx1018811/22/2022 7:59:52 PM1358https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.020201020301.02.03 Definitions.
+01.02.03.02.aspx1018811/22/2022 7:59:52 PM1396https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.020201020301.02.03 Definitions.
 A. "Act" means the Maryland Solicitations Act, Business Regulation Article, Title 6, Annotated Code of Maryland.
 C. "Party" means any person requesting a hearing and any person or agency having an interest in the outcome of a hearing.
-E. "Respondent" means any person requesting a hearing from the ...01.02.03.03.aspx1018910/20/2022 8:41:08 PM1187https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.030301020301.02.03 Petition for Adoption of Regulations.
+E. "Respondent" means any person requesting a hearing from the ...01.02.03.03.aspx1018910/20/2022 8:41:08 PM1226https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.030301020301.02.03 Petition for Adoption of Regulations.
 A. Who May File. Any interested person may file with the Secretary a petition requesting the promulgation, amendment, or repeal of any regulation.
 B. Form. The petition shall be in writing and shall contain the name, address, and telephone number of the petitioner. It shall also contain the proposed regulation change and a brief statement of reasons in support of the change.
-C. Submission, Consideration, and Di...01.02.03.04.aspx1019010/20/2022 8:41:08 PM1069https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.040401020301.02.03 Petition for Declaratory Ruling.
+C. Submission, Consideration, and Di...01.02.03.04.aspx1019010/20/2022 8:41:08 PM1101https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.040401020301.02.03 Petition for Declaratory Ruling.
 A. Who May File. Any interested person may file with the Secretary a petition for a declaratory ruling with respect to the applicability of the Act or any regulation pertaining to the Act, to any person, property, or state of facts.
-B. Form. The petition shall be in writing. It shall contain a detailed statement of the facts underlying the questioned applicability of the regulation or the Act and shall pose the question of whe...01.02.03.05.aspx101914/5/2023 8:56:17 PM1079https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.050501020301.02.03 Right to a Hearing.
+B. Form. The petition shall be in writing. It shall contain a detailed statement of the facts underlying the questioned applicability of the regulation or the Act and shall pose the question of whe...01.02.03.05.aspx101914/5/2023 8:56:17 PM1109https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.050501020301.02.03 Right to a Hearing.
 A. Who May Request a Hearing. Any person adversely affected by any action taken by the Secretary as a result of an investigation pursuant to Business Regulation Article, §6-205, Annotated Code of Maryland, is entitled to a hearing before the Secretary.
-(1) Whenever the Secretary notifies a person that the Secretary has taken action which may adversely affect that person or that person's ability to engage in solicitati...01.02.03.06.aspx1011710/20/2022 8:41:10 PM974https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.060601020301.02.03 Requests for Hearings.
+(1) Whenever the Secretary notifies a person that the Secretary has taken action which may adversely affect that person or that person's ability to engage in solicitati...01.02.03.06.aspx1011710/20/2022 8:41:10 PM1001https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.060601020301.02.03 Requests for Hearings.
 Any person entitled to a hearing may file with the Secretary a petition requesting a hearing. The petition shall be filed within 30 days of the date of the Secretary's decision, failure to act, or other action. The Secretary shall mail promptly to each petitioner a notice indicating the date of receipt of the request.
-01.02.03.07.aspx1011811/22/2022 8:01:19 PM996https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.070701020301.02.03 Date of Hearing — Timing.
+01.02.03.07.aspx1011811/22/2022 8:01:19 PM1020https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.070701020301.02.03 Date of Hearing — Timing.
 A. Within 30 days after a request is submitted by a respondent, the Secretary of State shall hold a hearing in accordance with State Government Article, Title 10, Subtitle 2, Annotated Code of Maryland.
 B. For all other hearing requests, the Secretary shall hold the hearing as promptly as possible and within a reasonable time of the date a request for a hearing is received.
-01.02.03.08.aspx1011910/20/2022 8:41:11 PM974https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.080801020301.02.03 Right to Counsel.
-01.02.03.09.aspx1012010/20/2022 8:41:12 PM924https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.090901020301.02.03 Consolidation of Requests for Hearings.
+01.02.03.08.aspx1011910/20/2022 8:41:11 PM1003https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.080801020301.02.03 Right to Counsel.
+01.02.03.09.aspx1012010/20/2022 8:41:12 PM952https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.090901020301.02.03 Consolidation of Requests for Hearings.
 The Secretary may consolidate requests for hearings, when the sole issue involved is one of policy, and hold a group hearing. In all group hearings, the procedures contained in these regulations shall be followed.
-01.02.03.10.aspx1012110/20/2022 8:41:13 PM932https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.101001020301.02.03 Prehearing Procedure.
+01.02.03.10.aspx1012110/20/2022 8:41:13 PM957https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.101001020301.02.03 Prehearing Procedure.
 A. Notice of Hearings. The Secretary shall provide reasonable notice to a party of the date, time and place of a hearing. If the petitioner notifies the Secretary that the date designated is not convenient, the Secretary may designate another date which is convenient to the petitioner.
-B. Briefs. Each party may submit briefs containing arguments relating to the issues of fact and law involved in the hearing. If briefs are submitted, the ...01.02.03.11.aspx1012210/20/2022 8:41:13 PM992https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.111101020301.02.03 Hearing Procedure.
+B. Briefs. Each party may submit briefs containing arguments relating to the issues of fact and law involved in the hearing. If briefs are submitted, the ...01.02.03.11.aspx1012210/20/2022 8:41:13 PM1018https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.111101020301.02.03 Hearing Procedure.
 A. Administrative Procedure Act. All hearings held pursuant to Business Regulation Article, Title 6, Annotated Code of Maryland, or these regulations shall be subject to the provisions of the Administrative Procedure Act.
 B. Parties. The Secretary, or the designee of the Secretary, shall permit any party to be present at the hearings.
-C. Presiding Officer. The Secretary, or the Secretary's designee, shall be the presiding officer...01.02.03.12.aspx1012310/20/2022 8:41:14 PM886https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.121201020301.02.03 Withdrawn or Abandoned Requests for Hearings.
+C. Presiding Officer. The Secretary, or the Secretary's designee, shall be the presiding officer...01.02.03.12.aspx1012310/20/2022 8:41:14 PM910https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.121201020301.02.03 Withdrawn or Abandoned Requests for Hearings.
 A. Withdrawn Requests for Hearings. A request for a hearing may be withdrawn in writing by the petitioner or their counsel at any time.
 B. Abandoned Requests for Hearings. The Secretary shall consider a request for a hearing abandoned if neither the petitioner nor the petitioner's counsel appears at the hearing.
-C. Denied or Dismissed Requests for Hearings. The Secretary shall deny or dismiss a request ...01.02.03.13.aspx1012410/20/2022 8:41:15 PM1486https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.131301020301.02.03 Records.
+C. Denied or Dismissed Requests for Hearings. The Secretary shall deny or dismiss a request ...01.02.03.13.aspx1012410/20/2022 8:41:15 PM1515https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.131301020301.02.03 Records.
 A. Preparation. The Secretary shall prepare an official stenographic record of the proceedings in accordance with State Government Article, Title 10, Subtitle 2, Annotated Code of Maryland. The record shall include all pleadings, testimony, exhibits, and other memoranda or material filed in the proceedings. Any party requesting a typewritten transcript of the hearing, or part of it, is responsible for its cost.
-B. Availability. The record shall be av...01.02.03.14.aspx1012510/20/2022 8:41:16 PM949https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.141401020301.02.03 Decisions.
+B. Availability. The record shall be av...01.02.03.14.aspx1012510/20/2022 8:41:16 PM971https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.141401020301.02.03 Decisions.
 (1) Every final decision rendered by the Secretary shall be in writing and shall be accompanied by findings of fact and conclusions of law.
 (2) The findings of fact shall consist of a concise statement of the conclusions upon each contested issue of fact.
-(3) The Secretary shall mail to each party or each party's counsel a copy of the decision and accompanying findings and conclusions within 30 day...01.02.03.9999.aspx1005010/20/2022 8:41:16 PM925https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.9999999901020301.02.03
+(3) The Secretary shall mail to each party or each party's counsel a copy of the decision and accompanying findings and conclusions within 30 day...01.02.03.9999.aspx1005010/20/2022 8:41:16 PM955https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.03.9999999901020301.02.03
 Regulation .02A, D amended effective August 8, 2022 (49:16 Md. R. 757) Regulation .02E adopted effective August 8, 2022 (49:16 Md. R. 757) Regulation .03C amended effective October 3, 1988 (15:20 Md. R. 2332); August 8, 2022 (49:16 Md. R. 757)
-Regulation .04C amended effective August 8, 2022 (49:16 Md. R. 757) Regulation .05 amended effective October 3, 1988 (15:20 Md. R. 2332); November 13, 200...01.02.04.00.aspx1005110/20/2022 8:41:18 PM1054https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.000001020401.02.04
-01.02.04.01.aspx100524/5/2023 8:56:19 PM1334https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.010101020401.02.04 Definitions.
+Regulation .04C amended effective August 8, 2022 (49:16 Md. R. 757) Regulation .05 amended effective October 3, 1988 (15:20 Md. R. 2332); November 13, 200...01.02.04.00.aspx1005110/20/2022 8:41:18 PM1080https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.000001020401.02.04
+01.02.04.01.aspx100524/5/2023 8:56:19 PM1379https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.010101020401.02.04 Definitions.
 A. Terms defined in Business Regulation Article, §6-101, Annotated Code of Maryland, shall have the same meaning for the purposes of these regulations as they do in the Act.
 B. Terms defined in these regulations shall have the same meaning for the purposes of the Act as they do in these regulations.
-...01.02.04.02.aspx1005310/20/2022 8:41:20 PM1031https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.020201020401.02.04 Responsibilities of Persons Regulated.
+...01.02.04.02.aspx1005310/20/2022 8:41:20 PM1071https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.020201020401.02.04 Responsibilities of Persons Regulated.
 (1) An organization shall advise its members of the amount, if any, of the membership fees, dues, fines, or assessments which the Internal Revenue Service does not consider tax deductible as a contribution.
-(2)  An organization shall advise each purchaser or contributor of the amount, if any, of the contribution which the Internal Revenue Service does not consider tax deductible...01.02.04.03.aspx1005411/22/2022 8:07:03 PM1014https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.030301020401.02.04 Responsibilities of the Secretary.
+(2)  An organization shall advise each purchaser or contributor of the amount, if any, of the contribution which the Internal Revenue Service does not consider tax deductible...01.02.04.03.aspx1005411/22/2022 8:07:03 PM1042https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.030301020401.02.04 Responsibilities of the Secretary.
 (1) Identify to the extent possible persons who have not registered and are subject to the provisions of the Act;
 (2) Send to those identified the necessary forms and instructions and with instructions on how to access a copy of the Act and regulations; and
-(3) Advise the person not in compliance of the person's unlawful solicitation and no...01.02.04.04.aspx1005510/20/2022 8:41:21 PM1049https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.040401020401.02.04 Allocation of Expenses.
+(3) Advise the person not in compliance of the person's unlawful solicitation and no...01.02.04.04.aspx1005510/20/2022 8:41:21 PM1079https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.040401020401.02.04 Allocation of Expenses.
 (1) Program services expenses are activities which the organization was created to conduct and which form the basis for the organization's tax-exempt status. Each major program service shall be distinguishable from all other program services, and shall include activities, the costs of which can be practicably segregated and accounted for in the records of the organization.
-(2) Examples of program services expenses inc...01.02.04.05.aspx1005610/20/2022 8:41:22 PM1535https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.050501020401.02.04 Repealed.
-01.02.04.06.aspx1005710/20/2022 8:41:23 PM906https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.060601020401.02.04 Payments for Property Sold or Services Rendered.
+(2) Examples of program services expenses inc...01.02.04.05.aspx1005610/20/2022 8:41:22 PM1563https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.050501020401.02.04 Repealed.
+01.02.04.06.aspx1005710/20/2022 8:41:23 PM930https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.060601020401.02.04 Payments for Property Sold or Services Rendered.
 If an organization implies or states that payments for property sold or services rendered by the organization will be used in whole or in part for charitable purposes, the act of selling property or rendering services shall be a solicitation, and all the payments shall be contributions.
-01.02.04.07.aspx1005810/20/2022 8:41:23 PM901https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.070701020401.02.04 Declaratory Rulings as to Status.
+01.02.04.07.aspx1005810/20/2022 8:41:23 PM925https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.070701020401.02.04 Declaratory Rulings as to Status.
 An organization uncertain of its status under that Act may request a declaratory ruling from the Secretary in accordance with COMAR 01.02.03.
-01.02.04.08.aspx1005910/20/2022 8:41:24 PM996https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.080801020401.02.04 Repealed.
-01.02.04.09.aspx1006010/20/2022 8:41:25 PM914https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.090901020401.02.04 Determination of Charitable Purpose.
+01.02.04.08.aspx1005910/20/2022 8:41:24 PM1020https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.080801020401.02.04 Repealed.
+01.02.04.09.aspx1006010/20/2022 8:41:25 PM941https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.090901020401.02.04 Determination of Charitable Purpose.
 A. Charitable Purpose and Noncharitable Purposes. An organization's governing instrument, actions, deeds, oral statements and written materials shall be used to determine whether the organization has a charitable purpose.
 B. Solicitations. If a solicitation reflects both the charitable and noncharitable purposes of the organization, the proceeds of the entire solicitation shall be designated for charitable purposes.
-...01.02.04.10.aspx997710/20/2022 8:41:25 PM983https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.101001020401.02.04 Method of Delivery of Required Forms and Other Written Materials.
+...01.02.04.10.aspx997710/20/2022 8:41:25 PM1011https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.101001020401.02.04 Method of Delivery of Required Forms and Other Written Materials.
 A. Mailing Address. The official mailing address of the Secretary for delivery and receipt of any mail, information, filings, registrations, applications, or other material required by the Act or regulations promulgated by the Secretary of State pursuant to §6-204 of the Act is: Office of the Secretary of State, Charitable Organizations Division, 16 Francis Street, Annapolis, MD 21401.
-B. Elect...01.02.04.11.aspx997810/20/2022 8:41:26 PM912https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.111101020401.02.04 Consolidated Filings.
+B. Elect...01.02.04.11.aspx997810/20/2022 8:41:26 PM937https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.111101020401.02.04 Consolidated Filings.
 An organization which files a consolidated registration statement on behalf of its Maryland chapters, branches, or affiliates, shall state separately the names and addresses of those organizations included in the consolidated filing.
-01.02.04.12.aspx997910/20/2022 8:41:27 PM910https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.121201020401.02.04 Federated Fund-Raising Organizations.
+01.02.04.12.aspx997910/20/2022 8:41:27 PM936https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.121201020401.02.04 Federated Fund-Raising Organizations.
 A federated fund-raising organization shall state the names and addresses of its member agencies in its registration statement.
-01.02.04.13.aspx998010/20/2022 8:41:27 PM896https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.131301020401.02.04 Employee of a Charitable Organization.
+01.02.04.13.aspx998010/20/2022 8:41:27 PM920https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.131301020401.02.04 Employee of a Charitable Organization.
 In determining whether an individual is an employee of an organization, a professional solicitor, or a fund-raising counsel, the payment of payroll taxes on behalf of the individual and reporting the payments, salaries, or fees as income for the individual to the Internal Revenue Service is evidence that an employer-employee relationship exists. The Secretary may require proof that these are being reported to the Internal Revenue Service.
-...01.02.04.14.aspx998110/20/2022 8:41:28 PM958https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.141401020401.02.04 Repealed.
-01.02.04.15.aspx998210/20/2022 8:41:29 PM1019https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.151501020401.02.04 Complaints.
+...01.02.04.14.aspx998110/20/2022 8:41:28 PM984https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.141401020401.02.04 Repealed.
+01.02.04.15.aspx998210/20/2022 8:41:29 PM1046https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.151501020401.02.04 Complaints.
 (3) State to the extent possible the nature of the alleged violation, the date of occurrence, and the name of each person involved;
-(4) Include to the extent possible any materials distributed by ...01.02.04.16.aspx998310/20/2022 8:41:29 PM924https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.161601020401.02.04 Disclosure of Information.
+(4) Include to the extent possible any materials distributed by ...01.02.04.16.aspx998310/20/2022 8:41:29 PM951https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.161601020401.02.04 Disclosure of Information.
 The Secretary may request additional information which relates to a true and full disclosure of facts affecting a person's past or impending solicitation or practices, to aid the Secretary in the administration of the Act.
-01.02.04.17.aspx998410/20/2022 8:41:30 PM853https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.171701020401.02.04 Repealed.
-01.02.04.18.aspx998510/20/2022 8:41:31 PM898https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.181801020401.02.04 Repealed.
-01.02.04.19.aspx998610/20/2022 8:41:32 PM1028https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.191901020401.02.04 Prohibited Acts.
+01.02.04.17.aspx998410/20/2022 8:41:30 PM878https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.171701020401.02.04 Repealed.
+01.02.04.18.aspx998510/20/2022 8:41:31 PM921https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.181801020401.02.04 Repealed.
+01.02.04.19.aspx998610/20/2022 8:41:32 PM1074https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.191901020401.02.04 Prohibited Acts.
 A. Closely Related Names. A person may not use a name, symbol, or statement so closely related to that used by a charitable organization or governmental agency that the use would tend to confuse or mislead the public.
-B. Restrictions on Use of Name. A person may not use a name implying an activity in any field of law enforcement, public safety, fire fighting, or emergency services unless a majority of the members of the organization are activ...01.02.04.20.aspx998710/20/2022 8:41:33 PM994https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.202001020401.02.04 Professional Solicitors' and Fund-Raising Counsel's Contracts.
-A. The Secretary of State shall make a determination that a contract between a professional solicitor or fund-raising counsel and a charitable organization does or does not comply with Maryland law within 30 days of the filing of the contract with the Secretary of State. Upon notification that a contract does not comply with the Maryland law, a new contract or contract addendum addressing the provisions not in complian...01.02.04.20-1.aspx99887/19/2023 3:27:12 PM1094https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.20-0120-0101020401.02.04 Charitable Organizations Affiliated with State Agencies.
+B. Restrictions on Use of Name. A person may not use a name implying an activity in any field of law enforcement, public safety, fire fighting, or emergency services unless a majority of the members of the organization are activ...01.02.04.20.aspx998710/20/2022 8:41:33 PM1017https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.202001020401.02.04 Professional Solicitors' and Fund-Raising Counsel's Contracts.
+A. The Secretary of State shall make a determination that a contract between a professional solicitor or fund-raising counsel and a charitable organization does or does not comply with Maryland law within 30 days of the filing of the contract with the Secretary of State. Upon notification that a contract does not comply with the Maryland law, a new contract or contract addendum addressing the provisions not in complian...01.02.04.20-1.aspx99887/19/2023 3:27:12 PM1172https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.20-0120-0101020401.02.04 Charitable Organizations Affiliated with State Agencies.
 A. A charitable organization affiliated with a State agency that is required to register with the Secretary of State as a charitable organization shall file with its registration statement and with each annual report an audit prepared in accordance with generally accepted auditing standards if it is required to do so under §6-402(b)(7)(i) of the Act.
-B. The auditor's opinion shall state whether the fi...01.02.04.21.aspx1012610/20/2022 8:41:34 PM967https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.212101020401.02.04 Penalties.
+B. The auditor's opinion shall state whether the fi...01.02.04.21.aspx1012610/20/2022 8:41:34 PM998https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.212101020401.02.04 Penalties.
 A person who violates these regulations is subject to the penalties contained in Business Regulation Article, §6-619, Annotated Code of Maryland.
-01.02.04.9999.aspx1012711/22/2022 8:12:20 PM962https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.9999999901020401.02.04
-Regulation ...01.02.05.00.aspx1012810/20/2022 8:41:36 PM924https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.000001020501.02.05
-01.02.05.01.aspx1012911/22/2022 8:13:01 PM902https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.010101020501.02.05 General.
+01.02.04.9999.aspx1012711/22/2022 8:12:20 PM985https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.04.9999999901020401.02.04
+Regulation ...01.02.05.00.aspx1012810/20/2022 8:41:36 PM947https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.000001020501.02.05
+01.02.05.01.aspx1012911/22/2022 8:13:01 PM929https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.010101020501.02.05 General.
 These regulations set out the procedures for the filing of requests with the Secretary of State for the inspection and copying of records under State Government Article, §§10-61110-628, Annotated Code of Maryland. It is the policy of the Secretary to facilitate public access to the records of the office when this access is allowed by law by minimizing costs and time delays to persons requesting information.
-01.02.05.02.aspx1013011/22/2022 8:14:00 PM980https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.020201020501.02.05 Definitions.
-(4) "Office custodian", or "custodian", means the Secretary of State or the Secretary's designee who ha...01.02.05.03.aspx1013110/20/2022 8:41:39 PM981https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.030301020501.02.05 Who May Request.
+01.02.05.02.aspx1013011/22/2022 8:14:00 PM1005https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.020201020501.02.05 Definitions.
+(4) "Office custodian", or "custodian", means the Secretary of State or the Secretary's designee who ha...01.02.05.03.aspx1013110/20/2022 8:41:39 PM1004https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.030301020501.02.05 Who May Request.
 A person or governmental unit may request to inspect or copy any public record that is in the custody and control of the Office.
-01.02.05.04.aspx1013210/20/2022 8:41:39 PM990https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.040401020501.02.05 Necessity for Written Request.
-The custodian shall make public records available for inspection by an applicant without demanding a written request. However, a written request shall be required when the custodian reasonably believes that the Act or any other law may prevent the disclosure of the record to the applicant or when the custodian believes that a written request will materially assist the Office in responding to the request. An applicant furnished a copy of any record ma...01.02.05.05.aspx1013310/20/2022 8:41:40 PM994https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.050501020501.02.05 Contents of Written Request.
+01.02.05.04.aspx1013210/20/2022 8:41:39 PM1025https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.040401020501.02.05 Necessity for Written Request.
+The custodian shall make public records available for inspection by an applicant without demanding a written request. However, a written request shall be required when the custodian reasonably believes that the Act or any other law may prevent the disclosure of the record to the applicant or when the custodian believes that a written request will materially assist the Office in responding to the request. An applicant furnished a copy of any record ma...01.02.05.05.aspx1013310/20/2022 8:41:40 PM1029https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.050501020501.02.05 Contents of Written Request.
 A written request shall contain the applicant's name and address, be signed and dated by the applicant, and shall reasonably identify by brief description the record sought.
-01.02.05.06.aspx1013410/20/2022 8:41:41 PM861https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.060601020501.02.05 Filing the Request.
+01.02.05.06.aspx1013410/20/2022 8:41:41 PM883https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.060601020501.02.05 Filing the Request.
 A written request for a record in the custody and control of the Office shall be addressed to the custodian of the record. If the custodian of the record is unknown to the applicant, the request may be addressed to the Secretary.
-01.02.05.07.aspx1006110/20/2022 8:41:41 PM952https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.070701020501.02.05 Response to Request.
+01.02.05.07.aspx1006110/20/2022 8:41:41 PM985https://dsd.maryland.gov/regulations/Pages/Forms/AllItems.aspxhtmlFalseaspx01.02.05.070701020501.02.05 Response to Request.
 A. Within 10 working days of the receipt of the written request, the Office custodian shall respond to the written request for a record. This time period period may be extended for a period not to exceed an additional 20 working days if the custodian notifies the applicant in writing that the additional time is needed to respond to the request.
 B. If the custodian denies the person access to a requested record or any portion of it, the custodian shall pro...
 The State of Maryland pledges to provide constituents, businesses, customers, and stakeholders with friendly and courteous, timely and responsive, accurate and consistent, accessible and convenient, and truthful and transparent services.
@@ -539,7 +539,7 @@ JavaScript is required to use content on this page. Please enable JavaScript in 
 Governor Wes MooreLt. GovernorFirst LadyCabinet
 Press ReleasesSpeechesExecutive OrdersBill SigningsProclamationsPress Contacts
 Contact the GovernorRequest a Meeting/EventLetter/Citation RequestPublic Information Act Requests
-Our LeadershipNewsContact Us
+Our LeadershipPrioritiesNewsContact Us
 © Copyright Maryland.gov. All rights reserved.
 ​​​Contact Us​​​​Privacy & Security
 100 State Circle, Annapolis, MD 21401
@@ -622,15 +622,15 @@ If you plan to vote on election day, go to the polling place assigned to your ne
 If you do not receive a Voter Notification Card with your updated information three weeks after you submit information, you should contact the local board of elections where you now live to ensure that your records are up-to-date. You can also verify whether the local board of elections has your new information by visiting our voter look-up website.
 You can use Maryland's Online Voter Registration System (OLVR), or immediately provide your new address to the local board of elections in your new jurisdiction.
 gender or you can notify theÂ local board of electionsÂ where you currently live if your
-anything else. Your information will be sent by the MVA to the appropriate local board
 of election. They will update the information in your voter record, unless you opt out of
 Election, your updated information will not be reflected in your voter record. When you
 go to the voting location to vote, you will be asked for your name, address and date of
 birth at check-in.Â  If the name you provide does not match the voter record, you will be
 record.Â  If you provide sufficient information to locate your voter record (i.e. previous
-name or address that is listed in the database), you will be asked to fill out a Voter
-You can notify the local board of elections where you currently live if you wish to cancel your voter registration with a signed written notice. You can also send a cancellation to the State Board of Elections using the Voter Registration Cancellation Form (PDF).
-You should contact the local board of elections where you now live to ensure that your records are up-to-date. You can also verify the cancellation by visiting our voter look-up website.
+The easiest way to cancel your registration is online. You can head to our Voter Registration Update Page here: Maryland's Online Voter Registration System (OLVR).
+Once you are on the Voter Information Page, select the blue âCancel My Registrationâ option.
+Alternatively, you can notify the local board of elections where you currently live if you wish to cancel your voter registration with a signed written notice. You can also send a cancellation to the State Board of Elections using the Voter Registration Cancellation Form (PDF).
+You can use your Voter Lookup tool or contact your local board of elections where you now live to ensure that your records are up-to-date and verify the cancellation.
 Yes. To change your party affiliation you can use Maryland's Online Voter Registration System (OLVR), or submit a new voter registration application or a signed written request to your local board of elections. The deadline to change your party affiliation  is:
 Legislation - HB0016
 Legislative Services
@@ -2184,7 +2184,7 @@ JavaScript is required to use content on this page. Please enable JavaScript in 
 Governor Wes MooreLt. GovernorFirst LadyCabinet
 Press ReleasesSpeechesExecutive OrdersBill SigningsProclamationsPress Contacts
 Contact the GovernorRequest a Meeting/EventLetter/Citation RequestPublic Information Act Requests
-Our LeadershipNewsContact Us
+Our LeadershipPrioritiesNewsContact Us
 © Copyright Maryland.gov. All rights reserved.
 ​​​Contact Us​​​​Privacy & Security
 100 State Circle, Annapolis, MD 21401
@@ -2255,7 +2255,7 @@ Deputy Director, 410.767.8591Glendora  Hughes, General  Counsel, 410.767.8572�
 ChairpersonJanssen E. Evelyn, Esq., Vice Chairperson​Diane E. Bernier,
 CommissionerIsabella Firth Shycoff​, CommissionerJeff Rosen,
 OFFICE OF THE GENERAL COUNSEL 410.767.4504Glendora  Hughes, General  Counsel Terrence
-ADMINISTRATIVE & SUPPORT SERVICES 410.767.8567Martine Chery, Assistant Director for Administration, 410.767.8564 Brittany Thomas​,​ Administrative Specialist II, 410.767.8566​Kim Williams, Administrative Specialist II​​, 410.767.8567​
+ADMINISTRATIVE & SUPPORT SERVICES 410.767.8567​TB​D, Assistant Director for Administration, 410.767.8564 Brittany Thomas​,​ Administrative Specialist II, 410.767.8566​Kim Williams, Administrative Specialist II​​, 410.767.8567​
 EDUCATION & OUTREACH UNIT ​Dia Drake-Sprague​,  Director of Education & Outreach 410.767.8602Candice Gray, Education & Outreach Associate, 410.767.8560​​Joverne Holloway​,
 INTAKE UNIT  410.767.8600Awilda Pena, Unit Supervisor, 410.767.8563Octavia Browning, Civil Rights Officer, 410.767.8568​ Phillip Wikes, Civil Rights Officer, 410.767.8562Aneika Peoples, Civil Rights Officer, 410.767.8594Gabriela Cortez​​,
 Cecelia M. Assam, ​Unit Supervisor, 410.767.8573Tovie Campbell, ​Civil Rights Officer, 410.767.6547​

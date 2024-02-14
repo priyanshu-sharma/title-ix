@@ -29,15 +29,15 @@ id,state,searched term,primary link,url,type,color
 28,maryland,"title ix maryland gov","https://mhec.maryland.gov/","https://mhec.maryland.gov/SiteAssets/Pages/Title-IX-Campus-Sexual-Assault-Proceedings---Attorney-Reimbursement-Procedures/Additional%20Information%20Form.pdf",pdf,Blue
 29,maryland,"title ix maryland gov","https://mhec.maryland.gov/","https://mhec.maryland.gov/SiteAssets/Pages/Title-IX-Campus-Sexual-Assault-Proceedings---Attorney-List/Title%20IX%20Campus%20Sexual%20Assault%20Attorney%20List.pdf",pdf,Blue
 30,maryland,"title ix maryland gov","https://mccr.maryland.gov/","https://mccr.maryland.gov/Pages/Intake.aspx",html,Blue
-31,south carolina,"title ix south carolina gov","https://ed.sc.gov/","https://ed.sc.gov/jobs/human-resources/title-ix-compliance/",pdf,Red
-32,south carolina,"title ix south carolina gov","https://ed.sc.gov/","https://ed.sc.gov/newsroom/school-district-memoranda-archive/title-ix-initiative-and-the-district-entity-information-management-system/title-ix-initiative-and-the-district-entity-information-management-system-memo/",pdf,Red
-33,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=325&numrows=10",html,Red
-34,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=273&numrows=10",html,Red
-35,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=830&numrows=10",html,Red
-36,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=1298&numrows=10",html,Red
-37,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=351&numrows=10",html,Red
-38,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=670&numrows=10",html,Red
-39,south carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/code/statmast.php",html,Red
+31,south_carolina,"title ix south carolina gov","https://ed.sc.gov/","https://ed.sc.gov/jobs/human-resources/title-ix-compliance/",pdf,Red
+32,south_carolina,"title ix south carolina gov","https://ed.sc.gov/","https://ed.sc.gov/newsroom/school-district-memoranda-archive/title-ix-initiative-and-the-district-entity-information-management-system/title-ix-initiative-and-the-district-entity-information-management-system-memo/",pdf,Red
+33,south_carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=325&numrows=10",html,Red
+34,south_carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=273&numrows=10",html,Red
+35,south_carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=830&numrows=10",html,Red
+36,south_carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=1298&numrows=10",html,Red
+37,south_carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=351&numrows=10",html,Red
+38,south_carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/query.php?search=DOC&searchtext=rape&category=CODEOFLAWS&conid=37953370&result_pos=0&keyval=670&numrows=10",html,Red
+39,south_carolina,"title ix south carolina gov","https://www.scstatehouse.gov/","https://www.scstatehouse.gov/code/statmast.php",html,Red
 40,kansas,"title ix kansas gov","https://www.ksde.org/","https://www.ksde.org/Agency/Division-of-Learning-Services/Student-Staff-Training/Prevention-and-Responsive-Culture/Sexual-Harassment-Title-IX",html,Red
 41,kansas,"title ix kansas gov","https://www.kckschools.org/","https://www.kckschools.org/federal-programs/title-ix-information",html,Red
 42,massachusetts,"title ix massachusetts gov","https://www.mass.gov/","https://www.mass.gov/info-details/massachusetts-law-about-sexual-harassment",html,Blue
@@ -49,7 +49,7 @@ id,state,searched term,primary link,url,type,color
 48,washington,"title ix washington gov","https://app.leg.wa.gov/","https://apps.leg.wa.gov/wac/default.aspx?cite=516-21&full=true",html,Blue
 49,washington,"title ix washington gov","https://ospi.k12.wa.us/","https://ospi.k12.wa.us/policy-funding/equity-and-civil-rights/resources-school-districts-civil-rights-washington-schools/discriminatory-and-sexual-harassment",html,Blue
 50,washington,"title ix washington gov","https://ospi.k12.wa.us/","https://ospi.k12.wa.us/sites/default/files/2023-08/20200810_sexual-harassment-webinar_final.pdf",pdf,Blue
-51,south dakota,"title ix south dakota gov","https://doe.sd.gov/","https://doe.sd.gov/title/IX.aspx",html,Red
-52,south dakota,"title ix south dakota gov","https://doe.sd.gov/","https://doe.sd.gov/oatq/civilrights.aspx",html,Red
-53,south dakota,"title ix south dakota gov","https://sdlegislature.gov/","https://sdlegislature.gov/Statutes/23-5C-2",html,Red
-54,south dakota,"title ix south dakota gov","https://sdlegislature.gov/","https://sdlegislature.gov/Statutes/13",html,Red
+51,south_dakota,"title ix south dakota gov","https://doe.sd.gov/","https://doe.sd.gov/title/IX.aspx",html,Red
+52,south_dakota,"title ix south dakota gov","https://doe.sd.gov/","https://doe.sd.gov/oatq/civilrights.aspx",html,Red
+53,south_dakota,"title ix south dakota gov","https://sdlegislature.gov/","https://sdlegislature.gov/Statutes/23-5C-2",html,Red
+54,south_dakota,"title ix south dakota gov","https://sdlegislature.gov/","https://sdlegislature.gov/Statutes/13",html,Red
