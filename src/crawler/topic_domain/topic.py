@@ -115,5 +115,12 @@ class TopicDistribution:
         return topics, probs
 
 topic = TopicDistribution()
-
+topics, probs = topic.configure_embedding()
+df = topic.topic_model.get_topic_info()
+print(df.columns)
+df.to_csv('topics.csv')
+data = {'texts': topic.texts, 'states': topic.states, 'topics': topics, 'probability': probs}
+df = pd.DataFrame.from_dict(data)
+df.to_csv('data.csv')
+topic.topic_model.save("data", serialization="safetensors", save_ctfidf=True, save_embedding_model=embedding_model)
 # Visualize topic per class
