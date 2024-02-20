@@ -28,7 +28,6 @@ class Datarag:
         self.service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=self.transformations)
         self.reader_dict = {}
         self.result = []
-        self.state = None
         self.input_instances = self.get_instances()
         self.start()
         end = time.time()
@@ -47,17 +46,16 @@ class Datarag:
         df = pd.read_csv('../dataset_domain/data.csv')
         for state in df['state'].unique():
             print("Rag Stated for {}".format(state))
-            self.state = state
-            documents = SimpleDirectoryReader(input_files=["../output_domain/{}.txt".format(self.state)]).load_data()
+            documents = SimpleDirectoryReader(input_files=["../output_domain/{}.txt".format(state)]).load_data()
             documents = self.add_metadata(documents)
-            self.reader_dict[self.state] = {'documents': documents}
-            db = chromadb.PersistentClient(path="./{}".format(self.state))
-            chroma_collection = db.get_or_create_collection("{}_title".format(self.state))
+            self.reader_dict[state] = {'documents': documents}
+            db = chromadb.PersistentClient(path="./{}".format(state))
+            chroma_collection = db.get_or_create_collection("{}_title".format(state))
             vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
             pipeline = IngestionPipeline(transformations=self.transformations, vector_store=vector_store)
             nodes = pipeline.run(documents=documents)    
             storage_context = StorageContext.from_defaults(vector_store=vector_store)
-            self.initialize_indexing(nodes, self.service_context, storage_context)
+            self.initialize_indexing(nodes, self.service_context, storage_context, state)
 
     def add_metadata(self, documents):
         for document in documents:
@@ -80,14 +78,14 @@ class Datarag:
                 document.metadata['Type'] = 'Republican'
         return documents
 
-    def initialize_indexing(self, nodes, service_context, storage_context):
+    def initialize_indexing(self, nodes, service_context, storage_context, state):
         index = VectorStoreIndex(nodes=nodes, service_context=service_context, storage_context=storage_context)
-        self.initialize_query_engine(index)
+        self.initialize_query_engine(index, state)
 
-    def initialize_query_engine(self, index):
+    def initialize_query_engine(self, index, state):
         self.query_engine = index.as_query_engine()
-        self.reader_dict[self.state]['query_engine'] = self.query_engine
-        self.pre_evaluation()
+        self.reader_dict[state]['query_engine'] = self.query_engine
+        self.pre_evaluation(state)
 
     def evaluate_instances(self, question):
         response = self.query_engine.query(question)
@@ -96,19 +94,20 @@ class Datarag:
             'Response': response.response,
         })
 
-    def pre_evaluation(self):
+    def pre_evaluation(self, state):
         for instance in self.input_instances:
-            question = "Here is the example of people's experience of getting harassed: - \n{} \nCan you plan and provide the resolution of above harassment/discrimination based on Title IX Implementation in {}, considering that the same case happened in some univerity or in some workspace.".format(instance, self.state)
-            self.evaluate_instances(question)
-        with open("../datadump/{}_new.json".format(self.state), "w") as f:
-            json.dump(self.result, f)
-        with open("../datadump/{}_new.json".format(self.state), 'r') as openfile:
-            json_object = json.load(openfile)
-        final = ''
-        for values in json_object:
-            final = final + '\nQuestion : - {}\n\nAnswer : - {}\n'.format(values['Question'], values['Response'])
-        with open("../datadump/{}_new.txt".format(self.state), "w", encoding="utf-8") as f:
-            f.write(final)
+            question = "Here is the example of people's experience of getting harassed: - \n{} \nCan you plan and provide the resolution of above harassment/discrimination based on Title IX Implementation in {}, considering that the same case happened in some univerity or in some workspace.".format(instance, state)
+            print(question)
+        #     self.evaluate_instances(question)
+        # with open("../datadump/{}_new.json".format(state), "w") as f:
+        #     json.dump(self.result, f)
+        # with open("../datadump/{}_new.json".format(state), 'r') as openfile:
+        #     json_object = json.load(openfile)
+        # final = ''
+        # for values in json_object:
+        #     final = final + '\nQuestion : - {}\n\nAnswer : - {}\n'.format(values['Question'], values['Response'])
+        # with open("../datadump/{}_new.txt".format(state), "w", encoding="utf-8") as f:
+        #     f.write(final)
 
     def evaluate(self, question):
         response = self.query_engine.query(question)
