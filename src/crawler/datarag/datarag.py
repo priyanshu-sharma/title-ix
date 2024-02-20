@@ -31,6 +31,8 @@ class Datarag:
         self.state = None
         self.input_instances = self.get_instances()
         self.start()
+        end = time.time()
+        print("Total Time taken - {} seconds".format(end - start))
 
     def get_instances(self):
         response = requests.get('https://raw.githubusercontent.com/amir-karami/Workplace_Sexual_Harassment/master/EverySexsism-data-Workspace-Final.txt').content.decode('iso8859-1')
@@ -56,8 +58,6 @@ class Datarag:
             nodes = pipeline.run(documents=documents)    
             storage_context = StorageContext.from_defaults(vector_store=vector_store)
             self.initialize_indexing(nodes, self.service_context, storage_context)
-        end = time.time()
-        print("Total Time taken - {} seconds".format(end - start))
 
     def add_metadata(self, documents):
         for document in documents:
@@ -98,16 +98,16 @@ class Datarag:
 
     def pre_evaluation(self):
         for instance in self.input_instances:
-            question = "Here is the example of people's experience of getting harassed: - \n{} \nCan you plan and provide the resolution of above harassment based on Title IX Implementation in {}".format(instance, self.state)
+            question = "Here is the example of people's experience of getting harassed: - \n{} \nCan you plan and provide the resolution of above harassment/discrimination based on Title IX Implementation in {}, considering that the same case happened in some univerity or in some workspace.".format(instance, self.state)
             self.evaluate_instances(question)
-        with open("../datadump/{}.json".format(self.state), "w") as f:
+        with open("../datadump/{}_new.json".format(self.state), "w") as f:
             json.dump(self.result, f)
-        with open("../datadump/{}.json".format(self.state), 'r') as openfile:
+        with open("../datadump/{}_new.json".format(self.state), 'r') as openfile:
             json_object = json.load(openfile)
         final = ''
         for values in json_object:
             final = final + '\nQuestion : - {}\n\nAnswer : - {}\n'.format(values['Question'], values['Response'])
-        with open("../datadump/{}.txt".format(self.state), "w", encoding="utf-8") as f:
+        with open("../datadump/{}_new.txt".format(self.state), "w", encoding="utf-8") as f:
             f.write(final)
 
     def evaluate(self, question):
