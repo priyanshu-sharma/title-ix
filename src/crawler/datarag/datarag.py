@@ -97,7 +97,7 @@ class Datarag:
 
     def pre_evaluation(self):
         for instance in self.input_instances:
-            question = "Here is the example of people's experience of getting harassed: - \n{} \nCan you plan and provide the resolution of above harassment based on Title IX Implementation in {}".format(self.state)
+            question = "Here is the example of people's experience of getting harassed: - \n{} \nCan you plan and provide the resolution of above harassment based on Title IX Implementation in {}".format(instance, self.state)
             self.evaluate_instances(question)
         with open("../datadump/{}.json".format(self.state), "w") as f:
             json.dump(self.result, f)
