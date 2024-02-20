@@ -53,3 +53,25 @@ id,state,searched term,primary link,url,type,color
 52,south_dakota,"title ix south dakota gov","https://doe.sd.gov/","https://doe.sd.gov/oatq/civilrights.aspx",html,Red
 53,south_dakota,"title ix south dakota gov","https://sdlegislature.gov/","https://sdlegislature.gov/Statutes/23-5C-2",html,Red
 54,south_dakota,"title ix south dakota gov","https://sdlegislature.gov/","https://sdlegislature.gov/Statutes/13",html,Red
+55,federal,"title ix federal gov","https://www2.ed.gov/","https://www2.ed.gov/about/offices/list/ocr/docs/tix_dis.html",html,Neutral
+56,federal,"title ix federal gov","https://www2.ed.gov/","https://www2.ed.gov/policy/rights/guid/ocr/sexoverview.html",html,Neutral
+57,federal,"title ix federal gov","https://www2.ed.gov/","https://www2.ed.gov/about/offices/list/ocr/sexoverview.html",html,Neutral
+58,federal,"title ix federal gov","https://www2.ed.gov/","https://www2.ed.gov/about/offices/list/ocr/docs/title-ix-rights-201104.html",html,Neutral
+59,federal,"title ix federal gov","https://www.ed.gov/","https://www.ed.gov/category/keyword/title-ix",html,Neutral
+60,federal,"title ix federal gov","https://www.ed.gov/","https://www.ed.gov/news/press-releases/fact-sheet-us-department-educations-proposed-change-its-title-ix-regulations-students-eligibility-athletic-teams",html,Neutral
+61,federal,"title ix federal gov","https://www.hhs.gov/","https://www.hhs.gov/civil-rights/for-individuals/sex-discrimination/title-ix-education-amendments/index.html",html,Neutral
+62,federal,"title ix federal gov","https://www.hhs.gov/","https://www.hhs.gov/civil-rights/for-individuals/special-topics/needy-families/requirement-d/index.html",html,Neutral
+63,federal,"title ix federal gov","https://www.justice.gov/","https://www.justice.gov/crt/title-ix",html,Neutral
+64,federal,"title ix federal gov","https://www.justice.gov/","https://www.justice.gov/crt/title-ix-education-amendments-1972",html,Neutral
+65,federal,"title ix federal gov","https://sites.ed.gov/","https://sites.ed.gov/titleix/",html,Neutral
+66,federal,"title ix federal gov","https://sites.ed.gov/","https://sites.ed.gov/titleix/policy/",html,Neutral
+67,federal,"title ix federal gov","https://www.uscourts.gov/","https://www.uscourts.gov/educational-resources/educational-activities/14th-amendment-and-evolution-title-ix",html,Neutral
+68,federal,"title ix federal gov","https://www.epa.gov/","https://www.epa.gov/external-civil-rights/title-ix-education-amendments-act-1972",html,Neutral
+69,federal,"title ix federal gov","https://www.federalregister.gov/",https://www.federalregister.gov/documents/2022/07/12/2022-13734/nondiscrimination-on-the-basis-of-sex-in-education-programs-or-activities-receiving-federal,html,Neutral
+70,federal,"title ix federal gov","https://www.nsf.gov/","https://www.nsf.gov/od/oecr/awardee_civil_rights/titleix_faqs.jsp",html,Neutral
+71,federal,"title ix federal gov","https://www.energy.gov/","https://www.energy.gov/justice/title-ix",html,Neutral
+72,federal,"title ix federal gov","https://www.nrc.gov/","https://www.nrc.gov/about-nrc/civil-rights/programs/occp/compliance-pgrm/title-ix.html",html,Neutral
+73,federal,"title ix federal gov","https://nces.ed.gov/","https://nces.ed.gov/fastfacts/display.asp?id=93",html,Neutral
+74,federal,"title ix federal gov","https://www2.ed.gov/","https://www2.ed.gov/policy/rights/reg/ocr/index.html",html,Neutral
+75,federal,"title ix federal gov","https://www.govinfo.gov/","https://www.govinfo.gov/content/pkg/FR-2020-05-19/pdf/2020-10512.pdf",pdf,Neutral
+76,federal,"title ix federal gov","https://advocacy.sba.gov/","https://advocacy.sba.gov/2022/08/01/department-of-education-requests-comments-on-amendments-to-title-ix-proposed-rule/",html,Neutral
