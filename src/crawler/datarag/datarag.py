@@ -87,6 +87,7 @@ class Datarag:
 
     def initialize_query_engine(self, index):
         self.query_engine = index.as_query_engine()
+        self.reader_dict[self.state]['query_engine'] = self.query_engine
         self.pre_evaluation()
 
     def evaluate_instances(self, question):
