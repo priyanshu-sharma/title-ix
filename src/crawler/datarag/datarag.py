@@ -27,6 +27,7 @@ class Datarag:
         ]
         self.service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model, transformations=self.transformations)
         self.reader_dict = {}
+        self.result = []
         self.state = None
         self.input_instances = self.get_instances()
         self.start()
