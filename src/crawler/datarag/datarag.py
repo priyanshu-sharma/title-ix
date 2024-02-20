@@ -56,7 +56,6 @@ class Datarag:
             nodes = pipeline.run(documents=documents)    
             storage_context = StorageContext.from_defaults(vector_store=vector_store)
             self.initialize_indexing(nodes, self.service_context, storage_context)
-            sys.exit(1)
         end = time.time()
         print("Total Time taken - {} seconds".format(end - start))
 
