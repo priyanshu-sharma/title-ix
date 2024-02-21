@@ -44,7 +44,7 @@ class Datarag:
 
     def start(self):
         df = pd.read_csv('../dataset_domain/data.csv')
-        for state in ['maryland', 'south_carolina', 'kansas', 'massachusetts', 'utah']:
+        for state in ['california', 'texas', 'washington', 'south_dakota', 'federal']:
             try:
                 print("Rag Stated for {}".format(state))
                 documents = SimpleDirectoryReader(input_files=["../output_domain/{}.txt".format(state)]).load_data()
