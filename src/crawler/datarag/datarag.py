@@ -37,14 +37,14 @@ class Datarag:
         response = requests.get('https://raw.githubusercontent.com/amir-karami/Workplace_Sexual_Harassment/master/EverySexsism-data-Workspace-Final.txt').content.decode('iso8859-1')
         questions = []
         data = response.split('\r\n')
-        for i in range(0, 10):
+        for i in [0, 1, 3, 4, 5]:
             # index = random.randrange(len(data))
             questions.append(data[i])
         return questions
 
     def start(self):
         df = pd.read_csv('../dataset_domain/data.csv')
-        for state in ['utah', 'maryland', 'south_carolina', 'kansas', 'massachusetts']:
+        for state in ['maryland', 'south_carolina', 'kansas', 'massachusetts', 'utah']:
             try:
                 print("Rag Stated for {}".format(state))
                 documents = SimpleDirectoryReader(input_files=["../output_domain/{}.txt".format(state)]).load_data()
