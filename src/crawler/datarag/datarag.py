@@ -44,7 +44,7 @@ class Datarag:
 
     def start(self):
         df = pd.read_csv('../dataset_domain/data.csv')
-        for state in df['state'].unique():
+        for state in ['utah']:
             print("Rag Stated for {}".format(state))
             documents = SimpleDirectoryReader(input_files=["../output_domain/{}.txt".format(state)]).load_data()
             documents = self.add_metadata(documents)
@@ -98,14 +98,14 @@ class Datarag:
         for instance in self.input_instances:
             question = "Here is the example of people's experience of getting harassed: - \n{} \nCan you plan and provide the resolution of above harassment/discrimination based on Title IX Implementation in {}, considering that the same case happened in some univerity or in some workspace. Please provide the {} state specific resolution.".format(instance, state, state)
             self.evaluate_instances(question)
-        with open("../datadump/{}_new.json".format(state), "w") as f:
+        with open("../datadump/{}.json".format(state), "w") as f:
             json.dump(self.result, f)
-        with open("../datadump/{}_new.json".format(state), 'r') as openfile:
+        with open("../datadump/{}.json".format(state), 'r') as openfile:
             json_object = json.load(openfile)
         final = ''
         for values in json_object:
             final = final + '\nQuestion : - {}\n\nAnswer : - {}\n'.format(values['Question'], values['Response'])
-        with open("../datadump/{}_new.txt".format(state), "w", encoding="utf-8") as f:
+        with open("../datadump/{}.txt".format(state), "w", encoding="utf-8") as f:
             f.write(final)
 
     def evaluate(self, question):
