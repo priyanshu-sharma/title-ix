@@ -38,24 +38,27 @@ class Datarag:
         questions = []
         data = response.split('\r\n')
         for i in range(0, 10):
-            index = random.randrange(len(data))
-            questions.append(data[index])
+            # index = random.randrange(len(data))
+            questions.append(data[i])
         return questions
 
     def start(self):
         df = pd.read_csv('../dataset_domain/data.csv')
-        for state in ['utah']:
-            print("Rag Stated for {}".format(state))
-            documents = SimpleDirectoryReader(input_files=["../output_domain/{}.txt".format(state)]).load_data()
-            documents = self.add_metadata(documents)
-            self.reader_dict[state] = {'documents': documents}
-            db = chromadb.PersistentClient(path="./{}".format(state))
-            chroma_collection = db.get_or_create_collection("{}_title".format(state))
-            vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
-            pipeline = IngestionPipeline(transformations=self.transformations, vector_store=vector_store)
-            nodes = pipeline.run(documents=documents)    
-            storage_context = StorageContext.from_defaults(vector_store=vector_store)
-            self.initialize_indexing(nodes, self.service_context, storage_context, state)
+        for state in ['utah', 'maryland', 'south_carolina', 'kansas', 'massachusetts']:
+            try:
+                print("Rag Stated for {}".format(state))
+                documents = SimpleDirectoryReader(input_files=["../output_domain/{}.txt".format(state)]).load_data()
+                documents = self.add_metadata(documents)
+                self.reader_dict[state] = {'documents': documents}
+                db = chromadb.PersistentClient(path="./{}".format(state))
+                chroma_collection = db.get_or_create_collection("{}_title".format(state))
+                vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
+                pipeline = IngestionPipeline(transformations=self.transformations, vector_store=vector_store)
+                nodes = pipeline.run(documents=documents)
+                storage_context = StorageContext.from_defaults(vector_store=vector_store)
+                self.initialize_indexing(nodes, self.service_context, storage_context, state)
+            except Exception as e:
+                print(e)
 
     def add_metadata(self, documents):
         for document in documents:
