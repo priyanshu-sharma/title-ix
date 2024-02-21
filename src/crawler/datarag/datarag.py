@@ -6,13 +6,13 @@ import random
 import requests
 import chromadb
 import pandas as pd
-from llama_index import ServiceContext, SimpleDirectoryReader, VectorStoreIndex
-from llama_index.embeddings import HuggingFaceEmbedding
-from llama_index.ingestion import IngestionPipeline
-from llama_index.llms import Ollama
-from llama_index.node_parser import SemanticSplitterNodeParser
-from llama_index.storage.storage_context import StorageContext
-from llama_index.vector_stores import ChromaVectorStore
+from llama_index.legacy import ServiceContext, SimpleDirectoryReader, VectorStoreIndex
+from llama_index.legacy.embeddings import HuggingFaceEmbedding
+from llama_index.legacy.ingestion import IngestionPipeline
+from llama_index.legacy.llms import Ollama
+from llama_index.legacy.node_parser import SemanticSplitterNodeParser
+from llama_index.legacy.storage.storage_context import StorageContext
+from llama_index.legacy.vector_stores import ChromaVectorStore
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
@@ -44,7 +44,7 @@ class Datarag:
 
     def start(self):
         df = pd.read_csv('../dataset_domain/data.csv')
-        state = 'california'
+        state = 'south_dakota'
         print("Rag Stated for {}".format(state))
         documents = SimpleDirectoryReader(input_files=["../output_domain/{}.txt".format(state)]).load_data()
         documents = self.add_metadata(documents)
