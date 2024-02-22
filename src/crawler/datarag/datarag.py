@@ -44,7 +44,7 @@ class Datarag:
 
     def start(self):
         df = pd.read_csv('../dataset_domain/data.csv')
-        state = 'massachusetts'
+        state = 'kansas'
         print("Rag Stated for {}".format(state))
         documents = SimpleDirectoryReader(input_files=["../output_domain/{}.txt".format(state)]).load_data()
         documents = self.add_metadata(documents)
