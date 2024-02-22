@@ -20,7 +20,7 @@ logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 class Datarag:
     def __init__(self):
         start = time.time()
-        llm = Ollama(model="mistral", request_timeout=1000)
+        llm = Ollama(model="mistral", base_url="http://127.0.0.1:11434", request_timeout=1000)
         embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
         self.transformations = [
             SemanticSplitterNodeParser(buffer_size=1, breakpoint_percentile_threshold=95, embed_model=embed_model, num_workers=8),
