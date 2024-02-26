@@ -58,6 +58,6 @@ for state in states:
         json_object = json.load(openfile)
     final = ''
     for values in json_object:
-        final = final + '\nQuestion : - {}\n\nAnswer : - {}\n\nScoring : - {}\n'.format(values['Question'], values['Response'], values['Scoring'])
+        final = final + '\nQuestion : - {}\n\nAnswer : - {}\n\nHelpfulness : - {}\n\nHuman-Likeness : - {}\n\nRelevance : - {}\n\nContextual Information : - {}\n\nEmpathy : - {}\n'.format(values['Question'], values['Response'], values['helpful_score'], values['humanlike_score'], values['relevance_score'], values['contextual_score'], values['empathy_score'])
     with open("../datadump/{}_new_scoring.txt".format(state), "w", encoding="utf-8") as f:
         f.write(final)
