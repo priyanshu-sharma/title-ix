@@ -39,7 +39,7 @@ for state in states:
         relevance_content = relevance_content.format(question, answer)
         relevance_content_response = ollama.chat(model='mistral', messages=[{'role': 'user', 'content': relevance_content}])
         relevance_content_result = relevance_content_response['message']['content']
-        contextual_content, contextual_contents_metrices = get_contextual_metrics()
+        contextual_content = get_contextual_metrics()
         contextual_content = contextual_content.format(question, answer)
         contextual_content_response = ollama.chat(model='mistral', messages=[{'role': 'user', 'content': contextual_content}])
         contextual_content_result = contextual_content_response['message']['content']
