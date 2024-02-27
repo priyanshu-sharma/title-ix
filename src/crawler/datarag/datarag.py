@@ -37,7 +37,7 @@ class Datarag:
         response = requests.get('https://raw.githubusercontent.com/amir-karami/Workplace_Sexual_Harassment/master/EverySexsism-data-Workspace-Final.txt').content.decode('iso8859-1')
         questions = []
         data = response.split('\r\n')
-        for i in [0, 1, 3, 4, 5]:
+        for i in range(0, 50):
             # index = random.randrange(len(data))
             questions.append(data[i])
         return questions
